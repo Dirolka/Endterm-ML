@@ -1,0 +1,16 @@
+{
+  "raw_rows": 1250,
+  "train_rows": 1000,
+  "test_rows": 250,
+  "classes": {
+    "Middle": 470,
+    "Junior": 396,
+    "Senior": 384
+  },
+  "missing_salary": 344,
+  "database": {
+    "rows": 1250,
+    "csv_db_all_raw_fields_match": true
+  },
+  "split_valid": true
+}

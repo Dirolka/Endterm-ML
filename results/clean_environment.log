@@ -1,0 +1,261 @@
+RUN ['/Users/diyarzhvachkin/PycharmProjects/MLEndterm/build/clean_room/.venv/bin/python', '-m', 'pip', 'install', '-r', 'requirements.txt']
+Collecting numpy==2.5.4 (from -r requirements.txt (line 2))
+  Using cached numpy-2.5.4-cp315-cp315-macosx_14_0_arm64.whl.metadata (6.6 kB)
+Collecting pandas==3.1.1 (from -r requirements.txt (line 3))
+  Using cached pandas-3.1.1-cp315-cp315-macosx_11_0_arm64.whl.metadata (16 kB)
+Collecting scikit-learn==1.9.1 (from -r requirements.txt (line 4))
+  Using cached scikit_learn-1.9.1-cp315-cp315-macosx_12_0_arm64.whl.metadata (9.3 kB)
+Collecting matplotlib==3.11.2 (from -r requirements.txt (line 5))
+  Using cached matplotlib-3.11.2-cp315-cp315-macosx_11_0_arm64.whl.metadata (80 kB)
+Collecting joblib==1.6.0 (from -r requirements.txt (line 6))
+  Using cached joblib-1.6.0-py3-none-any.whl.metadata (6.5 kB)
+Collecting threadpoolctl==3.8.0 (from -r requirements.txt (line 7))
+  Using cached threadpoolctl-3.8.0-py3-none-any.whl.metadata (29 kB)
+Collecting python-pptx==1.0.2 (from -r requirements.txt (line 8))
+  Using cached python_pptx-1.0.2-py3-none-any.whl.metadata (2.5 kB)
+Collecting pypdf==7.0.0 (from -r requirements.txt (line 9))
+  Using cached pypdf-7.0.0-py3-none-any.whl.metadata (7.6 kB)
+Collecting nbformat==5.11.1 (from -r requirements.txt (line 10))
+  Using cached nbformat-5.11.1-py3-none-any.whl.metadata (3.7 kB)
+Collecting nbclient==0.11.0 (from -r requirements.txt (line 11))
+  Using cached nbclient-0.11.0-py3-none-any.whl.metadata (7.3 kB)
+Collecting ipykernel==7.4.0 (from -r requirements.txt (line 12))
+  Using cached ipykernel-7.4.0-py3-none-any.whl.metadata (3.4 kB)
+Collecting pytest==9.2.0 (from -r requirements.txt (line 13))
+  Using cached pytest-9.2.0-py3-none-any.whl.metadata (7.9 kB)
+Collecting python-dateutil>=2.9.0 (from pandas==3.1.1->-r requirements.txt (line 3))
+  Using cached python_dateutil-4.0.0-py3-none-any.whl.metadata (7.3 kB)
+Collecting scipy>=1.10.0 (from scikit-learn==1.9.1->-r requirements.txt (line 4))
+  Using cached scipy-1.18.1-cp315-cp315-macosx_14_0_arm64.whl.metadata (62 kB)
+Collecting narwhals>=2.0.1 (from scikit-learn==1.9.1->-r requirements.txt (line 4))
+  Using cached narwhals-2.28.0-py3-none-any.whl.metadata (15 kB)
+Collecting contourpy>=1.0.1 (from matplotlib==3.11.2->-r requirements.txt (line 5))
+  Using cached contourpy-1.4.0-cp315-cp315-macosx_11_0_arm64.whl.metadata (3.8 kB)
+Collecting cycler>=0.10 (from matplotlib==3.11.2->-r requirements.txt (line 5))
+  Using cached cycler-0.12.1-py3-none-any.whl.metadata (3.8 kB)
+Collecting fonttools>=4.28.2 (from matplotlib==3.11.2->-r requirements.txt (line 5))
+  Using cached fonttools-4.68.0-cp315-cp315-macosx_10_15_universal2.whl.metadata (139 kB)
+Collecting kiwisolver>=1.3.1 (from matplotlib==3.11.2->-r requirements.txt (line 5))
+  Using cached kiwisolver-1.5.1-cp315-cp315-macosx_11_0_arm64.whl.metadata (5.2 kB)
+Collecting packaging>=20.0 (from matplotlib==3.11.2->-r requirements.txt (line 5))
+  Using cached packaging-26.3-py3-none-any.whl.metadata (3.5 kB)
+Collecting pillow>=9 (from matplotlib==3.11.2->-r requirements.txt (line 5))
+  Using cached pillow-13.0.0-cp315-cp315-macosx_11_0_arm64.whl.metadata (9.1 kB)
+Collecting pyparsing>=3 (from matplotlib==3.11.2->-r requirements.txt (line 5))
+  Using cached pyparsing-3.3.3-py3-none-any.whl.metadata (5.9 kB)
+Collecting cloudpickle>=3.0 (from joblib==1.6.0->-r requirements.txt (line 6))
+  Using cached cloudpickle-3.1.2-py3-none-any.whl.metadata (7.1 kB)
+Collecting XlsxWriter>=0.5.7 (from python-pptx==1.0.2->-r requirements.txt (line 8))
+  Using cached xlsxwriter-3.3.1-py3-none-any.whl.metadata (2.9 kB)
+Collecting lxml>=3.1.0 (from python-pptx==1.0.2->-r requirements.txt (line 8))
+  Using cached lxml-6.1.3-cp315-cp315-macosx_10_15_universal2.whl.metadata (3.3 kB)
+Collecting typing-extensions>=4.9.0 (from python-pptx==1.0.2->-r requirements.txt (line 8))
+  Using cached typing_extensions-4.16.0-py3-none-any.whl.metadata (3.3 kB)
+Collecting fastjsonschema>=2.15 (from nbformat==5.11.1->-r requirements.txt (line 10))
+  Using cached fastjsonschema-2.22.3-py3-none-any.whl.metadata (2.1 kB)
+Collecting jsonschema>=2.6 (from nbformat==5.11.1->-r requirements.txt (line 10))
+  Using cached jsonschema-4.26.0-py3-none-any.whl.metadata (7.6 kB)
+Collecting jupyter-core!=5.0.*,>=4.12 (from nbformat==5.11.1->-r requirements.txt (line 10))
+  Using cached jupyter_core-5.9.1-py3-none-any.whl.metadata (1.5 kB)
+Collecting traitlets>=5.1 (from nbformat==5.11.1->-r requirements.txt (line 10))
+  Using cached traitlets-5.16.1-py3-none-any.whl.metadata (10 kB)
+Collecting jupyter-client>=7.0.0 (from nbclient==0.11.0->-r requirements.txt (line 11))
+  Using cached jupyter_client-8.10.0-py3-none-any.whl.metadata (8.5 kB)
+Collecting appnope>=0.1.2 (from ipykernel==7.4.0->-r requirements.txt (line 12))
+  Using cached appnope-1.0.0-py3-none-any.whl.metadata (982 bytes)
+Collecting comm>=0.1.1 (from ipykernel==7.4.0->-r requirements.txt (line 12))
+  Using cached comm-0.2.3-py3-none-any.whl.metadata (3.7 kB)
+Collecting debugpy>=1.6.5 (from ipykernel==7.4.0->-r requirements.txt (line 12))
+  Using cached debugpy-1.8.22-cp315-cp315-macosx_15_0_universal2.whl.metadata (1.4 kB)
+Collecting ipython>=7.23.1 (from ipykernel==7.4.0->-r requirements.txt (line 12))
+  Using cached ipython-9.18.1-py3-none-any.whl.metadata (4.6 kB)
+Collecting matplotlib-inline>=0.1 (from ipykernel==7.4.0->-r requirements.txt (line 12))
+  Using cached matplotlib_inline-0.2.2-py3-none-any.whl.metadata (2.4 kB)
+Collecting nest-asyncio2>=1.7.0 (from ipykernel==7.4.0->-r requirements.txt (line 12))
+  Using cached nest_asyncio2-1.7.4-py3-none-any.whl.metadata (7.0 kB)
+Collecting pyzmq>=25 (from ipykernel==7.4.0->-r requirements.txt (line 12))
+  Using cached pyzmq-27.3.0-cp312-abi3-macosx_10_15_universal2.whl.metadata (3.8 kB)
+Collecting tornado>=6.5.7 (from ipykernel==7.4.0->-r requirements.txt (line 12))
+  Using cached tornado-6.6-cp311-abi3-macosx_10_9_universal2.whl.metadata (2.6 kB)
+Collecting iniconfig>=2 (from pytest==9.2.0->-r requirements.txt (line 13))
+  Using cached iniconfig-2.3.1-py3-none-any.whl.metadata (2.8 kB)
+Collecting pluggy<2,>=1.6 (from pytest==9.2.0->-r requirements.txt (line 13))
+  Using cached pluggy-1.7.0-py3-none-any.whl.metadata (5.0 kB)
+Collecting pygments>=2.15 (from pytest==9.2.0->-r requirements.txt (line 13))
+  Using cached pygments-2.21.0-py3-none-any.whl.metadata (2.5 kB)
+Collecting ipython-pygments-lexers>=1.0.0 (from ipython>=7.23.1->ipykernel==7.4.0->-r requirements.txt (line 12))
+  Using cached ipython_pygments_lexers-1.1.1-py3-none-any.whl.metadata (1.1 kB)
+Collecting jedi>=0.18.2 (from ipython>=7.23.1->ipykernel==7.4.0->-r requirements.txt (line 12))
+  Using cached jedi-0.20.1-py2.py3-none-any.whl.metadata (23 kB)
+Collecting pexpect>4.6 (from ipython>=7.23.1->ipykernel==7.4.0->-r requirements.txt (line 12))
+  Using cached pexpect-4.9.0-py2.py3-none-any.whl.metadata (2.5 kB)
+Collecting prompt_toolkit<3.1.0,>=3.0.41 (from ipython>=7.23.1->ipykernel==7.4.0->-r requirements.txt (line 12))
+  Using cached prompt_toolkit-3.0.53-py3-none-any.whl.metadata (6.4 kB)
+Collecting psutil>=7 (from ipython>=7.23.1->ipykernel==7.4.0->-r requirements.txt (line 12))
+  Using cached psutil-7.2.2-cp36-abi3-macosx_11_0_arm64.whl.metadata (22 kB)
+Collecting stack_data>=0.6.0 (from ipython>=7.23.1->ipykernel==7.4.0->-r requirements.txt (line 12))
+  Using cached stack_data-0.6.3-py3-none-any.whl.metadata (18 kB)
+Collecting wcwidth>=0.1.4 (from prompt_toolkit<3.1.0,>=3.0.41->ipython>=7.23.1->ipykernel==7.4.0->-r requirements.txt (line 12))
+  Using cached wcwidth-0.9.4-cp310-abi3-macosx_11_0_arm64.whl.metadata (23 kB)
+Collecting parso<0.9.0,>=0.8.7 (from jedi>=0.18.2->ipython>=7.23.1->ipykernel==7.4.0->-r requirements.txt (line 12))
+  Using cached parso-0.8.7-py2.py3-none-any.whl.metadata (8.2 kB)
+Collecting attrs>=22.2.0 (from jsonschema>=2.6->nbformat==5.11.1->-r requirements.txt (line 10))
+  Using cached attrs-26.1.0-py3-none-any.whl.metadata (8.8 kB)
+Collecting jsonschema-specifications>=2023.03.6 (from jsonschema>=2.6->nbformat==5.11.1->-r requirements.txt (line 10))
+  Using cached jsonschema_specifications-2025.9.1-py3-none-any.whl.metadata (2.9 kB)
+Collecting referencing>=0.28.4 (from jsonschema>=2.6->nbformat==5.11.1->-r requirements.txt (line 10))
+  Using cached referencing-0.37.0-py3-none-any.whl.metadata (2.8 kB)
+Collecting rpds-py>=0.25.0 (from jsonschema>=2.6->nbformat==5.11.1->-r requirements.txt (line 10))
+  Using cached rpds_py-2026.9.1-cp315-cp315-macosx_11_0_arm64.whl.metadata (4.1 kB)
+Collecting platformdirs>=2.5 (from jupyter-core!=5.0.*,>=4.12->nbformat==5.11.1->-r requirements.txt (line 10))
+  Using cached platformdirs-4.14.5-py3-none-any.whl.metadata (5.7 kB)
+Collecting ptyprocess>=0.5 (from pexpect>4.6->ipython>=7.23.1->ipykernel==7.4.0->-r requirements.txt (line 12))
+  Using cached ptyprocess-0.7.0-py2.py3-none-any.whl.metadata (1.3 kB)
+Collecting tzdata (from python-dateutil>=2.9.0->pandas==3.1.1->-r requirements.txt (line 3))
+  Using cached tzdata-2026.6-py2.py3-none-any.whl.metadata (1.4 kB)
+Collecting executing>=1.2.0 (from stack_data>=0.6.0->ipython>=7.23.1->ipykernel==7.4.0->-r requirements.txt (line 12))
+  Using cached executing-2.3.0-py3-none-any.whl.metadata (9.1 kB)
+Collecting asttokens>=2.1.0 (from stack_data>=0.6.0->ipython>=7.23.1->ipykernel==7.4.0->-r requirements.txt (line 12))
+  Using cached asttokens-3.0.2-py3-none-any.whl.metadata (5.7 kB)
+Collecting pure-eval (from stack_data>=0.6.0->ipython>=7.23.1->ipykernel==7.4.0->-r requirements.txt (line 12))
+  Using cached pure_eval-0.2.4-py3-none-any.whl.metadata (6.4 kB)
+Using cached numpy-2.5.4-cp315-cp315-macosx_14_0_arm64.whl (5.5 MB)
+Using cached pandas-3.1.1-cp315-cp315-macosx_11_0_arm64.whl (11.3 MB)
+Using cached scikit_learn-1.9.1-cp315-cp315-macosx_12_0_arm64.whl (8.3 MB)
+Using cached matplotlib-3.11.2-cp315-cp315-macosx_11_0_arm64.whl (9.3 MB)
+Using cached joblib-1.6.0-py3-none-any.whl (306 kB)
+Using cached threadpoolctl-3.8.0-py3-none-any.whl (32 kB)
+Using cached python_pptx-1.0.2-py3-none-any.whl (472 kB)
+Using cached pypdf-7.0.0-py3-none-any.whl (413 kB)
+Using cached nbformat-5.11.1-py3-none-any.whl (79 kB)
+Using cached nbclient-0.11.0-py3-none-any.whl (25 kB)
+Using cached ipykernel-7.4.0-py3-none-any.whl (123 kB)
+Using cached pytest-9.2.0-py3-none-any.whl (411 kB)
+Using cached pluggy-1.7.0-py3-none-any.whl (27 kB)
+Using cached appnope-1.0.0-py3-none-any.whl (4.2 kB)
+Using cached cloudpickle-3.1.2-py3-none-any.whl (22 kB)
+Using cached comm-0.2.3-py3-none-any.whl (7.3 kB)
+Using cached contourpy-1.4.0-cp315-cp315-macosx_11_0_arm64.whl (283 kB)
+Using cached cycler-0.12.1-py3-none-any.whl (8.3 kB)
+Using cached debugpy-1.8.22-cp315-cp315-macosx_15_0_universal2.whl (2.5 MB)
+Using cached fastjsonschema-2.22.3-py3-none-any.whl (28 kB)
+Using cached fonttools-4.68.0-cp315-cp315-macosx_10_15_universal2.whl (3.1 MB)
+Using cached iniconfig-2.3.1-py3-none-any.whl (7.6 kB)
+Using cached ipython-9.18.1-py3-none-any.whl (649 kB)
+Using cached prompt_toolkit-3.0.53-py3-none-any.whl (392 kB)
+Using cached ipython_pygments_lexers-1.1.1-py3-none-any.whl (8.1 kB)
+Using cached jedi-0.20.1-py2.py3-none-any.whl (4.9 MB)
+Using cached parso-0.8.7-py2.py3-none-any.whl (107 kB)
+Using cached jsonschema-4.26.0-py3-none-any.whl (90 kB)
+Using cached attrs-26.1.0-py3-none-any.whl (67 kB)
+Using cached jsonschema_specifications-2025.9.1-py3-none-any.whl (18 kB)
+Using cached jupyter_client-8.10.0-py3-none-any.whl (110 kB)
+Using cached jupyter_core-5.9.1-py3-none-any.whl (29 kB)
+Using cached kiwisolver-1.5.1-cp315-cp315-macosx_11_0_arm64.whl (64 kB)
+Using cached lxml-6.1.3-cp315-cp315-macosx_10_15_universal2.whl (8.6 MB)
+Using cached matplotlib_inline-0.2.2-py3-none-any.whl (9.5 kB)
+Using cached narwhals-2.28.0-py3-none-any.whl (490 kB)
+Using cached nest_asyncio2-1.7.4-py3-none-any.whl (8.5 kB)
+Using cached packaging-26.3-py3-none-any.whl (129 kB)
+Using cached pexpect-4.9.0-py2.py3-none-any.whl (63 kB)
+Using cached pillow-13.0.0-cp315-cp315-macosx_11_0_arm64.whl (4.9 MB)
+Using cached platformdirs-4.14.5-py3-none-any.whl (35 kB)
+Using cached psutil-7.2.2-cp36-abi3-macosx_11_0_arm64.whl (129 kB)
+Using cached ptyprocess-0.7.0-py2.py3-none-any.whl (13 kB)
+Using cached pygments-2.21.0-py3-none-any.whl (1.3 MB)
+Using cached pyparsing-3.3.3-py3-none-any.whl (126 kB)
+Using cached python_dateutil-4.0.0-py3-none-any.whl (92 kB)
+Using cached pyzmq-27.3.0-cp312-abi3-macosx_10_15_universal2.whl (1.2 MB)
+Using cached referencing-0.37.0-py3-none-any.whl (26 kB)
+Using cached rpds_py-2026.9.1-cp315-cp315-macosx_11_0_arm64.whl (342 kB)
+Using cached scipy-1.18.1-cp315-cp315-macosx_14_0_arm64.whl (20.5 MB)
+Using cached stack_data-0.6.3-py3-none-any.whl (24 kB)
+Using cached asttokens-3.0.2-py3-none-any.whl (28 kB)
+Using cached executing-2.3.0-py3-none-any.whl (29 kB)
+Using cached tornado-6.6-cp311-abi3-macosx_10_9_universal2.whl (528 kB)
+Using cached traitlets-5.16.1-py3-none-any.whl (86 kB)
+Using cached typing_extensions-4.16.0-py3-none-any.whl (45 kB)
+Using cached wcwidth-0.9.4-cp310-abi3-macosx_11_0_arm64.whl (618 kB)
+Using cached xlsxwriter-3.3.1-py3-none-any.whl (180 kB)
+Using cached pure_eval-0.2.4-py3-none-any.whl (11 kB)
+Using cached tzdata-2026.6-py2.py3-none-any.whl (348 kB)
+Installing collected packages: pure-eval, ptyprocess, XlsxWriter, wcwidth, tzdata, typing-extensions, traitlets, tornado, threadpoolctl, rpds-py, pyzmq, pypdf, pyparsing, pygments, psutil, pluggy, platformdirs, pillow, pexpect, parso, packaging, numpy, nest-asyncio2, narwhals, lxml, kiwisolver, iniconfig, fonttools, fastjsonschema, executing, debugpy, cycler, comm, cloudpickle, attrs, asttokens, appnope, stack_data, scipy, referencing, python-pptx, python-dateutil, pytest, prompt_toolkit, matplotlib-inline, jupyter-core, joblib, jedi, ipython-pygments-lexers, contourpy, scikit-learn, pandas, matplotlib, jupyter-client, jsonschema-specifications, ipython, jsonschema, ipykernel, nbformat, nbclient
+
+Successfully installed XlsxWriter-3.3.1 appnope-1.0.0 asttokens-3.0.2 attrs-26.1.0 cloudpickle-3.1.2 comm-0.2.3 contourpy-1.4.0 cycler-0.12.1 debugpy-1.8.22 executing-2.3.0 fastjsonschema-2.22.3 fonttools-4.68.0 iniconfig-2.3.1 ipykernel-7.4.0 ipython-9.18.1 ipython-pygments-lexers-1.1.1 jedi-0.20.1 joblib-1.6.0 jsonschema-4.26.0 jsonschema-specifications-2025.9.1 jupyter-client-8.10.0 jupyter-core-5.9.1 kiwisolver-1.5.1 lxml-6.1.3 matplotlib-3.11.2 matplotlib-inline-0.2.2 narwhals-2.28.0 nbclient-0.11.0 nbformat-5.11.1 nest-asyncio2-1.7.4 numpy-2.5.4 packaging-26.3 pandas-3.1.1 parso-0.8.7 pexpect-4.9.0 pillow-13.0.0 platformdirs-4.14.5 pluggy-1.7.0 prompt_toolkit-3.0.53 psutil-7.2.2 ptyprocess-0.7.0 pure-eval-0.2.4 pygments-2.21.0 pyparsing-3.3.3 pypdf-7.0.0 pytest-9.2.0 python-dateutil-4.0.0 python-pptx-1.0.2 pyzmq-27.3.0 referencing-0.37.0 rpds-py-2026.9.1 scikit-learn-1.9.1 scipy-1.18.1 stack_data-0.6.3 threadpoolctl-3.8.0 tornado-6.6 traitlets-5.16.1 typing-extensions-4.16.0 tzdata-2026.6 wcwidth-0.9.4
+
+[notice] A new release of pip is available: 26.2.2 -> 26.3
+[notice] To update, run: /Users/diyarzhvachkin/PycharmProjects/MLEndterm/build/clean_room/.venv/bin/python -m pip install --upgrade pip
+RUN ['/Users/diyarzhvachkin/PycharmProjects/MLEndterm/build/clean_room/.venv/bin/python', '-m', 'src.run_experiments']
+Matplotlib is building the font cache; this may take a moment.
+Validated dataset and split {'raw_rows': 1250, 'train_rows': 1000, 'test_rows': 250, 'classes': {'Middle': 470, 'Junior': 396, 'Senior': 384}, 'missing_salary': 344, 'database': {'rows': 1250, 'csv_db_all_raw_fields_match': True}, 'split_valid': True}
+[Data Preparation] Loaded 1250 raw rows from /Users/diyarzhvachkin/PycharmProjects/MLEndterm/build/clean_room/IT_job_vacancies-main/hh_vacancies_raw_snapshot.csv
+[Data Preparation] Target distribution:
+grade
+Middle    0.376
+Junior    0.317
+Senior    0.307
+Name: proportion, dtype: float64
+Training CV: Dummy
+Dummy {'params': {}, 'cv_mean': np.float64(0.18216952129995606), 'cv_std': np.float64(0.000702678963548542)}
+Training CV: Logistic Regression
+Logistic Regression {'params': {}, 'cv_mean': np.float64(0.8451308155793559), 'cv_std': np.float64(0.022750055758821726)}
+Training CV: KNN
+KNN {'params': {}, 'cv_mean': np.float64(0.7934219798847642), 'cv_std': np.float64(0.019011114356935165)}
+Training CV: Random Forest
+Random Forest {'params': {'model__max_depth': None, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 1, 'model__n_estimators': 100}, 'cv_mean': np.float64(0.8521187169594915), 'cv_std': np.float64(0.015239695840941196)}
+Training CV: Boosting
+Boosting {'params': {'model__l2_regularization': 0, 'model__learning_rate': 0.05, 'model__max_iter': 100, 'model__max_leaf_nodes': 7}, 'cv_mean': np.float64(0.8694510636778231), 'cv_std': np.float64(0.011929426853862755)}
+Training CV: MLP
+/Users/diyarzhvachkin/PycharmProjects/MLEndterm/build/clean_room/.venv/lib/python3.15/site-packages/sklearn/neural_network/_multilayer_perceptron.py:785: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (250) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/Users/diyarzhvachkin/PycharmProjects/MLEndterm/build/clean_room/.venv/lib/python3.15/site-packages/sklearn/neural_network/_multilayer_perceptron.py:785: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (250) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/Users/diyarzhvachkin/PycharmProjects/MLEndterm/build/clean_room/.venv/lib/python3.15/site-packages/sklearn/neural_network/_multilayer_perceptron.py:785: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (250) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/Users/diyarzhvachkin/PycharmProjects/MLEndterm/build/clean_room/.venv/lib/python3.15/site-packages/sklearn/neural_network/_multilayer_perceptron.py:785: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (250) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/Users/diyarzhvachkin/PycharmProjects/MLEndterm/build/clean_room/.venv/lib/python3.15/site-packages/sklearn/neural_network/_multilayer_perceptron.py:785: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (250) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/Users/diyarzhvachkin/PycharmProjects/MLEndterm/build/clean_room/.venv/lib/python3.15/site-packages/sklearn/neural_network/_multilayer_perceptron.py:785: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (250) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/Users/diyarzhvachkin/PycharmProjects/MLEndterm/build/clean_room/.venv/lib/python3.15/site-packages/sklearn/neural_network/_multilayer_perceptron.py:785: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (250) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/Users/diyarzhvachkin/PycharmProjects/MLEndterm/build/clean_room/.venv/lib/python3.15/site-packages/sklearn/neural_network/_multilayer_perceptron.py:785: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (250) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/Users/diyarzhvachkin/PycharmProjects/MLEndterm/build/clean_room/.venv/lib/python3.15/site-packages/sklearn/neural_network/_multilayer_perceptron.py:785: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (250) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/Users/diyarzhvachkin/PycharmProjects/MLEndterm/build/clean_room/.venv/lib/python3.15/site-packages/sklearn/neural_network/_multilayer_perceptron.py:785: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (250) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/Users/diyarzhvachkin/PycharmProjects/MLEndterm/build/clean_room/.venv/lib/python3.15/site-packages/sklearn/neural_network/_multilayer_perceptron.py:785: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (400) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/Users/diyarzhvachkin/PycharmProjects/MLEndterm/build/clean_room/.venv/lib/python3.15/site-packages/sklearn/neural_network/_multilayer_perceptron.py:785: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (400) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/Users/diyarzhvachkin/PycharmProjects/MLEndterm/build/clean_room/.venv/lib/python3.15/site-packages/sklearn/neural_network/_multilayer_perceptron.py:785: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (400) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/Users/diyarzhvachkin/PycharmProjects/MLEndterm/build/clean_room/.venv/lib/python3.15/site-packages/sklearn/neural_network/_multilayer_perceptron.py:785: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (400) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/Users/diyarzhvachkin/PycharmProjects/MLEndterm/build/clean_room/.venv/lib/python3.15/site-packages/sklearn/neural_network/_multilayer_perceptron.py:785: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (400) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/Users/diyarzhvachkin/PycharmProjects/MLEndterm/build/clean_room/.venv/lib/python3.15/site-packages/sklearn/neural_network/_multilayer_perceptron.py:785: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (400) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/Users/diyarzhvachkin/PycharmProjects/MLEndterm/build/clean_room/.venv/lib/python3.15/site-packages/sklearn/neural_network/_multilayer_perceptron.py:785: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (400) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/Users/diyarzhvachkin/PycharmProjects/MLEndterm/build/clean_room/.venv/lib/python3.15/site-packages/sklearn/neural_network/_multilayer_perceptron.py:785: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (400) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/Users/diyarzhvachkin/PycharmProjects/MLEndterm/build/clean_room/.venv/lib/python3.15/site-packages/sklearn/neural_network/_multilayer_perceptron.py:785: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (400) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/Users/diyarzhvachkin/PycharmProjects/MLEndterm/build/clean_room/.venv/lib/python3.15/site-packages/sklearn/neural_network/_multilayer_perceptron.py:785: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (400) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/Users/diyarzhvachkin/PycharmProjects/MLEndterm/build/clean_room/.venv/lib/python3.15/site-packages/sklearn/neural_network/_multilayer_perceptron.py:785: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (250) reached and the optimization hasn't converged yet.
+  warnings.warn(
+MLP {'params': {'model__activation': 'relu', 'model__alpha': 0.1, 'model__hidden_layer_sizes': (32,), 'model__learning_rate_init': 0.001, 'model__max_iter': 250}, 'cv_mean': np.float64(0.8048095482161237), 'cv_std': np.float64(0.02072251039548298)}
+              model  cv_mean   cv_std  test_accuracy  test_macro_f1  test_precision  test_recall
+           Boosting 0.869451 0.011929          0.848       0.847777        0.851385     0.847226
+      Random Forest 0.852119 0.015240          0.840       0.840252        0.839396     0.843265
+Logistic Regression 0.845131 0.022750          0.816       0.817202        0.816573     0.820532
+                MLP 0.804810 0.020723          0.808       0.809284        0.809352     0.810418
+                KNN 0.793422 0.019011          0.800       0.798773        0.807183     0.802778
+              Dummy 0.182170 0.000703          0.376       0.182171        0.125333     0.333333
+RUN ['/Users/diyarzhvachkin/PycharmProjects/MLEndterm/build/clean_room/.venv/bin/python', '-m', 'pytest', '-q']
+...........                                                              [100%]
+11 passed in 0.89s

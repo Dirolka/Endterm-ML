@@ -1,0 +1,13 @@
+.venv/
+.idea/
+__pycache__/
+.pytest_cache/
+.ipynb_checkpoints/
+.DS_Store
+*.py[cod]
+*.zip
+~$*
+build/
+archive/
+presentation/previews/
+SUBMISSION_MANIFEST.json

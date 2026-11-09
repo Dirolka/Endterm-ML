@@ -1,0 +1,54 @@
+{
+  "criterion": "Highest mean training 5-fold macro F1; test scores not used",
+  "preferred_model": "Boosting",
+  "models": {
+    "Dummy": {
+      "params": {},
+      "cv_mean": 0.18216952129995606,
+      "cv_std": 0.000702678963548542
+    },
+    "Logistic Regression": {
+      "params": {},
+      "cv_mean": 0.8451308155793559,
+      "cv_std": 0.022750055758821726
+    },
+    "KNN": {
+      "params": {},
+      "cv_mean": 0.7934219798847642,
+      "cv_std": 0.019011114356935165
+    },
+    "Random Forest": {
+      "params": {
+        "model__max_depth": null,
+        "model__max_features": "sqrt",
+        "model__min_samples_leaf": 1,
+        "model__n_estimators": 100
+      },
+      "cv_mean": 0.8521187169594915,
+      "cv_std": 0.015239695840941196
+    },
+    "Boosting": {
+      "params": {
+        "model__l2_regularization": 0,
+        "model__learning_rate": 0.05,
+        "model__max_iter": 100,
+        "model__max_leaf_nodes": 7
+      },
+      "cv_mean": 0.8694510636778231,
+      "cv_std": 0.011929426853862755
+    },
+    "MLP": {
+      "params": {
+        "model__activation": "relu",
+        "model__alpha": 0.1,
+        "model__hidden_layer_sizes": [
+          32
+        ],
+        "model__learning_rate_init": 0.001,
+        "model__max_iter": 250
+      },
+      "cv_mean": 0.8048095482161237,
+      "cv_std": 0.02072251039548298
+    }
+  }
+}

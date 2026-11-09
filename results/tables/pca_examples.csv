@@ -1,0 +1,13 @@
+id,name,grade,salary_mean,num_skills,desc_length,key_skills,PC1,PC2
+90000480,IT Компания: Junior Go / Golang Developer,Junior,50000.0,5,351,"[""Git"", ""Linux"", ""Celery"", ""Python"", ""Django""]",-3.0460985348057927,0.7097756498673465
+90000602,DevOps Engineer,Junior,60000.0,6,336,"[""REST API"", ""Git"", ""Go"", ""Python"", ""Django"", ""PostgreSQL""]",-3.0417425884612506,0.43803569897704797
+90001159,Ищем: Junior QA Automation (Python),Junior,90000.0,6,353,"[""Git"", ""Linux"", ""Go"", ""Python"", ""Django"", ""PostgreSQL""]",-3.00094900897686,0.9870917430940458
+90000654,Ищем: Lead / Senior Backend Engineer (Go / Python),Junior,530000.0,5,621,"[""Microservices"", ""CI/CD"", ""Docker"", ""Kafka"", ""PostgreSQL""]",4.332091665456793,-1.1718559677931002
+90000512,"Senior Backend Architect (Go, PostgreSQL, Kafka)",Senior,435000.0,6,638,"[""FastAPI"", ""Pytest"", ""Docker"", ""Kafka"", ""ClickHouse"", ""Kubernetes""]",4.167222071305116,-0.8940796559319699
+90000224,Ищем: Tech Lead (Python / FastAPI / Highload),Senior,497500.0,7,658,"[""Linux"", ""Microservices"", ""CI/CD"", ""Pytest"", ""Kubernetes"", ""ClickHouse"", ""PostgreSQL""]",4.069063157630796,0.5735579879208496
+90001192,Senior Golang Developer,Senior,420000.0,3,326,"[""Kubernetes"", ""FastAPI"", ""Docker""]",1.3118681663799634,-3.6281901537654555
+90000608,Удаленно: Ведущий разработчик Python,Senior,445000.0,3,334,"[""Kafka"", ""FastAPI"", ""Docker""]",1.724323344425891,-3.4247387641886213
+90000896,Разработчик Python,Senior,385000.0,4,329,"[""Celery"", ""Kubernetes"", ""FastAPI"", ""Docker""]",0.5139221924068347,-3.4243947203531655
+90000574,Младший программист Python / Django,Junior,80000.0,7,631,"[""Git"", ""REST API"", ""Linux"", ""Pytest"", ""Python"", ""Django"", ""PostgreSQL""]",-0.3899127542434972,3.66863019462754
+90000466,Удаленно: Junior Go / Golang Developer,Junior,80000.0,6,618,"[""Git"", ""REST API"", ""Linux"", ""Go"", ""Python"", ""PostgreSQL""]",-0.45300908153843505,3.4267333903474864
+90000073,IT Компания: Младший программист Python / Django,Junior,72500.0,6,622,"[""Git"", ""Linux"", ""Python"", ""Asyncio"", ""Django"", ""PostgreSQL""]",-0.4987713581211927,3.4231228363403448

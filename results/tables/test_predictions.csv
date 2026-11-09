@@ -1,0 +1,251 @@
+id,name,grade,salary_mean,is_salary_missing,num_skills,schedule,key_skills,desc_length,Dummy,Logistic Regression,KNN,Random Forest,Boosting,MLP
+90000638,Senior Golang Developer,Senior,382500.0,0,3,fullDay,"[""Kafka"", ""CI/CD"", ""Celery""]",319,Middle,Senior,Senior,Senior,Senior,Senior
+90000497,IT Компания: Fullstack Developer (Python / Vue.js),Middle,192500.0,0,7,fullDay,"[""Git"", ""FastAPI"", ""Go"", ""Docker"", ""Celery"", ""Asyncio"", ""PostgreSQL""]",379,Middle,Middle,Middle,Middle,Middle,Middle
+90000988,Middle Data Engineer,Middle,205000.0,0,5,fullDay,"[""REST API"", ""Linux"", ""Redis"", ""SQLAlchemy"", ""Python""]",338,Middle,Middle,Middle,Middle,Middle,Middle
+90000749,Middle Python Developer,Middle,215000.0,0,6,remote,"[""FastAPI"", ""Redis"", ""Linux"", ""Python"", ""Kafka"", ""PostgreSQL""]",624,Middle,Middle,Middle,Middle,Middle,Middle
+90000162,Junior DevOps Engineer,Junior,80000.0,0,7,remote,"[""Git"", ""REST API"", ""Django"", ""Python"", ""Kafka"", ""RabbitMQ"", ""Kubernetes""]",641,Middle,Junior,Junior,Junior,Junior,Junior
+90001250,Junior Python Developer,Junior,65000.0,0,3,fullDay,"[""Celery"", ""PostgreSQL"", ""Linux""]",324,Middle,Junior,Junior,Junior,Junior,Junior
+90001038,Senior Python Developer,Senior,332500.0,0,6,remote,"[""Linux"", ""Go"", ""Docker"", ""Kubernetes"", ""ClickHouse"", ""RabbitMQ""]",629,Middle,Senior,Senior,Senior,Senior,Senior
+90000282,Junior QA Automation (Python),Junior,120000.0,0,3,remote,"[""Git"", ""Django"", ""Linux""]",323,Middle,Junior,Junior,Junior,Junior,Junior
+90000241,"Backend Разработчик (Python, FastAPI, PostgreSQL)",Middle,195000.0,0,7,remote,"[""FastAPI"", ""Redis"", ""CI/CD"", ""Go"", ""SQLAlchemy"", ""Docker"", ""Celery""]",620,Middle,Middle,Middle,Middle,Middle,Middle
+90000604,Стажер-разработчик Python,Junior,50000.0,0,3,remote,"[""Git"", ""PostgreSQL"", ""Linux""]",596,Middle,Junior,Junior,Junior,Junior,Junior
+90000752,Ищем: Junior Backend Engineer (FastAPI),Junior,,1,7,flexible,"[""Git"", ""Linux"", ""CI/CD"", ""Python"", ""Django"", ""PostgreSQL"", ""RabbitMQ""]",370,Middle,Junior,Junior,Junior,Junior,Junior
+90000359,Data Engineer,Middle,,1,6,remote,"[""Git"", ""Redis"", ""Pytest"", ""Docker"", ""Celery"", ""PostgreSQL""]",620,Middle,Middle,Middle,Middle,Middle,Middle
+90001202,Middle Data Engineer,Middle,182500.0,0,3,remote,"[""Git"", ""Kubernetes"", ""FastAPI""]",608,Middle,Middle,Middle,Middle,Middle,Middle
+90000925,Middle Python Developer,Senior,172500.0,0,5,fullDay,"[""Git"", ""FastAPI"", ""Python"", ""Asyncio"", ""RabbitMQ""]",610,Middle,Middle,Middle,Middle,Middle,Middle
+90001245,Удаленно: Senior DevOps / SRE Engineer,Senior,,1,5,remote,"[""Pytest"", ""Go"", ""SQLAlchemy"", ""Python"", ""Kafka""]",351,Middle,Senior,Junior,Senior,Senior,Senior
+90000910,Lead / Senior Backend Engineer (Go / Python),Senior,,1,7,fullDay,"[""Go"", ""Docker"", ""Python"", ""Kubernetes"", ""ClickHouse"", ""PostgreSQL"", ""RabbitMQ""]",384,Middle,Senior,Middle,Senior,Senior,Senior
+90000327,IT Компания: Junior Backend Engineer (FastAPI),Junior,90000.0,0,5,fullDay,"[""Git"", ""REST API"", ""Linux"", ""Python"", ""PostgreSQL""]",614,Middle,Junior,Junior,Junior,Junior,Junior
+90000009,Data Engineer,Middle,,1,4,remote,"[""Git"", ""SQLAlchemy"", ""PostgreSQL"", ""Redis""]",323,Middle,Middle,Middle,Middle,Middle,Middle
+90000421,Backend Engineer,Middle,280000.0,0,6,remote,"[""FastAPI"", ""CI/CD"", ""Go"", ""Docker"", ""Celery"", ""Kafka""]",608,Middle,Senior,Senior,Senior,Middle,Senior
+90001025,Ищем: Junior QA Automation (Python),Junior,75000.0,0,3,fullDay,"[""REST API"", ""Django"", ""Asyncio""]",595,Middle,Junior,Junior,Junior,Junior,Junior
+90000519,Backend Engineer,Middle,82500.0,0,5,remote,"[""REST API"", ""Linux"", ""Docker"", ""Django"", ""ClickHouse""]",613,Middle,Junior,Junior,Junior,Junior,Junior
+90001131,Go Backend Developer,Middle,,1,5,remote,"[""Git"", ""Go"", ""Docker"", ""Asyncio"", ""PostgreSQL""]",332,Middle,Middle,Middle,Middle,Middle,Middle
+90000121,Ищем: Senior DevOps / SRE Engineer,Senior,397500.0,0,5,remote,"[""FastAPI"", ""Linux"", ""Microservices"", ""Pytest"", ""Asyncio""]",356,Middle,Senior,Senior,Senior,Senior,Senior
+90000194,Ищем: Junior Go / Golang Developer,Junior,55000.0,0,3,remote,"[""REST API"", ""PostgreSQL"", ""Python""]",602,Middle,Junior,Junior,Junior,Junior,Junior
+90000846,Ищем: Ведущий разработчик Python,Senior,410000.0,0,7,remote,"[""Linux"", ""Redis"", ""CI/CD"", ""Go"", ""Docker"", ""Pytest"", ""Kafka""]",611,Middle,Senior,Senior,Senior,Senior,Senior
+90000721,Удаленно: Senior Python Developer,Senior,325000.0,0,3,remote,"[""Microservices"", ""Django"", ""FastAPI""]",339,Middle,Senior,Senior,Senior,Senior,Middle
+90000607,Ищем: Junior QA Automation (Python),Junior,70000.0,0,6,remote,"[""Git"", ""Linux"", ""Python"", ""Asyncio"", ""Django"", ""PostgreSQL""]",358,Middle,Junior,Junior,Junior,Junior,Junior
+90000864,"Middle DevOps Engineer (Docker, K8s)",Middle,205000.0,0,7,remote,"[""Git"", ""Linux"", ""Redis"", ""CI/CD"", ""SQLAlchemy"", ""Docker"", ""Asyncio""]",622,Middle,Middle,Middle,Middle,Middle,Middle
+90000169,Ищем: Младший программист Python / Django,Junior,85000.0,0,4,remote,"[""Git"", ""CI/CD"", ""PostgreSQL"", ""Python""]",604,Middle,Junior,Junior,Junior,Junior,Junior
+90000758,Ищем: Golang Developer (Middle),Middle,212500.0,0,4,fullDay,"[""Python"", ""Linux"", ""PostgreSQL"", ""Redis""]",339,Middle,Middle,Middle,Middle,Middle,Junior
+90000075,Удаленно: Python Backend Engineer,Middle,250000.0,0,4,remote,"[""Git"", ""REST API"", ""FastAPI"", ""RabbitMQ""]",341,Middle,Middle,Middle,Middle,Middle,Middle
+90000679,IT Компания: Junior DevOps Engineer,Junior,87500.0,0,5,remote,"[""Git"", ""Linux"", ""Redis"", ""Python"", ""PostgreSQL""]",348,Middle,Junior,Junior,Junior,Junior,Junior
+90000031,Backend Engineer,Senior,320000.0,0,4,fullDay,"[""Asyncio"", ""Kafka"", ""ClickHouse"", ""Python""]",326,Middle,Senior,Senior,Senior,Senior,Senior
+90000337,Ищем: Python Backend Engineer,Middle,200000.0,0,6,remote,"[""Git"", ""Redis"", ""Go"", ""Docker"", ""Python"", ""ClickHouse""]",347,Middle,Middle,Middle,Middle,Middle,Middle
+90000305,"IT Компания: Middle DevOps Engineer (Docker, K8s)",Middle,250000.0,0,6,remote,"[""Git"", ""Pytest"", ""SQLAlchemy"", ""Python"", ""Kubernetes"", ""ClickHouse""]",637,Middle,Middle,Middle,Middle,Middle,Middle
+90000717,"Ищем: Senior Backend Architect (Go, PostgreSQL, Kafka)",Senior,372500.0,0,4,remote,"[""Microservices"", ""Kubernetes"", ""ClickHouse"", ""Python""]",375,Middle,Senior,Senior,Senior,Senior,Senior
+90000832,Удаленно: Junior Go / Golang Developer,Junior,60000.0,0,3,fullDay,"[""Linux"", ""PostgreSQL"", ""Python""]",599,Middle,Junior,Junior,Junior,Junior,Junior
+90000705,"Удаленно: Backend Разработчик (Python, FastAPI, PostgreSQL)",Middle,175000.0,0,2,fullDay,"[""Git"", ""SQLAlchemy""]",584,Middle,Middle,Middle,Middle,Middle,Middle
+90000374,IT Компания: Junior DevOps Engineer,Junior,82500.0,0,4,fullDay,"[""REST API"", ""Django"", ""Linux"", ""Python""]",342,Middle,Junior,Junior,Junior,Junior,Junior
+90000844,IT Компания: Fullstack Developer (Python / Vue.js),Middle,150000.0,0,4,fullDay,"[""Git"", ""Go"", ""Docker"", ""RabbitMQ""]",351,Middle,Middle,Middle,Middle,Middle,Middle
+90000347,DevOps Engineer,Senior,437500.0,0,4,fullDay,"[""Django"", ""Celery"", ""Go"", ""Linux""]",316,Middle,Senior,Senior,Senior,Senior,Senior
+90000755,Software Engineer,Middle,425000.0,0,5,fullDay,"[""Linux"", ""Microservices"", ""Python"", ""ClickHouse"", ""RabbitMQ""]",619,Middle,Senior,Senior,Senior,Senior,Senior
+90000290,Удаленно: Senior Python Developer,Senior,420000.0,0,7,flexible,"[""Linux"", ""Docker"", ""SQLAlchemy"", ""Celery"", ""Kafka"", ""PostgreSQL"", ""Kubernetes""]",373,Middle,Senior,Senior,Senior,Senior,Senior
+90000624,Junior QA Automation (Python),Junior,77500.0,0,4,flexible,"[""Git"", ""FastAPI"", ""Go"", ""Linux""]",590,Middle,Junior,Junior,Junior,Junior,Junior
+90000063,Ищем: Junior Python Developer,Junior,45000.0,0,7,fullDay,"[""Git"", ""REST API"", ""Linux"", ""Pytest"", ""Python"", ""Django"", ""PostgreSQL""]",631,Middle,Junior,Junior,Junior,Junior,Junior
+90000514,Ищем: Middle Python Developer,Middle,200000.0,0,4,remote,"[""Asyncio"", ""REST API"", ""Docker"", ""Python""]",338,Middle,Middle,Middle,Middle,Middle,Middle
+90000114,Удаленно: Junior QA Automation (Python),Junior,82500.0,0,6,flexible,"[""REST API"", ""Git"", ""Linux"", ""Docker"", ""Python"", ""Kafka""]",612,Middle,Junior,Junior,Junior,Junior,Junior
+90000129,IT Компания: Senior Data Engineer / Architect,Senior,435000.0,0,5,remote,"[""FastAPI"", ""Microservices"", ""CI/CD"", ""Kafka"", ""Kubernetes""]",369,Middle,Senior,Senior,Senior,Senior,Senior
+90000204,Senior Python Developer,Senior,280000.0,0,6,remote,"[""Linux"", ""Redis"", ""Docker"", ""SQLAlchemy"", ""ClickHouse"", ""RabbitMQ""]",353,Middle,Middle,Middle,Middle,Middle,Middle
+90000106,Go Backend Developer,Middle,82500.0,0,4,fullDay,"[""Git"", ""Kafka"", ""REST API"", ""Linux""]",596,Middle,Junior,Junior,Junior,Junior,Junior
+90001140,Senior Data Engineer / Architect,Senior,425000.0,0,3,fullDay,"[""Microservices"", ""Git"", ""Go""]",330,Middle,Senior,Senior,Senior,Senior,Senior
+90000956,Junior Backend Engineer (FastAPI),Junior,95000.0,0,4,fullDay,"[""Git"", ""REST API"", ""Linux"", ""Microservices""]",604,Middle,Junior,Junior,Junior,Junior,Junior
+90000301,IT Компания: Golang Developer (Middle),Middle,,1,5,remote,"[""REST API"", ""Django"", ""Docker"", ""Python"", ""Kafka""]",353,Middle,Senior,Senior,Senior,Senior,Senior
+90001123,"Backend Разработчик (Python, FastAPI, PostgreSQL)",Middle,165000.0,0,5,fullDay,"[""Git"", ""Microservices"", ""Docker"", ""Python"", ""RabbitMQ""]",613,Middle,Middle,Middle,Middle,Middle,Middle
+90000126,"IT Компания: Backend Разработчик (Python, FastAPI, PostgreSQL)",Middle,227500.0,0,4,remote,"[""Asyncio"", ""Kubernetes"", ""Linux"", ""Python""]",616,Middle,Senior,Middle,Senior,Middle,Middle
+90001021,"Удаленно: Middle DevOps Engineer (Docker, K8s)",Middle,217500.0,0,8,fullDay,"[""Git"", ""FastAPI"", ""Redis"", ""Go"", ""SQLAlchemy"", ""Celery"", ""ClickHouse"", ""PostgreSQL""]",639,Middle,Middle,Middle,Middle,Middle,Middle
+90001078,Удаленно: Junior Go / Golang Developer,Junior,,1,4,fullDay,"[""Django"", ""Pytest"", ""PostgreSQL"", ""RabbitMQ""]",611,Middle,Middle,Middle,Middle,Junior,Junior
+90000042,Junior Backend Engineer (FastAPI),Junior,75000.0,0,5,remote,"[""Git"", ""Linux"", ""Python"", ""Django"", ""ClickHouse""]",347,Middle,Junior,Junior,Junior,Junior,Junior
+90000787,Удаленно: Senior Data Engineer / Architect,Senior,402500.0,0,4,remote,"[""PostgreSQL"", ""Kafka"", ""FastAPI"", ""Linux""]",609,Middle,Senior,Senior,Senior,Senior,Senior
+90000459,Ищем: Junior Backend Engineer (FastAPI),Junior,105000.0,0,5,remote,"[""Git"", ""REST API"", ""Linux"", ""Python"", ""ClickHouse""]",609,Middle,Junior,Junior,Junior,Junior,Junior
+90000953,IT Компания: Младший программист Python / Django,Junior,85000.0,0,5,fullDay,"[""REST API"", ""Python"", ""Django"", ""ClickHouse"", ""PostgreSQL""]",372,Middle,Junior,Junior,Junior,Junior,Junior
+90000180,Младший программист Python / Django,Junior,85000.0,0,3,fullDay,"[""Git"", ""FastAPI"", ""Linux""]",330,Middle,Junior,Junior,Junior,Junior,Junior
+90000781,IT Компания: Стажер-разработчик Python,Junior,50000.0,0,5,remote,"[""Git"", ""Docker"", ""Python"", ""Django"", ""PostgreSQL""]",353,Middle,Junior,Junior,Junior,Junior,Junior
+90000981,Trainee / Junior Data Engineer,Junior,77500.0,0,3,fullDay,"[""Git"", ""PostgreSQL"", ""Docker""]",597,Middle,Junior,Junior,Junior,Junior,Junior
+90000339,Middle Data Engineer,Middle,247500.0,0,5,remote,"[""CI/CD"", ""Go"", ""SQLAlchemy"", ""Asyncio"", ""Kubernetes""]",620,Middle,Senior,Senior,Senior,Middle,Middle
+90000803,IT Компания: Junior Go / Golang Developer,Junior,70000.0,0,4,fullDay,"[""Asyncio"", ""Django"", ""ClickHouse"", ""Python""]",605,Middle,Junior,Junior,Junior,Junior,Junior
+90000931,"Middle DevOps Engineer (Docker, K8s)",Middle,250000.0,0,5,remote,"[""Microservices"", ""SQLAlchemy"", ""Python"", ""Asyncio"", ""ClickHouse""]",623,Middle,Middle,Middle,Middle,Middle,Middle
+90000698,"Middle DevOps Engineer (Docker, K8s)",Senior,197500.0,0,5,remote,"[""Git"", ""FastAPI"", ""Python"", ""PostgreSQL"", ""RabbitMQ""]",354,Middle,Middle,Middle,Middle,Middle,Middle
+90000450,DevOps Engineer,Junior,75000.0,0,6,remote,"[""REST API"", ""Linux"", ""Microservices"", ""Docker"", ""Python"", ""Django""]",345,Middle,Junior,Junior,Junior,Junior,Junior
+90000776,Удаленно: Junior DevOps Engineer,Junior,95000.0,0,3,fullDay,"[""Git"", ""Django"", ""Linux""]",588,Middle,Junior,Junior,Junior,Junior,Junior
+90000724,IT Компания: Middle Python Developer,Middle,172500.0,0,5,remote,"[""Go"", ""SQLAlchemy"", ""Docker"", ""Python"", ""Asyncio""]",351,Middle,Middle,Middle,Middle,Middle,Middle
+90000658,Data Engineer,Junior,57500.0,0,5,fullDay,"[""REST API"", ""Git"", ""Linux"", ""Django"", ""Kafka""]",324,Middle,Junior,Junior,Junior,Junior,Junior
+90000871,Junior QA Automation (Python),Junior,77500.0,0,5,remote,"[""Git"", ""REST API"", ""CI/CD"", ""Python"", ""Django""]",606,Middle,Junior,Junior,Junior,Junior,Junior
+90001024,Data Engineer,Middle,325000.0,0,6,flexible,"[""CI/CD"", ""Go"", ""Python"", ""Kubernetes"", ""PostgreSQL"", ""RabbitMQ""]",634,Middle,Senior,Senior,Senior,Senior,Middle
+90000716,Senior Data Engineer / Architect,Senior,480000.0,0,6,remote,"[""REST API"", ""FastAPI"", ""Linux"", ""Go"", ""Docker"", ""Asyncio""]",612,Middle,Senior,Senior,Senior,Senior,Senior
+90000137,Junior QA Automation (Python),Junior,75000.0,0,6,flexible,"[""Git"", ""FastAPI"", ""Pytest"", ""Go"", ""Django"", ""PostgreSQL""]",349,Middle,Junior,Junior,Junior,Junior,Middle
+90000746,Удаленно: Senior DevOps / SRE Engineer,Senior,285000.0,0,6,remote,"[""Microservices"", ""Go"", ""Docker"", ""Asyncio"", ""Kafka"", ""ClickHouse""]",367,Middle,Senior,Senior,Senior,Senior,Middle
+90000270,"Удаленно: Backend Разработчик (Python, FastAPI, PostgreSQL)",Middle,150000.0,0,6,fullDay,"[""Redis"", ""Pytest"", ""Docker"", ""SQLAlchemy"", ""ClickHouse"", ""PostgreSQL""]",631,Middle,Middle,Middle,Middle,Middle,Middle
+90001012,Ищем: Junior Python Developer,Junior,,1,6,remote,"[""Git"", ""REST API"", ""Linux"", ""FastAPI"", ""Python"", ""ClickHouse""]",354,Middle,Middle,Junior,Junior,Middle,Middle
+90000080,Senior Data Engineer / Architect,Senior,447500.0,0,5,flexible,"[""REST API"", ""FastAPI"", ""Linux"", ""Microservices"", ""Kubernetes""]",359,Middle,Senior,Senior,Senior,Senior,Senior
+90000660,IT Компания: Middle Data Engineer,Middle,247500.0,0,5,remote,"[""Go"", ""SQLAlchemy"", ""Docker"", ""Celery"", ""Asyncio""]",348,Middle,Middle,Middle,Middle,Middle,Middle
+90000365,IT Компания: Senior Python Developer,Senior,360000.0,0,5,remote,"[""Microservices"", ""CI/CD"", ""Go"", ""Kubernetes"", ""ClickHouse""]",360,Middle,Senior,Senior,Senior,Senior,Senior
+90001145,IT Компания: Python Backend Engineer,Middle,,1,3,remote,"[""Asyncio"", ""Celery"", ""FastAPI""]",595,Middle,Middle,Middle,Middle,Middle,Middle
+90000352,IT Компания: Golang Developer (Middle),Middle,200000.0,0,5,fullDay,"[""FastAPI"", ""Redis"", ""Docker"", ""Python"", ""RabbitMQ""]",611,Middle,Middle,Middle,Middle,Middle,Middle
+90000567,Удаленно: Младший программист Python / Django,Junior,65000.0,0,4,remote,"[""REST API"", ""Linux"", ""Python"", ""Docker""]",352,Middle,Junior,Junior,Junior,Junior,Junior
+90000593,Ищем: Python Backend Engineer,Middle,205000.0,0,4,remote,"[""Asyncio"", ""Django"", ""Go"", ""Linux""]",331,Middle,Junior,Junior,Middle,Middle,Junior
+90000190,Middle Python Developer,Senior,220000.0,0,6,remote,"[""Git"", ""FastAPI"", ""CI/CD"", ""Go"", ""SQLAlchemy"", ""Asyncio""]",615,Middle,Middle,Middle,Middle,Middle,Middle
+90000410,Ищем: Junior DevOps Engineer,Junior,82500.0,0,5,remote,"[""REST API"", ""Git"", ""Linux"", ""CI/CD"", ""ClickHouse""]",608,Middle,Junior,Junior,Junior,Junior,Junior
+90000712,IT Компания: Middle Data Engineer,Middle,170000.0,0,4,remote,"[""Django"", ""PostgreSQL"", ""Redis"", ""Docker""]",608,Middle,Middle,Middle,Middle,Middle,Middle
+90000003,Junior Backend Engineer (FastAPI),Junior,65000.0,0,7,remote,"[""REST API"", ""Git"", ""Linux"", ""FastAPI"", ""Go"", ""Python"", ""PostgreSQL""]",362,Middle,Junior,Junior,Junior,Junior,Junior
+90000611,Ищем: Tech Lead (Python / FastAPI / Highload),Senior,405000.0,0,3,remote,"[""Microservices"", ""Python"", ""RabbitMQ""]",352,Middle,Senior,Senior,Senior,Senior,Senior
+90001097,Junior QA Automation (Python),Junior,77500.0,0,4,remote,"[""Git"", ""Django"", ""Linux"", ""Python""]",596,Middle,Junior,Junior,Junior,Junior,Junior
+90000976,Ищем: Senior Golang Developer,Senior,445000.0,0,7,remote,"[""Git"", ""FastAPI"", ""Microservices"", ""Go"", ""Docker"", ""Python"", ""Kafka""]",359,Middle,Senior,Senior,Senior,Senior,Middle
+90000013,"Senior Backend Architect (Go, PostgreSQL, Kafka)",Senior,,1,3,remote,"[""Celery"", ""PostgreSQL"", ""Linux""]",349,Middle,Junior,Senior,Senior,Junior,Senior
+90000289,IT Компания: Lead / Senior Backend Engineer (Go / Python),Senior,,1,8,fullDay,"[""Git"", ""Microservices"", ""CI/CD"", ""Go"", ""Kubernetes"", ""ClickHouse"", ""PostgreSQL"", ""RabbitMQ""]",408,Middle,Senior,Middle,Senior,Middle,Junior
+90000979,Middle Data Engineer,Middle,240000.0,0,7,remote,"[""REST API"", ""Redis"", ""Go"", ""SQLAlchemy"", ""Docker"", ""Asyncio"", ""PostgreSQL""]",634,Middle,Middle,Middle,Middle,Middle,Middle
+90001086,Senior Golang Developer,Senior,,1,5,remote,"[""SQLAlchemy"", ""Asyncio"", ""Kafka"", ""RabbitMQ"", ""Kubernetes""]",347,Middle,Senior,Middle,Senior,Senior,Middle
+90000263,"Backend Разработчик (Python, FastAPI, PostgreSQL)",Middle,207500.0,0,5,remote,"[""Redis"", ""SQLAlchemy"", ""Docker"", ""Kubernetes"", ""PostgreSQL""]",636,Middle,Middle,Middle,Middle,Middle,Middle
+90001240,Стажер-разработчик Python,Junior,35000.0,0,8,fullDay,"[""REST API"", ""Linux"", ""SQLAlchemy"", ""Docker"", ""Python"", ""Asyncio"", ""Django"", ""PostgreSQL""]",647,Middle,Junior,Junior,Junior,Junior,Junior
+90000540,Golang Developer (Middle),Middle,,1,3,remote,"[""Asyncio"", ""REST API"", ""PostgreSQL""]",330,Middle,Middle,Junior,Middle,Middle,Senior
+90000319,Trainee / Junior Data Engineer,Junior,82500.0,0,5,remote,"[""Linux"", ""Python"", ""Django"", ""ClickHouse"", ""PostgreSQL""]",620,Middle,Junior,Junior,Junior,Junior,Junior
+90001185,Senior Python Developer,Senior,235000.0,0,7,remote,"[""FastAPI"", ""Linux"", ""Microservices"", ""CI/CD"", ""Go"", ""Celery"", ""ClickHouse""]",359,Middle,Senior,Senior,Senior,Middle,Senior
+90000271,Junior Go / Golang Developer,Junior,87500.0,0,8,fullDay,"[""Git"", ""REST API"", ""Linux"", ""Redis"", ""FastAPI"", ""Python"", ""Kubernetes"", ""PostgreSQL""]",657,Middle,Junior,Junior,Junior,Junior,Junior
+90001100,Golang Developer (Middle),Middle,240000.0,0,3,remote,"[""Git"", ""Go"", ""FastAPI""]",317,Middle,Middle,Middle,Middle,Middle,Middle
+90000669,Удаленно: Стажер-разработчик Python,Junior,50000.0,0,6,remote,"[""Git"", ""REST API"", ""Microservices"", ""Celery"", ""Django"", ""PostgreSQL""]",631,Middle,Junior,Junior,Junior,Junior,Junior
+90000957,Удаленно: Lead / Senior Backend Engineer (Go / Python),Senior,417500.0,0,6,fullDay,"[""Microservices"", ""CI/CD"", ""Go"", ""SQLAlchemy"", ""Kafka"", ""Kubernetes""]",385,Middle,Senior,Senior,Senior,Senior,Senior
+90000709,"Ищем: Senior Backend Architect (Go, PostgreSQL, Kafka)",Senior,517500.0,0,4,remote,"[""Microservices"", ""Kafka"", ""Kubernetes"", ""PostgreSQL""]",631,Middle,Senior,Senior,Senior,Senior,Senior
+90000266,Senior DevOps / SRE Engineer,Senior,420000.0,0,5,remote,"[""FastAPI"", ""Microservices"", ""Kafka"", ""RabbitMQ"", ""Kubernetes""]",355,Middle,Senior,Senior,Senior,Senior,Senior
+90000127,Data Engineer,Middle,65000.0,0,4,remote,"[""Git"", ""Kubernetes"", ""REST API"", ""ClickHouse""]",326,Middle,Junior,Junior,Junior,Junior,Junior
+90000291,IT Компания: Middle Data Engineer,Middle,265000.0,0,3,flexible,"[""Git"", ""Django"", ""Docker""]",589,Middle,Middle,Middle,Middle,Middle,Middle
+90000181,Junior Backend Engineer (FastAPI),Junior,70000.0,0,6,fullDay,"[""Git"", ""REST API"", ""Go"", ""Docker"", ""Django"", ""PostgreSQL""]",616,Middle,Junior,Junior,Junior,Junior,Junior
+90000283,Backend Engineer,Middle,,1,6,fullDay,"[""Git"", ""Redis"", ""Go"", ""SQLAlchemy"", ""Docker"", ""ClickHouse""]",338,Middle,Middle,Middle,Middle,Middle,Middle
+90000227,Ищем: Senior DevOps / SRE Engineer,Senior,295000.0,0,7,flexible,"[""FastAPI"", ""Linux"", ""CI/CD"", ""Pytest"", ""Python"", ""Django"", ""ClickHouse""]",367,Middle,Senior,Senior,Senior,Senior,Senior
+90000807,Удаленно: Trainee / Junior Data Engineer,Junior,,1,6,remote,"[""Git"", ""Linux"", ""FastAPI"", ""Python"", ""Django"", ""PostgreSQL""]",363,Middle,Junior,Junior,Junior,Junior,Junior
+90000639,Ищем: Senior Golang Developer,Senior,387500.0,0,6,flexible,"[""CI/CD"", ""Go"", ""Docker"", ""SQLAlchemy"", ""ClickHouse"", ""PostgreSQL""]",358,Middle,Senior,Senior,Senior,Senior,Senior
+90000628,Data Engineer,Middle,,1,6,remote,"[""FastAPI"", ""CI/CD"", ""Docker"", ""Python"", ""Asyncio"", ""PostgreSQL""]",627,Middle,Middle,Middle,Middle,Middle,Middle
+90001044,Data Engineer,Middle,,1,6,remote,"[""FastAPI"", ""CI/CD"", ""Docker"", ""Python"", ""Kubernetes"", ""PostgreSQL""]",643,Middle,Senior,Middle,Senior,Senior,Senior
+90000506,IT Компания: Middle Go Engineer (Микросервисы),Middle,267500.0,0,6,remote,"[""CI/CD"", ""Go"", ""SQLAlchemy"", ""Python"", ""Asyncio"", ""PostgreSQL""]",372,Middle,Middle,Senior,Middle,Middle,Middle
+90000164,"Backend Разработчик (Python, FastAPI, PostgreSQL)",Middle,265000.0,0,4,fullDay,"[""Go"", ""SQLAlchemy"", ""Redis"", ""Docker""]",354,Middle,Middle,Middle,Middle,Middle,Middle
+90000367,Удаленно: Middle Go Engineer (Микросервисы),Middle,,1,6,remote,"[""REST API"", ""Redis"", ""Pytest"", ""Go"", ""Docker"", ""Django""]",362,Middle,Middle,Middle,Middle,Middle,Middle
+90000951,Middle Python Developer,Middle,155000.0,0,5,remote,"[""FastAPI"", ""Redis"", ""CI/CD"", ""SQLAlchemy"", ""PostgreSQL""]",621,Middle,Middle,Middle,Middle,Middle,Middle
+90000731,Senior Python Developer,Senior,250000.0,0,8,fullDay,"[""FastAPI"", ""Linux"", ""Microservices"", ""Django"", ""CI/CD"", ""Go"", ""Kubernetes"", ""ClickHouse""]",371,Middle,Senior,Senior,Senior,Senior,Senior
+90000532,Удаленно: Junior DevOps Engineer,Junior,107500.0,0,6,fullDay,"[""REST API"", ""Git"", ""Linux"", ""Python"", ""Asyncio"", ""PostgreSQL""]",623,Middle,Junior,Junior,Junior,Junior,Junior
+90000969,IT Компания: Junior Backend Engineer (FastAPI),Junior,,1,5,fullDay,"[""REST API"", ""Linux"", ""SQLAlchemy"", ""Python"", ""PostgreSQL""]",369,Middle,Junior,Junior,Senior,Junior,Junior
+90001156,Lead / Senior Backend Engineer (Go / Python),Senior,,1,4,remote,"[""CI/CD"", ""ClickHouse"", ""Linux"", ""Python""]",352,Middle,Senior,Junior,Junior,Junior,Senior
+90000356,Middle Go Engineer (Микросервисы),Middle,,1,5,remote,"[""Git"", ""Redis"", ""Go"", ""Docker"", ""Python""]",595,Middle,Middle,Middle,Middle,Middle,Middle
+90000349,Data Engineer,Middle,292500.0,0,4,remote,"[""Python"", ""Linux"", ""PostgreSQL"", ""Redis""]",321,Middle,Middle,Middle,Senior,Senior,Senior
+90001069,Junior Go / Golang Developer,Junior,95000.0,0,6,fullDay,"[""Git"", ""Linux"", ""Go"", ""Docker"", ""Django"", ""PostgreSQL""]",617,Middle,Junior,Junior,Junior,Junior,Junior
+90000495,IT Компания: Trainee / Junior Data Engineer,Junior,,1,6,remote,"[""Git"", ""Linux"", ""Celery"", ""Python"", ""Django"", ""Kubernetes""]",629,Middle,Junior,Junior,Junior,Junior,Junior
+90000254,Удаленно: Junior Go / Golang Developer,Junior,,1,4,remote,"[""REST API"", ""Django"", ""Linux"", ""Python""]",345,Middle,Junior,Junior,Junior,Junior,Junior
+90000308,"Удаленно: Senior Backend Architect (Go, PostgreSQL, Kafka)",Senior,460000.0,0,6,remote,"[""Microservices"", ""Celery"", ""Python"", ""Kafka"", ""PostgreSQL"", ""Kubernetes""]",394,Middle,Senior,Senior,Senior,Senior,Senior
+90000648,Backend Engineer,Middle,240000.0,0,4,fullDay,"[""Celery"", ""FastAPI"", ""PostgreSQL"", ""Redis""]",326,Middle,Middle,Middle,Middle,Middle,Middle
+90000402,Software Engineer,Middle,90000.0,0,5,flexible,"[""Git"", ""REST API"", ""CI/CD"", ""Python"", ""RabbitMQ""]",331,Middle,Junior,Junior,Junior,Middle,Junior
+90000369,Ищем: Ведущий разработчик Python,Senior,415000.0,0,6,remote,"[""Git"", ""FastAPI"", ""Linux"", ""Microservices"", ""Docker"", ""ClickHouse""]",625,Middle,Senior,Senior,Senior,Senior,Senior
+90000958,IT Компания: Junior QA Automation (Python),Junior,70000.0,0,5,remote,"[""Git"", ""REST API"", ""FastAPI"", ""SQLAlchemy"", ""PostgreSQL""]",364,Middle,Junior,Middle,Junior,Junior,Middle
+90000945,Ищем: Junior Python Developer,Junior,77500.0,0,5,fullDay,"[""REST API"", ""Git"", ""Linux"", ""Python"", ""PostgreSQL""]",345,Middle,Junior,Junior,Junior,Junior,Junior
+90000020,Backend Engineer,Middle,,1,6,remote,"[""Git"", ""Redis"", ""SQLAlchemy"", ""Celery"", ""Python"", ""PostgreSQL""]",624,Middle,Middle,Junior,Middle,Middle,Middle
+90000441,Python Backend Engineer,Middle,212500.0,0,8,remote,"[""REST API"", ""FastAPI"", ""Redis"", ""CI/CD"", ""Go"", ""SQLAlchemy"", ""Docker"", ""Asyncio""]",635,Middle,Middle,Middle,Middle,Middle,Middle
+90001163,Data Engineer,Middle,170000.0,0,8,remote,"[""Git"", ""REST API"", ""CI/CD"", ""Go"", ""SQLAlchemy"", ""Python"", ""Asyncio"", ""Kafka""]",349,Middle,Middle,Junior,Middle,Middle,Middle
+90001052,Tech Lead (Python / FastAPI / Highload),Senior,490000.0,0,3,remote,"[""Microservices"", ""ClickHouse"", ""FastAPI""]",605,Middle,Senior,Senior,Senior,Senior,Senior
+90000692,Инженер бэкенда,Middle,80000.0,0,6,remote,"[""REST API"", ""Git"", ""Linux"", ""Django"", ""PostgreSQL"", ""Kubernetes""]",343,Middle,Junior,Junior,Junior,Junior,Junior
+90000007,Tech Lead (Python / FastAPI / Highload),Senior,425000.0,0,6,fullDay,"[""Git"", ""Linux"", ""CI/CD"", ""Go"", ""Docker"", ""Kubernetes""]",356,Middle,Senior,Senior,Senior,Senior,Senior
+90000066,Senior DevOps / SRE Engineer,Senior,,1,5,fullDay,"[""Linux"", ""Pytest"", ""Go"", ""ClickHouse"", ""PostgreSQL""]",611,Middle,Junior,Junior,Junior,Junior,Junior
+90001111,IT Компания: Senior Golang Developer,Senior,357500.0,0,4,remote,"[""Kubernetes"", ""Go"", ""Linux"", ""RabbitMQ""]",343,Middle,Senior,Senior,Senior,Senior,Senior
+90000905,Ищем: Middle Python Developer,Middle,,1,4,fullDay,"[""Git"", ""Go"", ""Celery"", ""Asyncio""]",589,Middle,Junior,Junior,Junior,Junior,Junior
+90000711,IT Компания: Senior DevOps / SRE Engineer,Senior,310000.0,0,5,fullDay,"[""Linux"", ""Microservices"", ""Go"", ""SQLAlchemy"", ""Kafka""]",608,Middle,Senior,Senior,Senior,Senior,Senior
+90000251,IT Компания: Tech Lead (Python / FastAPI / Highload),Senior,487500.0,0,5,remote,"[""FastAPI"", ""Microservices"", ""Go"", ""SQLAlchemy"", ""Kubernetes""]",634,Middle,Senior,Senior,Senior,Senior,Senior
+90000917,Ищем: Golang Developer (Middle),Middle,200000.0,0,4,fullDay,"[""Git"", ""Pytest"", ""FastAPI"", ""Docker""]",335,Middle,Middle,Middle,Middle,Middle,Middle
+90001129,Trainee / Junior Data Engineer,Junior,60000.0,0,6,remote,"[""Git"", ""Linux"", ""CI/CD"", ""Python"", ""Django"", ""Kubernetes""]",351,Middle,Junior,Junior,Junior,Junior,Junior
+90000091,Ведущий разработчик Python,Senior,,1,3,remote,"[""Microservices"", ""Kubernetes"", ""CI/CD""]",614,Middle,Senior,Senior,Senior,Senior,Senior
+90001121,IT Компания: Python Backend Engineer,Middle,,1,6,remote,"[""Git"", ""Redis"", ""Go"", ""Docker"", ""Kafka"", ""RabbitMQ""]",604,Middle,Middle,Middle,Middle,Middle,Middle
+90001158,Ищем: Senior Data Engineer / Architect,Senior,357500.0,0,3,fullDay,"[""Microservices"", ""Go"", ""PostgreSQL""]",599,Middle,Senior,Senior,Senior,Senior,Senior
+90000229,Junior DevOps Engineer,Junior,100000.0,0,4,flexible,"[""REST API"", ""Pytest"", ""ClickHouse"", ""PostgreSQL""]",338,Middle,Middle,Junior,Junior,Junior,Middle
+90000566,Senior Golang Developer,Senior,360000.0,0,6,fullDay,"[""FastAPI"", ""Microservices"", ""Pytest"", ""CI/CD"", ""Django"", ""ClickHouse""]",356,Middle,Senior,Senior,Senior,Senior,Senior
+90001028,Golang Developer (Middle),Middle,227500.0,0,6,remote,"[""Go"", ""SQLAlchemy"", ""Docker"", ""Asyncio"", ""Kafka"", ""PostgreSQL""]",351,Middle,Middle,Middle,Middle,Middle,Middle
+90000265,Fullstack Developer (Python / Vue.js),Middle,210000.0,0,6,remote,"[""FastAPI"", ""Redis"", ""CI/CD"", ""SQLAlchemy"", ""Python"", ""Django""]",620,Middle,Middle,Middle,Middle,Middle,Middle
+90000315,Удаленно: Junior Go / Golang Developer,Junior,115000.0,0,4,remote,"[""REST API"", ""Django"", ""PostgreSQL"", ""Linux""]",610,Middle,Junior,Junior,Junior,Junior,Junior
+90000206,Удаленно: Middle Python Developer,Middle,,1,6,remote,"[""Redis"", ""Go"", ""Docker"", ""Python"", ""PostgreSQL"", ""RabbitMQ""]",617,Middle,Middle,Middle,Middle,Middle,Middle
+90000406,"Ищем: Middle DevOps Engineer (Docker, K8s)",Middle,257500.0,0,5,remote,"[""FastAPI"", ""Django"", ""Python"", ""Asyncio"", ""Kafka""]",610,Middle,Middle,Middle,Middle,Middle,Middle
+90000214,Tech Lead (Python / FastAPI / Highload),Senior,,1,7,fullDay,"[""Linux"", ""CI/CD"", ""Go"", ""Docker"", ""Python"", ""Kafka"", ""PostgreSQL""]",625,Middle,Senior,Junior,Senior,Senior,Senior
+90000609,Middle Go Engineer (Микросервисы),Middle,235000.0,0,4,flexible,"[""Git"", ""SQLAlchemy"", ""Redis"", ""Asyncio""]",340,Middle,Middle,Middle,Middle,Middle,Middle
+90001211,Ищем: Junior Backend Engineer (FastAPI),Junior,70000.0,0,5,remote,"[""Git"", ""REST API"", ""Linux"", ""Python"", ""PostgreSQL""]",355,Middle,Junior,Junior,Junior,Junior,Junior
+90000323,Удаленно: Junior Python Developer,Junior,75000.0,0,5,remote,"[""REST API"", ""Linux"", ""Pytest"", ""Django"", ""PostgreSQL""]",618,Middle,Junior,Junior,Junior,Junior,Junior
+90000949,IT Компания: Python Backend Engineer,Middle,242500.0,0,6,fullDay,"[""Git"", ""CI/CD"", ""Pytest"", ""Docker"", ""Python"", ""PostgreSQL""]",358,Middle,Middle,Middle,Middle,Middle,Middle
+90000343,Senior Python Developer,Senior,255000.0,0,4,fullDay,"[""Pytest"", ""ClickHouse"", ""Go"", ""Linux""]",598,Middle,Middle,Middle,Junior,Middle,Senior
+90000472,Ищем: Senior Data Engineer / Architect,Senior,,1,6,fullDay,"[""Linux"", ""Microservices"", ""Kafka"", ""Go"", ""Docker"", ""Kubernetes""]",365,Middle,Senior,Senior,Senior,Senior,Senior
+90001183,Middle Go Engineer (Микросервисы),Middle,,1,7,flexible,"[""FastAPI"", ""Redis"", ""Microservices"", ""Pytest"", ""Python"", ""PostgreSQL"", ""RabbitMQ""]",376,Middle,Middle,Middle,Middle,Middle,Middle
+90000333,Удаленно: Senior Data Engineer / Architect,Senior,362500.0,0,5,fullDay,"[""FastAPI"", ""Linux"", ""CI/CD"", ""Docker"", ""Python""]",608,Middle,Senior,Senior,Senior,Senior,Senior
+90000429,"IT Компания: Senior Backend Architect (Go, PostgreSQL, Kafka)",Senior,495000.0,0,4,fullDay,"[""Microservices"", ""Git"", ""Go"", ""Docker""]",367,Middle,Senior,Senior,Senior,Senior,Senior
+90000437,Удаленно: Ведущий разработчик Python,Senior,415000.0,0,4,remote,"[""FastAPI"", ""CI/CD"", ""Linux"", ""Docker""]",341,Middle,Senior,Senior,Senior,Senior,Senior
+90001127,IT Компания: Junior DevOps Engineer,Junior,102500.0,0,3,remote,"[""REST API"", ""ClickHouse"", ""Linux""]",596,Middle,Junior,Junior,Junior,Junior,Junior
+90000589,DevOps Engineer,Middle,,1,6,remote,"[""REST API"", ""Git"", ""Microservices"", ""Django"", ""PostgreSQL"", ""RabbitMQ""]",349,Middle,Junior,Junior,Middle,Middle,Middle
+90000617,Ведущий разработчик Python,Senior,332500.0,0,4,remote,"[""Microservices"", ""Go"", ""PostgreSQL"", ""Python""]",611,Middle,Senior,Senior,Senior,Senior,Senior
+90001187,Senior Data Engineer / Architect,Senior,355000.0,0,6,remote,"[""Linux"", ""CI/CD"", ""Go"", ""Docker"", ""Python"", ""Kubernetes""]",622,Middle,Senior,Senior,Senior,Senior,Senior
+90000186,Data Engineer,Middle,,1,5,fullDay,"[""FastAPI"", ""Microservices"", ""Docker"", ""Python"", ""PostgreSQL""]",339,Middle,Senior,Middle,Middle,Middle,Senior
+90000629,"Backend Разработчик (Python, FastAPI, PostgreSQL)",Middle,210000.0,0,7,remote,"[""Git"", ""Linux"", ""SQLAlchemy"", ""Docker"", ""Python"", ""Django"", ""PostgreSQL""]",633,Middle,Junior,Middle,Middle,Middle,Middle
+90000651,"IT Компания: Backend Разработчик (Python, FastAPI, PostgreSQL)",Middle,210000.0,0,5,remote,"[""Microservices"", ""SQLAlchemy"", ""Docker"", ""Asyncio"", ""PostgreSQL""]",392,Middle,Middle,Middle,Middle,Middle,Middle
+90000045,"Ищем: Backend Разработчик (Python, FastAPI, PostgreSQL)",Middle,235000.0,0,4,fullDay,"[""FastAPI"", ""SQLAlchemy"", ""PostgreSQL"", ""RabbitMQ""]",372,Middle,Middle,Middle,Middle,Middle,Middle
+90000848,IT Компания: Junior DevOps Engineer,Junior,107500.0,0,4,fullDay,"[""Django"", ""PostgreSQL"", ""SQLAlchemy"", ""Linux""]",348,Middle,Junior,Junior,Junior,Junior,Junior
+90001042,Senior Python Developer,Senior,,1,7,remote,"[""FastAPI"", ""Microservices"", ""Go"", ""Celery"", ""Python"", ""Kafka"", ""PostgreSQL""]",633,Middle,Senior,Middle,Senior,Senior,Senior
+90000704,Lead / Senior Backend Engineer (Go / Python),Senior,372500.0,0,7,remote,"[""Go"", ""Docker"", ""Celery"", ""Python"", ""Asyncio"", ""Kafka"", ""Kubernetes""]",374,Middle,Senior,Senior,Senior,Senior,Senior
+90000744,Senior Data Engineer / Architect,Senior,,1,6,fullDay,"[""REST API"", ""Pytest"", ""Python"", ""Asyncio"", ""Kafka"", ""Kubernetes""]",634,Middle,Senior,Junior,Senior,Senior,Senior
+90000747,Lead / Senior Backend Engineer (Go / Python),Senior,,1,4,fullDay,"[""Asyncio"", ""PostgreSQL"", ""FastAPI"", ""Python""]",612,Middle,Middle,Middle,Middle,Middle,Middle
+90000842,"Backend Разработчик (Python, FastAPI, PostgreSQL)",Middle,180000.0,0,7,remote,"[""REST API"", ""FastAPI"", ""Redis"", ""Go"", ""SQLAlchemy"", ""Docker"", ""Asyncio""]",624,Middle,Middle,Middle,Middle,Middle,Middle
+90000678,Удаленно: Ведущий разработчик Python,Senior,285000.0,0,6,remote,"[""Git"", ""CI/CD"", ""Asyncio"", ""Kafka"", ""ClickHouse"", ""PostgreSQL""]",624,Middle,Middle,Middle,Middle,Middle,Middle
+90000161,Ищем: Golang Developer (Middle),Middle,265000.0,0,4,remote,"[""Python"", ""PostgreSQL"", ""FastAPI"", ""CI/CD""]",341,Middle,Middle,Middle,Middle,Middle,Middle
+90000693,Удаленно: Младший программист Python / Django,Junior,90000.0,0,5,remote,"[""Linux"", ""Python"", ""Kubernetes"", ""ClickHouse"", ""PostgreSQL""]",636,Middle,Junior,Junior,Junior,Junior,Junior
+90001154,Инженер бэкенда,Middle,,1,4,fullDay,"[""Kafka"", ""PostgreSQL"", ""Python"", ""RabbitMQ""]",609,Middle,Senior,Middle,Senior,Middle,Senior
+90000479,IT Компания: Lead / Senior Backend Engineer (Go / Python),Senior,515000.0,0,4,remote,"[""Microservices"", ""Git"", ""ClickHouse"", ""Python""]",607,Middle,Senior,Senior,Senior,Senior,Senior
+90000730,Backend Engineer,Middle,410000.0,0,3,remote,"[""Celery"", ""Go"", ""ClickHouse""]",587,Middle,Senior,Senior,Senior,Senior,Senior
+90000825,Ищем: Python Backend Engineer,Middle,,1,5,fullDay,"[""FastAPI"", ""Go"", ""SQLAlchemy"", ""Docker"", ""Python""]",344,Middle,Middle,Middle,Middle,Middle,Middle
+90000764,"Удаленно: Senior Backend Architect (Go, PostgreSQL, Kafka)",Senior,540000.0,0,6,remote,"[""Linux"", ""Microservices"", ""Go"", ""Celery"", ""Kafka"", ""ClickHouse""]",616,Middle,Senior,Senior,Senior,Senior,Senior
+90001223,Data Engineer,Middle,275000.0,0,3,fullDay,"[""Kubernetes"", ""Docker"", ""Redis""]",314,Middle,Middle,Middle,Middle,Middle,Middle
+90000487,Trainee / Junior Data Engineer,Junior,,1,3,remote,"[""REST API"", ""Django"", ""CI/CD""]",593,Middle,Senior,Junior,Senior,Senior,Senior
+90000551,Software Engineer,Junior,,1,4,fullDay,"[""Asyncio"", ""Go"", ""Celery"", ""Python""]",320,Middle,Middle,Middle,Middle,Middle,Middle
+90000272,Разработчик Python,Junior,57500.0,0,6,flexible,"[""REST API"", ""Git"", ""Python"", ""Kafka"", ""PostgreSQL"", ""Kubernetes""]",639,Middle,Junior,Junior,Junior,Junior,Junior
+90000860,Ищем: Junior DevOps Engineer,Junior,,1,5,fullDay,"[""REST API"", ""Git"", ""Python"", ""Django"", ""PostgreSQL""]",345,Middle,Junior,Junior,Junior,Junior,Junior
+90000008,Senior Python Developer,Senior,407500.0,0,4,remote,"[""Kubernetes"", ""ClickHouse"", ""PostgreSQL"", ""Python""]",341,Middle,Senior,Senior,Senior,Senior,Senior
+90000900,"Senior Backend Architect (Go, PostgreSQL, Kafka)",Senior,,1,4,remote,"[""PostgreSQL"", ""Linux"", ""Python"", ""RabbitMQ""]",609,Middle,Junior,Junior,Junior,Junior,Junior
+90000111,Удаленно: Senior Golang Developer,Senior,320000.0,0,3,fullDay,"[""Microservices"", ""ClickHouse"", ""Python""]",342,Middle,Senior,Middle,Senior,Senior,Middle
+90000103,Senior Python Developer,Senior,,1,4,fullDay,"[""Go"", ""ClickHouse"", ""Linux"", ""Python""]",598,Middle,Junior,Junior,Junior,Junior,Junior
+90000404,Ищем: Middle Python Developer,Middle,215000.0,0,6,remote,"[""Go"", ""SQLAlchemy"", ""Python"", ""Asyncio"", ""Kafka"", ""PostgreSQL""]",624,Middle,Middle,Middle,Middle,Middle,Middle
+90000464,Ищем: Senior Data Engineer / Architect,Senior,397500.0,0,7,remote,"[""FastAPI"", ""Kafka"", ""Django"", ""CI/CD"", ""Go"", ""Docker"", ""Kubernetes""]",637,Middle,Senior,Senior,Senior,Senior,Senior
+90000926,Ищем: Middle Data Engineer,Middle,245000.0,0,6,remote,"[""Git"", ""Redis"", ""Go"", ""SQLAlchemy"", ""Asyncio"", ""PostgreSQL""]",617,Middle,Middle,Middle,Middle,Middle,Middle
+90000971,Младший программист Python / Django,Junior,,1,7,fullDay,"[""REST API"", ""Git"", ""Linux"", ""Go"", ""Docker"", ""Python"", ""PostgreSQL""]",363,Middle,Junior,Junior,Junior,Junior,Junior
+90000773,Разработчик Python,Middle,107500.0,0,5,fullDay,"[""Pytest"", ""Celery"", ""Django"", ""ClickHouse"", ""PostgreSQL""]",340,Middle,Junior,Junior,Junior,Junior,Junior
+90001234,Senior Data Engineer / Architect,Junior,377500.0,0,5,flexible,"[""Go"", ""Docker"", ""Kafka"", ""PostgreSQL"", ""Kubernetes""]",349,Middle,Senior,Senior,Senior,Senior,Senior
+90000581,Удаленно: Middle Python Developer,Middle,155000.0,0,4,flexible,"[""Microservices"", ""Django"", ""PostgreSQL"", ""Python""]",350,Middle,Junior,Middle,Middle,Middle,Middle
+90000928,Ищем: Junior QA Automation (Python),Junior,77500.0,0,5,fullDay,"[""Git"", ""Linux"", ""Python"", ""Django"", ""PostgreSQL""]",613,Middle,Junior,Junior,Junior,Junior,Junior
+90000207,Ищем: Senior Golang Developer,Senior,420000.0,0,5,flexible,"[""REST API"", ""FastAPI"", ""Linux"", ""CI/CD"", ""Docker""]",610,Middle,Senior,Senior,Senior,Senior,Senior
+90000028,Tech Lead (Python / FastAPI / Highload),Senior,510000.0,0,3,remote,"[""Git"", ""Kafka"", ""Go""]",329,Middle,Senior,Senior,Senior,Senior,Senior
+90000898,Senior Golang Developer,Senior,407500.0,0,8,remote,"[""Redis"", ""CI/CD"", ""Go"", ""Docker"", ""Kafka"", ""ClickHouse"", ""PostgreSQL"", ""RabbitMQ""]",364,Middle,Senior,Senior,Senior,Senior,Senior
+90000594,Middle Go Engineer (Микросервисы),Middle,,1,6,remote,"[""Git"", ""CI/CD"", ""SQLAlchemy"", ""Docker"", ""Python"", ""PostgreSQL""]",359,Middle,Middle,Junior,Middle,Middle,Middle
+90001128,Удаленно: Junior Go / Golang Developer,Junior,,1,5,fullDay,"[""Git"", ""REST API"", ""Linux"", ""Python"", ""Django""]",350,Middle,Junior,Junior,Junior,Junior,Junior
+90000919,DevOps Engineer,Junior,60000.0,0,5,remote,"[""Linux"", ""Microservices"", ""Django"", ""Kafka"", ""PostgreSQL""]",338,Middle,Junior,Junior,Junior,Junior,Junior
+90000248,IT Компания: Fullstack Developer (Python / Vue.js),Middle,177500.0,0,6,remote,"[""Git"", ""CI/CD"", ""Go"", ""SQLAlchemy"", ""Docker"", ""Python""]",368,Middle,Middle,Middle,Middle,Middle,Middle
+90000613,IT Компания: Junior QA Automation (Python),Junior,,1,6,remote,"[""Git"", ""REST API"", ""Linux"", ""Docker"", ""ClickHouse"", ""PostgreSQL""]",626,Middle,Junior,Junior,Junior,Middle,Junior
+90001181,Ищем: Junior Backend Engineer (FastAPI),Junior,90000.0,0,8,remote,"[""Git"", ""REST API"", ""Linux"", ""FastAPI"", ""Kafka"", ""Django"", ""PostgreSQL"", ""Kubernetes""]",657,Middle,Junior,Junior,Junior,Junior,Junior
+90001081,Ищем: Trainee / Junior Data Engineer,Junior,,1,5,flexible,"[""Git"", ""FastAPI"", ""Redis"", ""Python"", ""Django""]",347,Middle,Middle,Junior,Middle,Middle,Middle
+90000626,"Senior Backend Architect (Go, PostgreSQL, Kafka)",Senior,305000.0,0,5,flexible,"[""Linux"", ""FastAPI"", ""Python"", ""ClickHouse"", ""RabbitMQ""]",615,Middle,Middle,Middle,Senior,Senior,Middle
+90000858,Инженер бэкенда,Junior,,1,6,remote,"[""Git"", ""REST API"", ""Linux"", ""Django"", ""PostgreSQL"", ""Kubernetes""]",343,Middle,Junior,Junior,Junior,Junior,Junior
+90000345,Удаленно: Middle Python Developer,Middle,162500.0,0,3,fullDay,"[""Git"", ""Go"", ""SQLAlchemy""]",328,Middle,Junior,Junior,Middle,Middle,Junior
+90000830,"Middle DevOps Engineer (Docker, K8s)",Middle,245000.0,0,5,flexible,"[""Redis"", ""SQLAlchemy"", ""Celery"", ""Python"", ""Asyncio""]",354,Middle,Middle,Middle,Middle,Middle,Middle
+90000851,Младший программист Python / Django,Junior,,1,5,fullDay,"[""Redis"", ""Python"", ""Kafka"", ""PostgreSQL"", ""RabbitMQ""]",616,Middle,Middle,Junior,Middle,Middle,Middle
+90000143,Data Engineer,Middle,72500.0,0,4,fullDay,"[""Git"", ""Django"", ""Linux"", ""Redis""]",314,Middle,Junior,Junior,Junior,Junior,Junior
+90001227,Junior Go / Golang Developer,Junior,70000.0,0,4,remote,"[""Git"", ""Django"", ""Python"", ""Asyncio""]",332,Middle,Junior,Junior,Junior,Junior,Junior
+90000122,Ищем: Ведущий разработчик Python,Senior,435000.0,0,7,fullDay,"[""Linux"", ""Microservices"", ""CI/CD"", ""Go"", ""Celery"", ""Python"", ""Kubernetes""]",367,Middle,Senior,Senior,Senior,Senior,Senior
+90000775,Удаленно: Middle Go Engineer (Микросервисы),Middle,205000.0,0,4,fullDay,"[""Python"", ""Git"", ""Go"", ""Redis""]",341,Middle,Middle,Middle,Middle,Middle,Middle
+90000823,Junior Python Developer,Junior,82500.0,0,3,fullDay,"[""Linux"", ""PostgreSQL"", ""Python""]",324,Middle,Junior,Junior,Junior,Junior,Junior
+90000158,Junior DevOps Engineer,Junior,100000.0,0,3,remote,"[""Git"", ""Linux"", ""Redis""]",586,Middle,Junior,Junior,Junior,Junior,Junior
+90000621,Ищем: Junior Python Developer,Junior,50000.0,0,7,flexible,"[""REST API"", ""Linux"", ""Microservices"", ""Pytest"", ""Python"", ""Django"", ""PostgreSQL""]",641,Middle,Junior,Junior,Junior,Junior,Junior
+90001050,IT Компания: Senior Golang Developer,Senior,,1,6,flexible,"[""FastAPI"", ""Microservices"", ""Kafka"", ""CI/CD"", ""Kubernetes"", ""PostgreSQL""]",649,Middle,Senior,Senior,Senior,Senior,Senior
+90001001,Python Backend Engineer,Senior,,1,5,remote,"[""FastAPI"", ""Redis"", ""Microservices"", ""Python"", ""Asyncio""]",345,Middle,Middle,Middle,Middle,Middle,Senior
+90000023,Удаленно: Middle Data Engineer,Middle,,1,6,fullDay,"[""Git"", ""FastAPI"", ""Microservices"", ""SQLAlchemy"", ""Asyncio"", ""PostgreSQL""]",366,Middle,Middle,Middle,Middle,Middle,Senior
+90000688,Стажер-разработчик Python,Junior,55000.0,0,5,fullDay,"[""REST API"", ""Python"", ""Django"", ""PostgreSQL"", ""RabbitMQ""]",347,Middle,Junior,Junior,Junior,Junior,Junior
+90000993,Golang Developer (Middle),Middle,,1,5,fullDay,"[""Redis"", ""SQLAlchemy"", ""Docker"", ""Python"", ""Asyncio""]",611,Middle,Middle,Middle,Middle,Middle,Middle
+90001200,Ищем: Lead / Senior Backend Engineer (Go / Python),Senior,482500.0,0,6,fullDay,"[""REST API"", ""FastAPI"", ""Microservices"", ""CI/CD"", ""Docker"", ""PostgreSQL""]",635,Middle,Senior,Senior,Senior,Senior,Senior
+90001048,Data Engineer,Middle,477500.0,0,6,remote,"[""FastAPI"", ""Microservices"", ""Docker"", ""Celery"", ""Python"", ""Kafka""]",342,Middle,Senior,Senior,Senior,Middle,Senior
+90000060,Junior QA Automation (Python),Junior,90000.0,0,5,flexible,"[""FastAPI"", ""Linux"", ""Python"", ""Django"", ""PostgreSQL""]",347,Middle,Junior,Junior,Junior,Junior,Junior
+90000634,Удаленно: Golang Developer (Middle),Middle,200000.0,0,7,fullDay,"[""Redis"", ""CI/CD"", ""Go"", ""SQLAlchemy"", ""Docker"", ""Asyncio"", ""Kubernetes""]",368,Middle,Middle,Middle,Middle,Middle,Middle
+90000992,Удаленно: Fullstack Developer (Python / Vue.js),Middle,202500.0,0,4,remote,"[""Celery"", ""PostgreSQL"", ""Go"", ""FastAPI""]",603,Middle,Middle,Middle,Middle,Middle,Middle
+90000677,Удаленно: Middle Data Engineer,Middle,,1,5,fullDay,"[""Git"", ""CI/CD"", ""Celery"", ""Asyncio"", ""PostgreSQL""]",345,Middle,Middle,Middle,Junior,Junior,Middle
+90000460,"Senior Backend Architect (Go, PostgreSQL, Kafka)",Senior,,1,5,remote,"[""Go"", ""Docker"", ""Python"", ""ClickHouse"", ""RabbitMQ""]",364,Middle,Middle,Junior,Middle,Middle,Middle
+90000388,Инженер бэкенда,Senior,435000.0,0,7,fullDay,"[""FastAPI"", ""Linux"", ""Pytest"", ""Docker"", ""SQLAlchemy"", ""Kafka"", ""ClickHouse""]",352,Middle,Senior,Senior,Senior,Middle,Senior
+90000416,Удаленно: Junior DevOps Engineer,Junior,87500.0,0,5,fullDay,"[""Git"", ""Linux"", ""Python"", ""Django"", ""PostgreSQL""]",613,Middle,Junior,Junior,Junior,Junior,Junior
+90000083,Ищем: Senior Python Developer,Senior,345000.0,0,6,remote,"[""Linux"", ""Redis"", ""Go"", ""Docker"", ""Kafka"", ""Kubernetes""]",625,Middle,Senior,Senior,Senior,Senior,Senior
+90000766,"Ищем: Backend Разработчик (Python, FastAPI, PostgreSQL)",Middle,,1,5,fullDay,"[""Git"", ""Redis"", ""Python"", ""Asyncio"", ""PostgreSQL""]",613,Middle,Middle,Junior,Middle,Middle,Middle
+90000528,Ищем: Fullstack Developer (Python / Vue.js),Middle,157500.0,0,8,remote,"[""Git"", ""FastAPI"", ""Kafka"", ""Go"", ""SQLAlchemy"", ""Docker"", ""Kubernetes"", ""PostgreSQL""]",386,Middle,Middle,Middle,Middle,Middle,Middle
+90000863,Младший программист Python / Django,Junior,72500.0,0,3,remote,"[""Python"", ""PostgreSQL"", ""Linux""]",599,Middle,Junior,Junior,Junior,Junior,Junior
+90000165,Junior DevOps Engineer,Junior,,1,6,fullDay,"[""Git"", ""REST API"", ""Linux"", ""Celery"", ""Python"", ""PostgreSQL""]",346,Middle,Junior,Junior,Junior,Junior,Junior
