@@ -1,0 +1,795 @@
+id,Position,Company Name,Exp Years,target,Primary Keyword,English Level,desc_words,Dummy,Logistic Regression,KNN,Random Forest,Boosting,MLP,predicted
+0043c7d0-8259-5492-b2d7-02e628b3373e,ReactJS / JS developer,Flexilivre,1y,0–1 years,JavaScript,intermediate,89,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+00cc36d8-10ef-5f92-b069-4234fa200247,Java Developer,MCPK,1y,0–1 years,Java,upper,169,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+012f4f40-df4d-5971-a4e3-8dc338a470f9,iOS Trainee,ABCloudz,no_exp,0–1 years,iOS,intermediate,111,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+01dabe5c-80bf-5455-9668-37bf20fbbfdf,Software Engineer,GeeksForLess Inc.,3y,2–3 years,Java,upper,318,2–3 years,2–3 years,2–3 years,2–3 years,5+ years,5+ years,5+ years
+01fc944d-a17b-52a2-9b05-7c43bf331639,"Back-end developer (Express.JS, Nest.js, Meteor.js)",Dao Group,1y,0–1 years,JavaScript,pre,99,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+02dec524-e008-5913-9ac3-848429e33281,Senior Full-Stack JavaScript Developer,Latrock GmbH,3y,2–3 years,JavaScript,fluent,113,2–3 years,2–3 years,2–3 years,5+ years,5+ years,5+ years,5+ years
+0307d09b-a467-5b71-86c3-c759224d85d4,Junior Full-Stack JS Engineer (Node.js/React.js),Clover Dynamics,1y,0–1 years,Node.js,intermediate,94,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+034278a9-8dc7-5d11-a8c9-57bc7912ca35,Administrative Resource Coordinator,Qarea,1y,0–1 years,HR,upper,296,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+03cc69f0-6cb6-55a3-b12f-e9408a8c3894,Sales/Account Manager,Whales Ventures,2y,2–3 years,Sales,upper,199,2–3 years,0–1 years,0–1 years,0–1 years,0–1 years,0–1 years,0–1 years
+03da1e79-de93-5613-b9c5-a974739b1cd8,.Net developer,Avidi Technologies,1y,0–1 years,.NET,intermediate,212,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+03edcf33-db6f-5b30-b6a2-ae472cc1f53b,Fullstack Python React developer for a big News and Media Company,FlexMade,5y,5+ years,Python,upper,162,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+04170e91-181e-51f1-be28-978c0994602f,Junior Android Engineer,Star Global,1y,0–1 years,Android,upper,138,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+042a97b6-f0d5-5d76-b630-05aba005301b,Senior Go Developer,Code.store,3y,2–3 years,Golang,upper,353,2–3 years,2–3 years,5+ years,2–3 years,5+ years,5+ years,5+ years
+0452d7fa-f176-55ab-bbaa-7a6a7bac5d49,Senior Frontend developer,Serious Software,5y,5+ years,JavaScript,upper,122,2–3 years,2–3 years,5+ years,2–3 years,2–3 years,2–3 years,2–3 years
+0497a9cc-dd67-5dcf-a92e-eee9862773e0,TL JAVA Automation Engineer,Unicsoft,5y,5+ years,QA Automation,upper,130,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+053d4421-2371-5164-9cdb-7898df7890a2,Full stack developer,AppReal,5y,5+ years,Node.js,intermediate,210,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+063e15e7-a72b-5e2a-865a-1d804fe097f0,Middle/Senior Embedded Developer (Smart Home IoT Solutions),Sigma Software,5y,5+ years,C++,upper,291,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+06d05c87-25fe-5655-abb1-93f15f53a223,Game Development Intern,Sigma Software,no_exp,0–1 years,Unity,intermediate,246,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+07243187-8aef-563c-8d82-6e0944326af3,Embedded Developer,1000GEEKS,1y,0–1 years,C++,Unknown,81,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+07f3d099-587e-59cb-8b12-a889358da793,Technical artist,G-SPACE STUDIO,2y,2–3 years,Other,Unknown,155,2–3 years,0–1 years,0–1 years,2–3 years,0–1 years,0–1 years,0–1 years
+07fb2812-b443-50d7-8c4f-6e9bfb226764,Middle SQL Database Developer (DWH/ETL) for Austrian project,UPC,2y,2–3 years,SQL,upper,338,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,5+ years,5+ years
+081bdb69-a545-53a8-bdf6-475e70cbe4bf,Senior Java Developer (L),RQ Team,5y,5+ years,Java,intermediate,434,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+082cb87f-cb88-59b4-8d6b-e37f74b97c8a,Senior Android Engineer (Product company),Clover Dynamics,5y,5+ years,Android,intermediate,428,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+083a631c-802b-5872-a4ca-261679380eaf,Front-end Developer,Time2Mobile,no_exp,0–1 years,Node.js,upper,135,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+086d0a5b-27f1-5835-8844-c0dce2beb400,Customer support manager,Unicheck,1y,0–1 years,Other,fluent,176,2–3 years,2–3 years,0–1 years,2–3 years,2–3 years,2–3 years,2–3 years
+088b54b5-d179-5722-8f05-20fbd4d38840,SAP BASIS Administrator,Virtuace,5y,5+ years,Other,upper,632,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+08b88c72-8343-5759-9aa1-25ed09bf60d9,"Software Architect (C++, Linux)",Ring,5y,5+ years,C++,upper,446,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+08cd2f88-cbe3-5ec7-ac06-f8740b6b6368,DevOps/DevSecOps,MWDN,5y,5+ years,DevOps,intermediate,180,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+097356f9-2340-5669-8c5e-f815e8ea8698,Full Stack (StensilJS React/Angular + Nodejs)6+,ITSOFT,5y,5+ years,Other,upper,209,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+09c092e7-c771-50e4-92cc-c57c1f29adc9,QA LEAD,Ignite,5y,5+ years,QA,upper,303,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+09ece565-4ba0-5f56-a841-dfc1031781a9,QA Engineer (Manual),Unicsoft,5y,5+ years,QA,upper,142,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+0a0db8ba-a4f0-52d0-ae7c-98c2bf7cb63e,Java Team Lead,Trueplay,5y,5+ years,Java,intermediate,353,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+0a244b59-2a00-5651-9a99-c6096d96ab47,Junior Project Manager,Sigma Software,1y,0–1 years,Project Manager,upper,360,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+0a9b3189-0948-5a27-871e-bdcab7399664,"Middle QA engineer (Oracle, PL/SQL)",Softengi,1y,0–1 years,QA,Unknown,197,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+0acc21ce-6a5d-542f-83a3-070a7f6196ff,UI/UX Designer,"CXDojo, Inc",1y,0–1 years,Design,Unknown,242,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+0b0f5201-479a-5120-bfd7-f9a8bf8f10a8,Junior QA Engineer,Trust Sourcing,1y,0–1 years,QA Automation,upper,187,2–3 years,2–3 years,0–1 years,2–3 years,2–3 years,2–3 years,2–3 years
+0d500b9b-7517-52ea-86dd-653fcfea8a0c,Angular Developer (Poland),Edvantis Software,3y,2–3 years,JavaScript,upper,333,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,5+ years,5+ years
+0d783aa6-ee8c-52f6-92b3-4e90c1874284,Web Developer,Raiffeisen Bank Aval,2y,2–3 years,PHP,Unknown,171,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,0–1 years,0–1 years
+0dea2378-ea4c-55a9-b89b-3e656f20d90d,Senior/Lead .NET Developer,Zoral Labs,5y,5+ years,.NET,upper,306,2–3 years,2–3 years,2–3 years,5+ years,5+ years,2–3 years,2–3 years
+0dfe44df-3c43-55af-afbf-0253231ecd12,Full-stack (NodeJS+Angular) Engineer,ITRex-Group,2y,2–3 years,Node.js,upper,243,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,5+ years,5+ years
+0e54160a-21ec-55be-a713-30fc24515ecb,Java Software Engineer (India location),ABCloudZ,5y,5+ years,Java,upper,186,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+0e5feb27-e4e9-514b-b0fe-8c9198c0690c,Senior Android (Kotlin) developer,Intellias,5y,5+ years,Android,upper,346,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+0ef16856-2e19-5aee-85ab-05cf082d607f,Junior Java developer,Kiana.io,no_exp,0–1 years,Java,intermediate,206,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+0ff9640c-39bd-59f6-adcc-84addab2bfb3,Middle/Senior React Engineer,Zetico,1y,0–1 years,JavaScript,fluent,415,2–3 years,5+ years,2–3 years,5+ years,5+ years,2–3 years,2–3 years
+10516f12-e16d-5dc0-ba0c-ddaf6fd971f1,Marketing Specialist,A.V.A. LTD,3y,2–3 years,Marketing,upper,203,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,0–1 years,0–1 years
+10b1a686-189d-58a8-a5e7-5eef70d1d399,QA Engineer,DevelopsToday,1y,0–1 years,QA,intermediate,232,2–3 years,2–3 years,0–1 years,2–3 years,2–3 years,2–3 years,2–3 years
+11574bcd-e152-54ba-82fd-9c8f2bf893c9,Senior Full-stack .Net Developer,Ukraine Tech IT Recruiting and Staffing,5y,5+ years,.NET,upper,459,2–3 years,5+ years,2–3 years,5+ years,2–3 years,2–3 years,2–3 years
+1179f90e-520e-54e6-b514-5578d80beccb,Wellbeing manager JB-509,AllStartsIT,2y,2–3 years,HR,intermediate,137,2–3 years,0–1 years,0–1 years,0–1 years,0–1 years,0–1 years,0–1 years
+11b56762-9e93-5abf-9422-842bca652ef7,Middle Frontend ReactJS developer,Intellias,1y,0–1 years,JavaScript,intermediate,210,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+121d266b-0f1b-5eb8-82c1-601b2067a09d,Head of Lead Generation,Softjourn,5y,5+ years,Marketing,fluent,271,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+122a1b74-fca6-56a0-a050-95f2aa7c777a,IT TL/Manager for PMI,PMI team,5y,5+ years,Other,upper,447,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+12ac772a-e1cc-51f2-80c7-d51b2e32672e,Product Owner,IdeaSoft.io,5y,5+ years,Product Manager,intermediate,111,2–3 years,2–3 years,0–1 years,2–3 years,2–3 years,2–3 years,2–3 years
+12cc9272-e036-5764-a787-0d7f4bfed9b1,Senior Front End Developer,Storypoint,5y,5+ years,JavaScript,upper,103,2–3 years,2–3 years,5+ years,2–3 years,2–3 years,2–3 years,2–3 years
+1350f110-16bd-5558-b465-241cd76f379e,Big Data Developer,"TPE, Odessa - The Product Engine",2y,2–3 years,Java,intermediate,177,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,5+ years,5+ years
+13b79e5a-6e36-52a6-ac69-94168dfcb582,Middle full stack engineer (NodeJs),Teamvoy,1y,0–1 years,Node.js,intermediate,251,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+13bd58ee-1cbf-534b-a978-43420bfe6f56,Business Intelligence developer,Gemicle,5y,5+ years,Business Analyst,intermediate,351,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+13ed0913-b6db-58c6-ab05-230d5a5b1dc2,HTML / CSS Coder,IT Craft,1y,0–1 years,JavaScript,intermediate,159,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+13f97286-5e6f-5d05-a121-317cca2348a1,Senior  C#/.Net Software Developer,Envion Software,5y,5+ years,.NET,upper,383,2–3 years,5+ years,2–3 years,5+ years,5+ years,2–3 years,2–3 years
+14195837-dcd7-5bd3-86d0-032968a5bc73,Account Manager,Start2Pay,1y,0–1 years,Marketing,upper,268,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+148e259a-88ab-53e1-9c17-31c1d979e97d,Senior Python/Go engineer with DevOps experience,Intellias,5y,5+ years,Python,intermediate,259,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+14a3bff0-3d6c-592e-8f8a-b0b39cd7c374,Back End Engineer - Spark team,Readdle,3y,2–3 years,Golang,intermediate,285,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,5+ years,5+ years
+14ac3ce0-5e49-5904-a95d-3dc01428b039,Senior Frontend Developer,Tetracode,5y,5+ years,JavaScript,intermediate,518,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+14bfac6a-0cf1-54ee-883d-0c927a70c774,Drupal/JavaScript developer,SevenPro,2y,2–3 years,JavaScript,upper,220,2–3 years,5+ years,0–1 years,2–3 years,2–3 years,5+ years,5+ years
+15950f7f-e010-5ba5-86f4-e0c2850594a6,Junior Full-stack JavaScript engineer,Clover Dynamics,1y,0–1 years,JavaScript,intermediate,144,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+15d02778-545f-59db-98a7-d479a1b4787e,Sr. Software Engineer,Blackthorn,5y,5+ years,Python,upper,175,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+15dd77f0-42bb-5cfc-9d03-1d0b0c2de694,Ruby on Rails developer,Optimify Studio,3y,2–3 years,Ruby,upper,434,2–3 years,5+ years,5+ years,2–3 years,5+ years,5+ years,5+ years
+160f3bd8-7f37-5b27-ac3c-ba3bf3f07082,Associate/ Junior Java Developer,Intellias,1y,0–1 years,Java,intermediate,208,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+16146ac5-9bc3-58a9-8251-0920ef196a75,Web Producer,Boyle Software,1y,0–1 years,Design,intermediate,438,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+1657f7a4-fb24-5398-8802-50cf067ea91c,Senior Delivery Manager,Intellias,5y,5+ years,Project Manager,fluent,363,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+16cd048b-4aa6-5e5d-9388-ee0cdeb2a293,Junior Data Engineer for AI Software Product,Simporter,1y,0–1 years,Data Engineer,upper,227,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+1708ee02-83e4-51be-bb7c-fec475c0347f,UI Designer,ColorElephant,1y,0–1 years,Design,upper,489,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+17793510-48aa-5929-af51-256beec478cb,Senior React JS Engineer,Intellias,5y,5+ years,JavaScript,intermediate,124,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+17bfad2f-9e14-5bb5-814d-3c2db0fc2836,React.JS Developer,MWDN,5y,5+ years,JavaScript,upper,212,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+18012395-096a-5cdb-ae5e-8bb7b515d62e,Account Manager,IT Svit,1y,0–1 years,Other,upper,462,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+1863e0ee-eeeb-5fe4-b99c-50a47fbbf03e,Agile Project manager,Fintegro,1y,0–1 years,Project Manager,upper,170,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+18b6008a-3f66-5d10-a243-ae50c727b1b1,Manual / Automation QA Engineer,MWDN,5y,5+ years,QA,upper,195,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+18b84da0-8ec4-5c83-84cf-75f30b35d3f6,Middle SEO Specialist,4ireLabs,1y,0–1 years,SEO,intermediate,247,2–3 years,2–3 years,0–1 years,2–3 years,2–3 years,2–3 years,2–3 years
+193a1a25-1f8f-5660-bc62-1e3225db95c2,Senior PostgresSQL DBA,Intellias,3y,2–3 years,SQL,upper,259,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,5+ years,5+ years
+19430c96-b459-5ad3-b3a3-3e2ea075ba3a,Junior+/Middle WordPress Full-Stack Developer,Markupus,2y,2–3 years,PHP,Unknown,112,2–3 years,2–3 years,0–1 years,0–1 years,2–3 years,0–1 years,0–1 years
+196def17-eba1-5806-9ecc-f89c5a83580f,Content Writer,KeyUA,1y,0–1 years,Other,fluent,113,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+19f9c343-bb5a-50d4-a006-4e4738cf4066,AI/ML Engineer,SPD-Ukraine,5y,5+ years,Data Science,intermediate,684,2–3 years,2–3 years,5+ years,2–3 years,2–3 years,2–3 years,2–3 years
+1a162c04-bbf3-515f-a7c2-944c04cfb175,Front End Developer,Recruit-Alliance,5y,5+ years,JavaScript,upper,142,2–3 years,2–3 years,5+ years,2–3 years,2–3 years,2–3 years,2–3 years
+1a240374-ac04-5498-a4df-dddfefca3c4d,Database Administrator (DBA),Play Solutions SRL,5y,5+ years,SQL,intermediate,310,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+1a700af9-e087-559e-81ee-db77f36e5127,Android Engineer (EU),SPD-Ukraine,5y,5+ years,Android,upper,446,2–3 years,2–3 years,5+ years,2–3 years,2–3 years,2–3 years,2–3 years
+1a73f754-44d5-5e43-a20c-47778aabb595,Team Lead Golang Developer,MEDIASAPIENS,5y,5+ years,Golang,upper,185,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+1a9e95e1-56be-5598-af6f-d8b993522927,Cisco IP Telephony Engineer (Senior),Virtuace,5y,5+ years,Support,upper,200,2–3 years,0–1 years,0–1 years,0–1 years,0–1 years,0–1 years,0–1 years
+1aac1747-b59c-5f4e-9396-3d99346a5e05,Marketing Manager,eKreative,1y,0–1 years,Marketing,upper,232,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+1b42eca9-0239-5727-8e47-20bda4906d13,QA (game),Stan's Assets,2y,2–3 years,QA,fluent,227,2–3 years,2–3 years,2–3 years,5+ years,2–3 years,5+ years,5+ years
+1b621fcd-5963-599d-8a60-fb4e1b4c6c62,Senior Python Developer,Newxel,5y,5+ years,Python,upper,115,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+1c284771-501c-5ba5-8e84-bb9a398b7fea,Full stack software engineer (Project area:Health) (NodeJS/React),Recruit-Alliance,5y,5+ years,Node.js,upper,187,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+1c84d1ae-a761-5333-85da-f55d77aadd6e,Senior Blockchain Developer,Unstoppable Domains,5y,5+ years,Java,upper,258,2–3 years,2–3 years,5+ years,2–3 years,2–3 years,2–3 years,2–3 years
+1c8eca3a-1b3d-59b7-91d5-290ebefe2c08,Mobile App Tester,VlogEasy,2y,2–3 years,QA,upper,63,2–3 years,2–3 years,0–1 years,0–1 years,0–1 years,0–1 years,0–1 years
+1ca48d01-9044-51a6-ba31-4f7298a4c5ef,QA Testing Trainer,AVS,5y,5+ years,QA Automation,Unknown,133,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+1cf77b7e-4e51-531a-bf6b-c9a167e51110,Full Stack Software Engineer (GMT-5 to GMT+3),VP Team,5y,5+ years,JavaScript,upper,686,2–3 years,2–3 years,5+ years,2–3 years,2–3 years,2–3 years,2–3 years
+1d0e0b4f-e5ed-543b-970a-610406d52364,Junior JS Developer,Findify,1y,0–1 years,JavaScript,upper,745,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+1d4c7742-be31-5ea9-980b-6f45ad451746,Chief Executive Officer,Forex Tester Software Inc,5y,5+ years,Product Manager,upper,923,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+1d4f25c5-9cc0-50d1-a48b-dc765c2a4250,.Net/Azure Team Lead/ Architect,"TEAM International Services, Inc.",5y,5+ years,.NET,intermediate,530,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+1d633fa0-6e6e-5b66-b9aa-ae7dd1daece5,DevOps Team Lead,atlas-iac.com,5y,5+ years,DevOps,Unknown,195,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+1d7566c8-f46f-5a83-984f-8a921fe8540a,Middle QA Engineer,IT Craft,2y,2–3 years,QA,intermediate,196,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,0–1 years,0–1 years
+1d9fa1ab-966c-53d7-bb77-75739046a4fa,Nodejs developer,DIGIS,1y,0–1 years,Node.js,intermediate,62,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+1e06a03c-da6a-5ddf-8433-fb64c932240b,Blockchain Data Analysis Developer (Golang / Rust / Ethereum),Binance,2y,2–3 years,Golang,upper,131,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,5+ years,5+ years
+1ebaa849-39f1-5f2e-9d68-35697c5831a3,Senior Power Platform / Dynamics 365 Consultant,LogiqApps AS,3y,2–3 years,Lead,upper,254,2–3 years,5+ years,5+ years,5+ years,5+ years,5+ years,5+ years
+1f1ed8ea-9beb-5ae5-afbb-7f651a32552e,IT Lawyer,Sigma Software,3y,2–3 years,Other,intermediate,120,2–3 years,2–3 years,0–1 years,2–3 years,2–3 years,0–1 years,0–1 years
+1fc5e315-51bd-5edb-afcc-aabb6dca060e,Junior React JS Developer,Intellias,1y,0–1 years,JavaScript,upper,288,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+2005ee46-fb06-5fdc-a6d2-fd2b60699614,UnrealEngine Developer,Simplify,5y,5+ years,Other,upper,122,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,0–1 years,0–1 years
+200f4339-6fc0-5005-90da-779d2dcff7a7,Laravel Developer with knowledge Shopify,WebMeridian,2y,2–3 years,PHP,intermediate,140,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,0–1 years,0–1 years
+204c0449-ab9e-52ba-9d01-024db18b42f0,Junior WordPress developer,Beetroot,1y,0–1 years,JavaScript,intermediate,162,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+2077bb3b-65dc-5088-b2cd-42ca2549e857,Frontend Developer (Junior/Middle),agenatech.com,1y,0–1 years,JavaScript,intermediate,110,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+2167e27b-59d1-5b31-81b4-25a82633006a,UI/UX Designer,altertech,1y,0–1 years,Design,Unknown,97,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+219defac-bed6-5259-b91b-fb22de3469a2,Trainee/Junior QA Engineer,Bytebrand,no_exp,0–1 years,QA,upper,218,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+21a8941f-8a3d-5256-8b82-88570c0da76c,Solidity Developer (Middle/Senior),4irelabs,1y,0–1 years,Other,Unknown,233,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+2254df0d-6add-5799-ae35-8e01cfbe8def,Lead Generation Specialist,GetApp Group,2y,2–3 years,Lead Generation,upper,260,2–3 years,0–1 years,2–3 years,2–3 years,2–3 years,0–1 years,0–1 years
+22be1948-ed78-5390-bcf1-6052c349a450,Senior Android Developer (Java),Intellias,5y,5+ years,Android,intermediate,207,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+23406e0d-691a-5d71-8d38-4bab1a3a6022,Node.js developer,GeeksForLess Inc.,3y,2–3 years,Node.js,upper,143,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,5+ years,5+ years
+23b1eb25-aeb0-55fc-a8e0-7d50dacf59b7,Junior Frontend Developer (Angular),Vakoms,1y,0–1 years,JavaScript,intermediate,230,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+23e29c97-c846-5ad1-8514-f491681b270f,Middle NativeScript/Vue.js Developer,2muchcoffee,1y,0–1 years,JavaScript,intermediate,97,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+24022a9e-55c3-597a-b840-f11beaf889df,Odoo Business Analyst,Netframe,1y,0–1 years,Business Analyst,intermediate,405,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+24067fe5-2a63-57ec-b2f1-f0c446f813a1,NOC agent,GeeksForLess Inc.,1y,0–1 years,Support,upper,213,2–3 years,0–1 years,2–3 years,2–3 years,0–1 years,2–3 years,2–3 years
+240f12ce-c42c-541d-b609-15ae7a2e3626,C# QA Automation,GeeksForLess Inc.,1y,0–1 years,.NET,upper,129,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+2448f15e-45c9-5914-850c-180fb4aabb3e,Business System Analyst 1C,Antal,1y,0–1 years,Business Analyst,intermediate,180,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+247cfc7b-a0a9-54e6-99d5-f4d49aec6870,Experienced Recruiter,Lemberg,1y,0–1 years,HR,upper,283,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+249b1a90-de87-59e3-9fdb-a862a6b4e299,Junior Automation QA,Lehrermarktplatz,1y,0–1 years,QA Automation,intermediate,360,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+24a02dd1-db63-524c-8b8d-e62071079109,Middle/Senior SAP ABAP developer,Unicsoft,3y,2–3 years,Other,Unknown,103,2–3 years,0–1 years,0–1 years,0–1 years,0–1 years,0–1 years,0–1 years
+24f10878-019f-5830-85be-68b4b5e48b96,Growth Marketer (CMO),Eleken,2y,2–3 years,Marketing,upper,195,2–3 years,2–3 years,2–3 years,0–1 years,0–1 years,0–1 years,0–1 years
+251937b7-8153-597c-8d15-c0b19e2cbf59,HR Generalist,Simporter,1y,0–1 years,HR,upper,349,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+2544f8cf-681f-55e1-b338-cc53ead53e58,DevOps Engineer,Softjourn,no_exp,0–1 years,DevOps,upper,280,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+25c9d103-f615-5cac-ad2a-409e62fd949e,Senior Python Engineer,Serious Software,5y,5+ years,Python,upper,76,2–3 years,2–3 years,2–3 years,2–3 years,5+ years,2–3 years,2–3 years
+25fdb8f9-1fb8-5d0d-b6b2-4fd0389ded5b,Senior Node.js Backend Developer,Intellias,5y,5+ years,Node.js,intermediate,233,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+262dbf30-ccc2-5667-80b8-3ed9d8e5639c,Junior PHP developer,acropolium.com,1y,0–1 years,PHP,pre,100,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+2656cc52-56b8-5a9c-a6ca-b4040ff9dd70,Lead Frontend Engineer,BetteHealthcare,5y,5+ years,JavaScript,fluent,391,2–3 years,5+ years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+265c0bb5-2d06-516b-b87e-da84b637dfe9,Business Development Executive for North America,Intellias,5y,5+ years,Sales,fluent,57,2–3 years,0–1 years,0–1 years,2–3 years,0–1 years,0–1 years,0–1 years
+26dd312f-ffda-5295-939c-8832f21161e3,Software Test Lead in Portugal,Intellias,5y,5+ years,C++,intermediate,203,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+278cbbb1-eeb2-58b0-b99d-19949d74178b,Full Stack Developer (Node.js & React.js),A-HR,5y,5+ years,Node.js,upper,190,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+27933e35-6616-516e-9a7d-b7084dca4a44,Senior Backend (Node.js+Typescript) Developer - for a project  4+ months,Unicsoft,5y,5+ years,Node.js,intermediate,133,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+286b6547-eddc-5bc0-b12b-70a84049f70e,Front End Developer,Valantic Company,1y,0–1 years,JavaScript,intermediate,99,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+28ce2493-7a4d-570a-9b67-6ed1d966a271,React Native Developer,Addictive Learning,no_exp,0–1 years,iOS,Unknown,104,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+29224240-441c-5d55-b159-77a786b5de5e,Senior SEO Specialist,Boosta,5y,5+ years,Marketing,upper,408,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+294fb055-e5d0-5c05-8a6d-b5bad9f14f2b,Senior Angular Developer,ARENA CS,3y,2–3 years,JavaScript,upper,337,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,5+ years,5+ years
+29f4e1b6-8122-5079-933e-97ee9f90fd52,Senior Front End Developer ( Vue),MWDN,5y,5+ years,JavaScript,intermediate,155,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+29f89f52-18dc-57ac-9a1b-72a50147506e,Android Tech Lead for a worldwide leader in the live-streaming space,Newxel,5y,5+ years,Android,intermediate,116,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+2a05e7a1-90e7-52db-8c8b-d4178d6f5081,Senior UX/Web designer,BlueStyle,3y,2–3 years,Design,pre,534,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,0–1 years,0–1 years
+2a0f22d2-893e-5ac2-9e01-1792a867376f,Middle Fullstack Developer JavaScript (Typescript+NodeJS),Intellias,3y,2–3 years,JavaScript,upper,245,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,5+ years,5+ years
+2abf3ca5-59cb-52ab-8961-6bef990c1e03,Full Stack Developer,MWDN,5y,5+ years,Python,intermediate,160,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+2ad80da9-8d3f-5999-b9c6-e292c03c8c0f,SAP Expert,TalentsToday,3y,2–3 years,Other,upper,67,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,0–1 years,0–1 years
+2ad82122-b01e-5456-b908-afc138057a26,Senior Front End developer,Serious Software,5y,5+ years,JavaScript,upper,114,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+2b0a85f7-066a-50d3-bdf5-2d21d90b6f94,Junior Java Configuration Engineer (no commercial experience)!,Softjourn,no_exp,0–1 years,Java,upper,88,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+2b42fda6-7203-5b90-bb82-6231cd558136,Lead Vue.js developer,MauDau,5y,5+ years,JavaScript,Unknown,262,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+2b6e7880-57af-522f-af45-70fa5cd24901,Senior Data Engineer,K&C,5y,5+ years,Data Engineer,fluent,392,2–3 years,5+ years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+2b83ceed-8b7d-50bd-b3ee-f1056975ed36,Junior Business Analyst/Project Manager,Tappo,1y,0–1 years,Business Analyst,intermediate,387,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+2bc1961e-8b82-59c0-b9a4-9d89f987d72a,Full Stack  Engineer,OneLedger,3y,2–3 years,Data Engineer,upper,394,2–3 years,5+ years,2–3 years,2–3 years,5+ years,5+ years,5+ years
+2bfd9c26-ac6d-5841-aa31-9dc7213b46b2,Technical Support Specialist,Stark Affiliates,1y,0–1 years,Other,intermediate,332,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+2c4e22f7-5095-5f3b-9587-e48066bc2ebe,Product Designer,Brightfin,1y,0–1 years,Design,intermediate,368,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+2cf7c35f-f016-5c2d-b345-4d69064c2284,Operations Director (Malta),Intellias,5y,5+ years,Other,fluent,277,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+2cfe2a33-542c-518f-8254-3ac19af71726,IT recruiter,VIINARS,2y,2–3 years,Recruiter,intermediate,307,2–3 years,0–1 years,0–1 years,2–3 years,0–1 years,0–1 years,0–1 years
+2db65299-2535-5f66-974c-63dae1ca80f0,Blockchain Developer,KIRA,3y,2–3 years,Golang,fluent,44,2–3 years,2–3 years,2–3 years,5+ years,0–1 years,5+ years,5+ years
+2e284fc9-7fe2-5b86-a668-394eeaf4fab4,Business Analyst,Intellias,5y,5+ years,Business Analyst,upper,368,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+2e3daadb-f737-591e-b5cb-e8eca3d416c1,Ruby on Rails Developer,Sloboda Studio,5y,5+ years,Ruby,upper,212,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+2e77bd05-f73d-58e8-a0d6-5167e99ff195,Fullstack Developer SaaS Product,ClaimForce,3y,2–3 years,Node.js,fluent,431,2–3 years,5+ years,2–3 years,5+ years,5+ years,5+ years,5+ years
+2ec2ba0d-b2f7-529b-8dba-310239cc6a2f,Quality Assurance Engineer,eWave,1y,0–1 years,QA,intermediate,250,2–3 years,2–3 years,0–1 years,0–1 years,2–3 years,2–3 years,2–3 years
+2f23ba64-4e84-5a4f-ab59-56b5f844a60c,2-3 Application Security Engineers (only for Ukraine candidates),QArea,2y,2–3 years,SQL,intermediate,442,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,0–1 years,0–1 years
+2f37ab14-7192-5933-9d6e-e41ea2588aa3,Javascript developer,EX.CO,5y,5+ years,JavaScript,Unknown,195,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+3014a87d-50ef-520a-812c-563776baf1b8,Product Manager,Star Global,5y,5+ years,Product Manager,upper,94,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+303a5d11-059d-5fe2-8d42-669b7c2c017e,Senior Mobile Engineer - React Native,Software Rocket,3y,2–3 years,Android,upper,215,2–3 years,2–3 years,5+ years,2–3 years,2–3 years,5+ years,5+ years
+30920f52-dc40-5f07-af13-f85a2ed3f708,Junior DevOps Engineer,𝐝𝐞𝐯𝐬𝐩𝐢𝐫𝐚𝐭𝐢𝐨𝐧,1y,0–1 years,DevOps,upper,204,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+30ed2dd7-eb3b-513c-a7ee-1bdcbc36155b,Senior Brand Manager for PMI,Parimatch Tech,5y,5+ years,Marketing,upper,285,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+312383b0-fbe1-5d59-bbcd-1e0ad7ab744d,Head of Sales,Unicsoft,5y,5+ years,Sales,upper,316,2–3 years,2–3 years,0–1 years,0–1 years,2–3 years,0–1 years,0–1 years
+3139ed03-c35e-565c-89e1-f7e46618632d,HR Generalist,1000GEEKS,2y,2–3 years,HR,intermediate,157,2–3 years,0–1 years,0–1 years,0–1 years,0–1 years,0–1 years,0–1 years
+3200691d-12ed-556e-b755-daf7da170f2d,Senior C# Developer,"TPE, Odessa - The Product Engine",5y,5+ years,.NET,upper,186,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+32cd1f5f-7a89-52d2-864d-4e0147e106bf,Marketing Service Stream Product Owner,Binary Studio,5y,5+ years,Marketing,fluent,441,2–3 years,2–3 years,0–1 years,2–3 years,2–3 years,2–3 years,2–3 years
+32f8ba93-0479-5ee4-a731-e987b68b2ea1,Manual QA / PlayCanvas editor integrator,Party.space,2y,2–3 years,QA,Unknown,107,2–3 years,0–1 years,2–3 years,2–3 years,0–1 years,0–1 years,0–1 years
+333c79a1-7d6a-5b07-b95a-3623e3ccff59,AWS Certified Solution Developer - Associates,HIRETOP - direct jobs for remote developers,5y,5+ years,Node.js,upper,86,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+3356d893-fce3-55ed-8d42-ba2320309e48,Java developer,Unicsoft,5y,5+ years,Java,upper,100,2–3 years,2–3 years,5+ years,2–3 years,2–3 years,2–3 years,2–3 years
+33d60739-3589-5798-a8d0-8a3a7e316170,Team Lead - Senior Full Stack Node.js React Developer,Frementa,3y,2–3 years,Java,upper,89,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,5+ years,5+ years
+3435e014-2cfb-5110-aafe-89b26a69c8ca,Ruby on Rails Developer,Remotal,5y,5+ years,Ruby,upper,236,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+3495479b-9266-5abf-be2e-8e1cdb506212,Senior JavaScript FullStack Software Engineer,Vsisvoi,3y,2–3 years,JavaScript,upper,290,2–3 years,2–3 years,5+ years,2–3 years,5+ years,5+ years,5+ years
+35217932-eeba-5705-bc7b-f888df02453c,Senior Back End Developer,Serious Software,5y,5+ years,Other,upper,106,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+35843ecd-e366-597c-90e8-835e1be89420,DevOps Engineer for PMI,Parimatch Tech,1y,0–1 years,DevOps,intermediate,126,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+359c1127-611c-50e3-a6c7-2181ebf8d084,Senior Database Developer,Intellias,5y,5+ years,SQL,upper,175,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+370b235d-c5a0-5d6a-a017-19e2dcafb0ca,Content Manager,Crowdin,1y,0–1 years,Marketing,fluent,191,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+37632b56-2993-5549-98d0-1b2c9ff96de1,AQA,DTeam,1y,0–1 years,QA Automation,upper,101,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+37e5e032-50a8-5acc-976d-24315c6c865e,IT Support Specialist,SQUAD,1y,0–1 years,Sysadmin,intermediate,313,2–3 years,2–3 years,0–1 years,2–3 years,2–3 years,2–3 years,2–3 years
+3892743b-697b-5b2c-aa7b-621e19c0c3a4,IT Recruiter (only Ukraine),QArea,2y,2–3 years,HR,Unknown,212,2–3 years,0–1 years,2–3 years,2–3 years,2–3 years,0–1 years,0–1 years
+38f318f0-cfe8-549b-8de4-336bf12e3e67,Full Stack Developer (mid/senior level) needed on a long term basis,EFC,1y,0–1 years,PHP,upper,272,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,5+ years,5+ years
+39d51b01-3478-5163-a42a-25b373d860d0,Senior C++ Developer,Occur,5y,5+ years,C++,Unknown,158,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+3a05616e-19aa-5198-ac1c-b6c2261f46c7,Senior Python Developer,Edvantis Software,5y,5+ years,Python,upper,253,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+3b141693-0c0d-5ebe-aa13-9425520801b1,IT Talent Sourcer,Softjourn,1y,0–1 years,HR,upper,196,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+3b18e22f-1dc3-5161-8451-b178cd94d987,Senior Frontend Developer (React),AET,5y,5+ years,JavaScript,upper,347,2–3 years,2–3 years,2–3 years,2–3 years,5+ years,2–3 years,2–3 years
+3bbe3136-16ed-5d1c-8987-037f9517caad,Social Media Specialist,IDR,1y,0–1 years,Marketing,fluent,289,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+3bc5e0bb-a683-5ee8-bfef-7aee47afcda1,Senior PHP developer  (Europe or Georgia),Centro team,5y,5+ years,PHP,intermediate,285,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+3c76e506-5ca6-5a5c-8640-3100f8c25f29,Middle/Senior Java Developer for the Financial Sector (Payment Services Directive),FlexMade,5y,5+ years,Java,upper,157,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+3c8cdbc5-451f-5437-bbe8-85c3ae061cd6,Senior Node.js Developer,GlenFlow,5y,5+ years,Node.js,upper,275,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+3cac6e1e-9729-5717-ae75-e0c051d02814,FullStack Ruby+React Engineer,Elixirator,3y,2–3 years,Ruby,upper,217,2–3 years,2–3 years,2–3 years,5+ years,5+ years,5+ years,5+ years
+3d5d4a0d-2b87-5cbf-9dd5-ec19b341b0b2,Senior iOS Product Engineer,Readdle,5y,5+ years,iOS,intermediate,354,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+3d888d8c-3797-5ff8-befe-a35d28251353,Node.js Developer,Brocoders,3y,2–3 years,Node.js,intermediate,435,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,5+ years,5+ years
+3da5b580-9c58-5558-b72c-c8d01354f4fa,System Administrator,FlexMade,1y,0–1 years,Sysadmin,Unknown,149,2–3 years,0–1 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+3e74eda6-36e9-5769-bd5a-5f37171908dd,Full stack developer,Softgroup,1y,0–1 years,PHP,upper,218,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+3e780f36-ac50-592f-9c43-a9babe253915,2D designer of creatives (photo),44gifts corp,no_exp,0–1 years,Artist,Unknown,47,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+3f477013-f3eb-5646-9c92-937760f4f05d,Strong Middle/Senior Golang Developer,Artelogic,3y,2–3 years,Golang,upper,294,2–3 years,2–3 years,2–3 years,5+ years,5+ years,5+ years,5+ years
+3f6e5c11-802a-5436-b256-3e4c80b5ac41,Junior Designer,Trust Sourcing,1y,0–1 years,Design,intermediate,242,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+3fb34f6d-bc2c-5183-9967-7fc557b61ac5,HelpDesk,Idenon,1y,0–1 years,Other,upper,362,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+3fd378f0-eeba-5b00-a4c2-92e61a5c23c7,Software Architect,Uadev,2y,2–3 years,Lead,upper,71,2–3 years,5+ years,2–3 years,5+ years,5+ years,5+ years,5+ years
+40c9a7b0-a36c-59e5-9779-b67f8f85948f,Business Architecture Lead,Unicsoft,5y,5+ years,Lead,intermediate,256,2–3 years,5+ years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+40fe320d-bc2a-5332-9488-8434824dec00,Junior HR Specialist,ExpoPlatform,no_exp,0–1 years,HR,upper,271,2–3 years,2–3 years,2–3 years,2–3 years,0–1 years,2–3 years,2–3 years
+410dd523-40d4-5e8b-a3c5-80c804442b09,Online advertisement campaign specialist,Audienzz,1y,0–1 years,Support,intermediate,167,2–3 years,0–1 years,2–3 years,2–3 years,0–1 years,2–3 years,2–3 years
+416b6d1a-70c4-5fe4-8970-47295e8ec4d5,Senior Development Manager,Simcorp,5y,5+ years,Project Manager,fluent,625,2–3 years,2–3 years,5+ years,5+ years,5+ years,2–3 years,2–3 years
+41a9702a-b4ea-56ce-8720-073222a60dd7,Middle Java/Scala Engineer,Intellias,3y,2–3 years,Java,intermediate,146,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,5+ years,5+ years
+4207e588-6ccc-5ac1-9aae-95f33705d662,"Cryptocurrency seo copywriter (SMM, NFT, Blockchain)",StampsDaq,1y,0–1 years,Marketing,intermediate,264,2–3 years,0–1 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+431ccaab-c2ec-5019-a42e-34e0c1d4b452,Back end Developer (Ruby on Rails),GRANDZ,3y,2–3 years,Ruby,upper,347,2–3 years,2–3 years,2–3 years,2–3 years,5+ years,5+ years,5+ years
+438bd450-0cd6-5311-b7f1-534edd640976,Senior Full Stack Developer (React+Python or Go),BodyGrams,5y,5+ years,Python,intermediate,103,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+43e05c99-7bbc-5476-801f-3f335e2f640c,Middle Full Stack PHP / Wordpress Developer,EcDev Studio,2y,2–3 years,PHP,Unknown,80,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,0–1 years,0–1 years
+43fa7873-9eb6-515c-85e3-7b7b7c611770,DevOps Technical Lead,Intellias,5y,5+ years,DevOps,upper,179,2–3 years,2–3 years,5+ years,2–3 years,2–3 years,2–3 years,2–3 years
+4408d696-4aae-5f88-bb87-701ca7fc4cf4,Data Engineer,Beetroot,3y,2–3 years,Data Science,upper,621,2–3 years,2–3 years,2–3 years,2–3 years,5+ years,5+ years,5+ years
+443938d5-0073-5665-81db-6cf26158e2c5,Graphic Designer,Trueplay,1y,0–1 years,Design,Unknown,192,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+44a6dd2e-88e3-511c-b679-558b0972c668,Full-stack Developer (Node/ReactJS),Digicode,3y,2–3 years,Node.js,upper,162,2–3 years,2–3 years,5+ years,2–3 years,2–3 years,5+ years,5+ years
+44dcfd33-d3c4-50db-9c7b-53af8fc5b133,Typescript Backend Engineer,"Itio, LLC",no_exp,0–1 years,Node.js,upper,134,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+455608f5-e658-5fe8-9161-e5dcd25c88c4,Copywriter,Equals5,1y,0–1 years,Marketing,fluent,252,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+45dc3a6a-d5f1-5001-8cc4-f659ba702a10,Junior / Middle Automation QA Engineer,Intellias,1y,0–1 years,QA Automation,intermediate,284,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+460d3345-99b9-565a-9396-7b97c283315c,HR Business Partner,SPD-Ukraine,2y,2–3 years,HR,intermediate,344,2–3 years,0–1 years,0–1 years,0–1 years,2–3 years,0–1 years,0–1 years
+46333fb7-9b95-5329-b7ad-cb39235a2c86,Head of Sales and Business Development,Univisia,5y,5+ years,Sales,fluent,262,2–3 years,2–3 years,0–1 years,2–3 years,2–3 years,2–3 years,2–3 years
+46469036-ccaf-5fc2-bb1e-84aaed537be4,Head of Talent Acquisition,Readdle,5y,5+ years,HR,upper,845,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+465b9d49-d0db-5360-a423-ceb8680c524f,UX/UI Designer,PULS Software,1y,0–1 years,Design,intermediate,199,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+468eb560-0ad5-505f-b47b-5fdfe19edfe1,Java developers,at Mirko,2y,2–3 years,Java,upper,217,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,5+ years,5+ years
+46bd5ea6-3b7d-5f86-8e5b-26850e2dd9fd,We're looking for a SENIOR RENDER engineer for our project,webaxis.tech,5y,5+ years,C++,upper,131,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+47378e20-fd98-51a4-95a5-07541ea83a6c,Python Developer (Middle+/Senior),Make it in Ukraine,3y,2–3 years,Python,intermediate,166,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,0–1 years,0–1 years
+47e1eae5-2967-535d-ae84-afea4d688d15,Senior Front End Developer (React),4irelabs,3y,2–3 years,JavaScript,fluent,394,2–3 years,5+ years,2–3 years,2–3 years,5+ years,5+ years,5+ years
+4815e4b6-ac0e-53a4-bf3f-e8f901b52bfb,Data Analyst,Livingston Research,1y,0–1 years,Data Analyst,intermediate,601,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+482a1837-50d2-5ee1-b962-2baf440fef98,С++ developer,GeeksForLess Inc.,5y,5+ years,C++,upper,164,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+48312e38-0dc7-5e55-acc4-5bf49a950a76,.Net Full Stack Developer,Chudovo,1y,0–1 years,.NET,intermediate,146,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+4844dd6b-eba2-5a35-8b82-ee17041973ed,Senior JavaScript (Vue.js) developer,Serious Software,5y,5+ years,JavaScript,upper,68,2–3 years,2–3 years,0–1 years,2–3 years,2–3 years,2–3 years,2–3 years
+48712c57-6d6e-5d24-bddd-e6db2ceeca7b,Front-end Developer - 20h for a week,Reaktivate,3y,2–3 years,JavaScript,upper,176,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,5+ years,5+ years
+489f328a-a82a-5d2a-ac8c-f6803d5ac5b6,Business Analyst - Integrations,Unicsoft,5y,5+ years,Business Analyst,upper,183,2–3 years,2–3 years,5+ years,2–3 years,2–3 years,2–3 years,2–3 years
+48e12a40-d296-57ff-922d-5d3299aeac9d,Junior Full-Stack Engineer (Laravel/React),Devtorium,1y,0–1 years,PHP,intermediate,189,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+493f535f-a971-5497-8c15-e8429f47230c,Senior JS Developer,UiPath,5y,5+ years,JavaScript,intermediate,137,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+49a7afc1-1a12-5901-924e-08773251bd2b,DevOps,NewGMedia,1y,0–1 years,DevOps,intermediate,202,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+49e66489-2e3c-5f25-b4be-2ff7c391ad22,Employer Brand and Talent Marketing Expert,SPD-Ukraine,5y,5+ years,Marketing,upper,773,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+4a16e5de-37ba-58cd-b13b-78588d758602,Junior .NET developer,A-MTOSS,no_exp,0–1 years,.NET,intermediate,332,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+4a2cc81c-d0a5-5ab9-9e46-364d36fa4861,Middle Java Developer,Softjourn,1y,0–1 years,Java,Unknown,122,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+4a365eb5-9d07-51bf-aeae-8c9ecc675d31,Junior Business Analyst,Softengi,1y,0–1 years,Business Analyst,intermediate,135,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+4a9ee315-8b1c-5376-b019-2841369cb43f,AWS Engineer,MTR Design,3y,2–3 years,DevOps,fluent,401,2–3 years,5+ years,2–3 years,2–3 years,5+ years,5+ years,5+ years
+4ac3ad44-2080-5adb-a11f-0fcb00a2e3e6,BA with data analytics experience,Unicsoft,5y,5+ years,Business Analyst,upper,79,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+4af0e7ca-eb33-5d0f-a831-f80e00df956f,Senior Full-stack developer (React+Node.js),Unicsoft,5y,5+ years,JavaScript,upper,308,2–3 years,2–3 years,2–3 years,5+ years,5+ years,2–3 years,2–3 years
+4afd3b17-a6fe-5aa2-81db-f585c5a23ab9,Senior AQA with Java/Python,itsoft,5y,5+ years,QA Automation,upper,168,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+4b03c8d1-9442-5244-87b5-bd4465d0770e,QA engineer for product company,Conductor,2y,2–3 years,QA,intermediate,190,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,0–1 years,0–1 years
+4b46f8d2-0db6-5d1d-9b4e-d7add32db5c4,Senior UI/UX Designer,Northell,5y,5+ years,Design,upper,259,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+4c16074f-af33-5128-a57a-43148927b541,Senior Angular Developer,Itera Research,5y,5+ years,JavaScript,upper,112,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+4c1725e2-d858-5f0b-811a-383e6a72bf83,Senior PHP Developer (Content Management System),Sigma Software,5y,5+ years,PHP,upper,178,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+4c7f3659-94e1-51bb-9afc-5b72072a3201,Conversion Rate Optimization (CRO) Specialist,DenDev,1y,0–1 years,SEO,upper,353,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+4c8d3d8b-ad65-5e7a-98f8-1633459c0d59,Junior Data Entry specialist,GeeksForLess Inc.,no_exp,0–1 years,Data Analyst,upper,176,2–3 years,2–3 years,0–1 years,2–3 years,2–3 years,2–3 years,2–3 years
+4cb7fe05-cee3-5545-8fc3-e33bfe26a6b0,TIBCO Integration Engineer - UKRAINE or POLAND or SPAIN,Intellias,2y,2–3 years,Data Engineer,upper,272,2–3 years,2–3 years,5+ years,2–3 years,2–3 years,5+ years,5+ years
+4d6bf252-3461-5dae-9503-a3c79d7daaa0,Cyber Security Analyst,Edvantis Software,5y,5+ years,Support,upper,392,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+4d74682c-5abe-59d9-b628-a744bed37730,Senior Ruby developer,Serious Software,5y,5+ years,Ruby,upper,89,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+4da68dd6-8f72-5232-b7e3-c32707f071ac,Rust developer,Redwerk,3y,2–3 years,Golang,intermediate,244,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,0–1 years,0–1 years
+4dbdb507-0901-59d7-9fb8-1bdfbbb9ddaf,Middle Automation QA Engineer,:DTeam,1y,0–1 years,QA Automation,upper,202,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+4e6032a6-be25-56fd-86ad-4d70b1275bb8,Solutions Architect,SkyLink,2y,2–3 years,Lead,intermediate,129,2–3 years,2–3 years,2–3 years,2–3 years,5+ years,5+ years,5+ years
+4eb61ecd-cf35-5958-a43b-ee3c7ad072c7,L2 Support Engineer,Ardas,1y,0–1 years,DevOps,intermediate,132,2–3 years,2–3 years,0–1 years,0–1 years,2–3 years,2–3 years,2–3 years
+4f1ca53c-75d8-5821-ad78-9acfc3627ee2,React.js developer,Unicsoft,5y,5+ years,JavaScript,upper,73,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+4f256c75-6568-50a9-a931-17f5ff64e635,PR-manager for a fintech startup,daviann,2y,2–3 years,Marketing,intermediate,155,2–3 years,0–1 years,0–1 years,0–1 years,2–3 years,0–1 years,0–1 years
+4f440f60-caba-5ef3-a929-0f07e7d8b84f,Junior IT Project manager,Fintegro,no_exp,0–1 years,Project Manager,upper,261,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+5040a662-313f-5d49-8577-ee27bcf85d5f,Lead Generator,Bliscore,1y,0–1 years,Sales,upper,396,2–3 years,2–3 years,0–1 years,0–1 years,2–3 years,2–3 years,2–3 years
+504a4f02-4a8d-5a57-8a5b-50d7aacd4465,Full-stack developer,Tres Commas,3y,2–3 years,Node.js,upper,239,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,5+ years,5+ years
+50b65931-aa3e-5446-8fd3-5219ce6401a5,Senior WPF Developer/Team Lead,Blackthorn Vision,5y,5+ years,.NET,upper,289,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+50b70091-5492-5f81-8e0c-2e29bab31b66,Junior (Intern/Trainee) Software Engineer,PwC SDC,no_exp,0–1 years,Java,upper,271,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,5+ years,5+ years
+50bbddf1-c652-5a28-843a-60e258aed083,Sports Betting manager,Trueplay,1y,0–1 years,Marketing,intermediate,310,2–3 years,0–1 years,2–3 years,2–3 years,0–1 years,2–3 years,2–3 years
+50dae38a-e8ee-5cf3-9a99-c556da4025ca,Copywriter,QArea,1y,0–1 years,Marketing,fluent,224,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+50ea9b87-7000-56b4-a951-c337a77e3c38,Blockchain developer,Simplify,5y,5+ years,Rust,upper,449,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+5117f6a3-6281-5934-a263-a15dd24f714c,Junior Data Scientist/ML Engineer,SPD-Ukraine,no_exp,0–1 years,Data Science,intermediate,562,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+512c6733-bc33-5150-8feb-2cacded5e686,Junior IOS developer,DataLead,1y,0–1 years,iOS,upper,98,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+5148bb2d-f32b-5457-bb01-9a674546fe10,BI Engineer,Allvue Systems,2y,2–3 years,SQL,intermediate,458,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,0–1 years,0–1 years
+51c0e782-7d0a-502c-9a0b-0353f70ec734,Technical Support Engineer Tier 2,allstars-it.com,2y,2–3 years,Support,upper,375,2–3 years,2–3 years,2–3 years,2–3 years,0–1 years,0–1 years,0–1 years
+51dfe625-9464-5951-9df7-34e0b3afe52e,Senior iOS Engineer (Swift) - USA,Simplify,5y,5+ years,iOS,intermediate,368,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+526de3ec-9c4d-5191-a79b-f2aec38a45c5,Senior QA Engineer for Retail,FlexMade,3y,2–3 years,QA,intermediate,79,2–3 years,2–3 years,2–3 years,0–1 years,0–1 years,0–1 years,0–1 years
+52fd971c-e995-5615-8cf9-ab59e8f3182b,Smart Contract Developer (Python),YRC,3y,2–3 years,Python,upper,231,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,5+ years,5+ years
+539ff40f-b86a-5436-91f8-877ef75155eb,Java BE Developer (e-commerce),DZH Agency,3y,2–3 years,Java,upper,229,2–3 years,2–3 years,5+ years,5+ years,5+ years,5+ years,5+ years
+53c87506-f962-5f5e-851a-ebfe6320af13,Trainee/Junior React Native,Digicode,1y,0–1 years,JavaScript,intermediate,98,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+53f8b721-67b4-530d-93ee-816b5fd82d0c,Affiliate Manager,Make it in Ukraine,1y,0–1 years,Marketing,fluent,438,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+54a831a2-c38f-5cab-bd10-d03cea7c8816,Middle 3D Artist,Intellias,1y,0–1 years,Artist,intermediate,139,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+54bac6eb-50da-5cfa-9942-2d698b6542a7,Java developer for long-term project (neobanking),42flows.tech,3y,2–3 years,Java,upper,138,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,5+ years,5+ years
+5508f4a6-6e48-52b6-920f-140f8e3b04dc,Senior Quality Automation Engineer,Wonderment Apps,5y,5+ years,QA Automation,upper,482,2–3 years,2–3 years,5+ years,2–3 years,2–3 years,2–3 years,2–3 years
+55aaac6a-ae43-52b3-8dc2-b769bfa02dd1,Senior C++ Developer (with a location in Lisbon),IdeaSoft,5y,5+ years,C++,intermediate,333,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+571e42e3-c5ab-56ce-8c5c-730c65f9a473,Senior Product Designer,HOS-Inc,5y,5+ years,Other,upper,328,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+573b54ba-8d62-5458-a637-3a0f1103610e,Head of Marketing,Northell,2y,2–3 years,Marketing,upper,123,2–3 years,2–3 years,0–1 years,0–1 years,0–1 years,0–1 years,0–1 years
+5769a8e6-0903-57d6-b54f-1b0be43cbc23,Senior software developer C#,Tangibly,5y,5+ years,.NET,upper,308,2–3 years,2–3 years,2–3 years,2–3 years,5+ years,2–3 years,2–3 years
+576f4df9-eaa1-58c5-b820-58c5d29b60e3,Senior Full-Stack developer (50/50),Everse-soft,5y,5+ years,Node.js,intermediate,228,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+57b4c5eb-a3cb-5011-8d1a-17793572620d,Technical Artist Intern,Sigma Software,no_exp,0–1 years,JavaScript,intermediate,262,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+582d3205-5bf0-557c-afa5-83c229ea84fe,Senior PHP Developer,Unicsoft,5y,5+ years,PHP,upper,62,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+598920b6-16ac-5cff-af11-d237745976b6,AQA Engineer,K&C,5y,5+ years,QA Automation,fluent,261,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+5a1e170b-8e5b-543e-b55b-86bc3a584e09,HR/Recruiter,Metro Global Ukraine,2y,2–3 years,HR,intermediate,116,2–3 years,0–1 years,0–1 years,0–1 years,0–1 years,0–1 years,0–1 years
+5abf66a9-e64b-5bbd-9c7a-169c2f4d49a0,QA Engineer,Geniusto UK,1y,0–1 years,QA,pre,231,2–3 years,0–1 years,2–3 years,2–3 years,0–1 years,2–3 years,2–3 years
+5ac6c020-075b-53a5-b5c0-c77c0d3514bb,QA Engineer,SPD-Ukraine,1y,0–1 years,QA,upper,229,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+5afa95a4-b7dc-50d1-a080-d1913c72a139,Senior Project Manager,MyLandingPage,5y,5+ years,Project Manager,fluent,133,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+5b28d4e7-fcbd-5c99-b988-435ec1569e66,Business Project Manager,TalentsToday,5y,5+ years,Project Manager,upper,442,2–3 years,2–3 years,5+ years,5+ years,2–3 years,2–3 years,2–3 years
+5b696ebe-46d6-57ee-8692-69e0c8217760,Magento 2 Backend developer,AbsoluteWeb,1y,0–1 years,PHP,Unknown,111,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+5c57801d-159b-57d3-bbfb-e7cd390a02b4,Middle NodeJS Developer,Engenious,3y,2–3 years,Node.js,upper,184,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,5+ years,5+ years
+5c6a0ffc-c05d-52f1-b2b5-09d7a2e109a6,Junior Manual QA,Intellias,1y,0–1 years,QA,upper,242,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+5cc13818-ac54-5cc1-bcb9-0c8d9b359910,Backend Developer (Python),AppReal,3y,2–3 years,Python,upper,174,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,5+ years,5+ years
+5e247395-28e4-5fe3-a246-a4dd42118ffd,Recruiting Manager,Devtorium,3y,2–3 years,HR,intermediate,239,2–3 years,0–1 years,0–1 years,0–1 years,0–1 years,0–1 years,0–1 years
+5e47f945-3109-5a16-b0ee-b79feba1de82,Senior Manual QA Engineer (Front end),Intellias,5y,5+ years,QA,intermediate,302,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+5f23b44d-d6e5-5c91-b2d9-6912affde6ac,Developer PHP Freelance (one-time projects),QuadroTech Limited,1y,0–1 years,PHP,Unknown,117,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+5f806919-388b-5589-9611-6166346e9887,QA Automation C#,White Test Lab,1y,0–1 years,QA Automation,intermediate,152,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+5ffdd0be-c601-55f8-bd32-47bc846e7ddb,"Senior DevOps (Poland, Bulgaria, Romania)",Unicsoft,5y,5+ years,DevOps,upper,486,2–3 years,5+ years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+6017ce70-605a-513c-b43a-bf40a071ffe0,Full-stack PHP/JS Developer,IT Craft,1y,0–1 years,PHP,intermediate,267,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+602396ef-ffa4-567c-a08d-6bc495dd6730,Lead/Principal Scala Engineer,Intellias,5y,5+ years,Scala,upper,290,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+60574ce0-dfe9-59e1-aa55-691d6837c784,Senior Angular Developer,Boston Unisoft Technologies Inc,5y,5+ years,JavaScript,Unknown,120,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+608e613f-47ac-5fd3-af89-042eb4f2b61a,JavaScript developer,Requestum,1y,0–1 years,JavaScript,pre,94,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+611ea090-dc99-5c2d-b112-fb1776d6ac45,Full-Stack Python Developer,Beetroot,1y,0–1 years,Python,intermediate,195,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+61245176-7934-5e6f-990e-17d39bb752a5,Project Manager,44gifts corp,no_exp,0–1 years,Project Manager,upper,90,2–3 years,2–3 years,0–1 years,2–3 years,2–3 years,2–3 years,2–3 years
+615ed1d4-d623-5875-8db0-7d6393ce06d8,Unity3D Developer,UDC Software,2y,2–3 years,.NET,intermediate,82,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,0–1 years,0–1 years
+61fefb85-4310-5400-8ece-282db8b5c9a7,Lead generator,Adminix,2y,2–3 years,Lead Generation,intermediate,53,2–3 years,0–1 years,0–1 years,0–1 years,0–1 years,0–1 years,0–1 years
+63447a37-fc9f-5115-82db-925ec5fc8f9b,Senior Java developer with German C1,Simplify,5y,5+ years,Java,upper,242,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+63778264-f56d-5089-969f-01b71099fd43,Strong Middle DevOps Engineer(AWS),Code Generation Software,3y,2–3 years,DevOps,upper,241,2–3 years,2–3 years,5+ years,2–3 years,5+ years,5+ years,5+ years
+63dbd4a7-0f8c-581e-a7b1-2ca94d0aedb7,Sales Asistant,Amevalue,2y,2–3 years,Sales,upper,233,2–3 years,0–1 years,0–1 years,0–1 years,0–1 years,0–1 years,0–1 years
+63fd583e-8d63-5ab6-9c15-5960064fa0bf,Senior Full-Stack Developer (.Net + Angular 2+),Newxel,5y,5+ years,.NET,upper,211,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+6421cb5d-3888-5036-be4a-2b9f3d22a85e,Lead C++ Developer,Volmi - A Virtuos Studio.,5y,5+ years,C++,upper,336,2–3 years,5+ years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+64d28e53-1d5b-522f-906d-cf885e99442d,Magento2 Frontend Developer,Konsol Studio,1y,0–1 years,JavaScript,intermediate,218,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+64dadbd3-7625-532f-8517-75607e5252d4,Fullstack Team Lead,Intellias,5y,5+ years,Node.js,upper,252,2–3 years,5+ years,5+ years,2–3 years,5+ years,2–3 years,2–3 years
+64dcecc0-e716-520a-a7e5-e172cd6532a9,Junior Frontend Engineer (від 1 року досвіду),Recruiting Republic,1y,0–1 years,JavaScript,intermediate,324,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+6541d47c-7c97-5e3a-8a61-36823ad4d450,Android Developer,SoftDAB,1y,0–1 years,Android,Unknown,124,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+65657015-e753-592d-9d97-f9fc70d34c1e,Junior Manual QA (6+ months of commercial experience),Softjourn,no_exp,0–1 years,QA,intermediate,197,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+657b63b0-c129-5c3a-bb8b-3f1677b35aa7,Junior web designer,Magnificent Systems,no_exp,0–1 years,Design,intermediate,93,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+65ce3686-f40c-52a5-88ca-4f03cc9036b5,Junior Pro QA Engineer,Softjourn,1y,0–1 years,QA,intermediate,110,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+66369664-a1cb-5f64-b144-1b9f8bcc3436,Monetization Manager,Appodeal Stack,2y,2–3 years,Support,intermediate,139,2–3 years,0–1 years,0–1 years,0–1 years,0–1 years,0–1 years,0–1 years
+6696cd66-46b8-5591-82bf-44aebb793bfc,Junior (Trainee) Android developer,Puls software,no_exp,0–1 years,Android,intermediate,77,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+669de476-388a-599f-adf6-cfb8d74558f7,Content Marketer,infinity Technologies,1y,0–1 years,Marketing,fluent,337,2–3 years,2–3 years,0–1 years,2–3 years,2–3 years,2–3 years,2–3 years
+66b87860-6a22-5154-886d-054ad53143b1,Senior Front-End (Angular) Developer,Gemicle,5y,5+ years,JavaScript,upper,247,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+66c6ec9a-15d5-53f8-a14d-8b2c62b58ad9,PHP Developer (Symfony),CMK,3y,2–3 years,PHP,upper,269,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,5+ years,5+ years
+67952110-bb0e-5eec-ae23-7737bb879b3c,Middle Outreach Specialist,Boosta,1y,0–1 years,SEO,intermediate,530,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+6849ebc7-b78e-52e2-ab21-330468fefe61,Unreal Engine Senior C++,BestHeads,5y,5+ years,C++,intermediate,141,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+6909aa9d-78f9-5a72-aa30-f61b3131eb1e,Frontend Engineer,HelpCrunch,5y,5+ years,JavaScript,intermediate,499,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+69384a6a-f5f8-5972-ba50-41c244fd8fe8,Copywriter for AdTech product,AdSpyglass,1y,0–1 years,Marketing,fluent,238,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+69a44ee5-43cc-52ed-ab70-5fab5dc2cf88,Java Architect,Vakoms,5y,5+ years,Java,upper,193,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+6a72cbc4-6c42-5887-b7c4-7f5a0f6b7fa8,Senior QA Engineer,Devart,5y,5+ years,QA,pre,301,2–3 years,0–1 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+6a8ba43c-b1df-5973-965d-b233451fc10d,Webinar manager,Nakivo,2y,2–3 years,Marketing,Unknown,166,2–3 years,0–1 years,2–3 years,2–3 years,0–1 years,0–1 years,0–1 years
+6ab73fd9-7641-5959-8cb7-0ed8a49ab259,Senior Python Developer,FlexMade,5y,5+ years,Python,intermediate,217,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+6b95205a-fa35-5989-9a38-c6ac7587e8c7,DevOps Engineer,Compass,5y,5+ years,DevOps,upper,335,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+6b9dd7c5-15ea-5764-906a-844c02118054,Senior DevOps Engineer,Simplify,5y,5+ years,DevOps,upper,126,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+6bfe2e2e-87a9-5c85-ab79-06243ca23a52,Personal manager,A.V.A. LTD,1y,0–1 years,Other,fluent,269,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+6c465c5e-9044-5140-a72c-258c13414f0b,Head of Service Delivery and Employee Experience Department,Newxel,5y,5+ years,HR,upper,192,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+6c92b4b9-c252-5e35-9033-e55c1920773b,Account/Release for Parimatch International,Parimatch Tech,1y,0–1 years,Project Manager,upper,325,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+6ca2d1e7-234c-50da-a0c7-66f3135bc108,Junior Node.js Engineer,ROOM4,1y,0–1 years,Node.js,intermediate,92,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+6cd17116-5df1-5ac2-a94b-61bbf7a3d96d,Senior Node.js Developer,IT Svit,5y,5+ years,Node.js,intermediate,224,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+6cd2fa15-e2fd-5cf9-a32a-e02e41195e80,Junior Business Analyst,Softjourn,no_exp,0–1 years,Business Analyst,upper,223,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+6d7cf4a2-4e06-5f3c-844c-adf7a0009ab8,Junior Strong Full-Stack PHP Developer,SharpMinds,1y,0–1 years,PHP,intermediate,139,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+6db365e2-8947-57e0-acb7-cb23e82b5b0d,Copywriter (English),Cleverr,no_exp,0–1 years,Other,fluent,173,2–3 years,2–3 years,0–1 years,2–3 years,0–1 years,2–3 years,2–3 years
+6dbf6118-3128-5deb-b494-19138d1b1d2c,Middle QA Automation Engineer (Java),WeRush,1y,0–1 years,QA Automation,intermediate,213,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+6e58e2d0-66ab-5240-b818-31bdcae2ded0,Fullstack (React+Node) Developer (EU passport holders only),White Label,5y,5+ years,Node.js,upper,217,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+6e850bfa-f308-5eb6-a155-9bac32f6c8b8,Node.js developer (Location Poland),UFO Engineering,1y,0–1 years,Node.js,intermediate,180,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+6e97c1e6-7e42-5956-a942-a3079930438d,Senior Business Analyst,Edvantis Software,5y,5+ years,Business Analyst,upper,305,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+6eabf50d-508d-50b3-b7e1-1fbe0ff35856,Middle/Strong Middle Java/Scala Developer,Intellias,2y,2–3 years,Scala,upper,281,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,5+ years,5+ years
+6f0fffa5-0dcc-5d35-9323-b7b439fe6dd9,DevOps Engineer,acropolium.com,1y,0–1 years,.NET,intermediate,55,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+6fd81d00-599d-5972-968c-5324b2247ec4,Middle PHP Developer,Vineo Services,1y,0–1 years,PHP,upper,72,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+6fe7538c-05d9-54db-aff7-12d58a0bd661,Marketing manager,Techstack,1y,0–1 years,Marketing,intermediate,250,2–3 years,0–1 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+6fec6054-24dd-5dda-aee7-45877d20da1f,IT Project manager,Fintegro,1y,0–1 years,Project Manager,upper,379,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+705fed57-12a4-54fc-8a6e-a6c9ef212a87,Golang Developer for Digital Outdoor Advertising Software,FlexMade,3y,2–3 years,Golang,intermediate,243,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,5+ years,5+ years
+70ed81e1-12ae-5529-9c52-3912b85b9f3a,Copywriter,Engenious,3y,2–3 years,Technical Writing,fluent,98,2–3 years,0–1 years,0–1 years,0–1 years,0–1 years,0–1 years,0–1 years
+70f29851-6de5-57b1-84bc-1a326eda9881,Senior .NET Engineer (Product company),Clover Dynamics,5y,5+ years,.NET,intermediate,322,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+71c487d1-7614-5130-97eb-f21254665f95,Product Owner,1touch.io,1y,0–1 years,Product Manager,upper,358,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+71ef902d-54cc-53b0-8a2f-c44faf55fbce,Senior DevOps engineer for a language learning app,Unicsoft,5y,5+ years,DevOps,upper,127,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+72073379-7977-527c-a0fc-b88b5307b17e,Middle-Senior Full-Stack Developer (Django+Vue.js),Beetroot,2y,2–3 years,Python,upper,583,2–3 years,5+ years,2–3 years,2–3 years,2–3 years,5+ years,5+ years
+73283d16-8b61-59cb-b503-72a96bb74c13,Python Developer,Unicsoft,5y,5+ years,Python,intermediate,94,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+7457359f-b0c4-5e9b-b796-663b2eae70a5,Market Specialist,Netframe,1y,0–1 years,Marketing,upper,363,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+749f60b9-0e5d-5cab-bafb-bdef75acf551,Marketing Data Analyst,Letyshops,1y,0–1 years,Data Science,intermediate,146,2–3 years,2–3 years,0–1 years,2–3 years,2–3 years,2–3 years,2–3 years
+74ba9c03-c1d8-5b4e-a10c-2dc1e7281fa6,Business Technology Consultant,Titu Blockchain,1y,0–1 years,Other,upper,189,2–3 years,2–3 years,5+ years,2–3 years,2–3 years,2–3 years,2–3 years
+74e7e1e0-8c27-5323-abd7-fd39ce422309,Senior JS Full-Stack developer,Everse-soft,5y,5+ years,JavaScript,intermediate,369,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+7601116f-8781-5bec-9283-278ec3dc57aa,Senior Android Developer,Quicklert,2y,2–3 years,Android,upper,457,2–3 years,2–3 years,5+ years,2–3 years,2–3 years,5+ years,5+ years
+762e425f-48e6-5a6b-a1ec-d097f76da348,QA Automation Engineer (Java),Recruit Alliance,5y,5+ years,QA Automation,upper,126,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+76a6bb1d-5313-5d31-8245-6f8ad8223789,Junior JavaScript Developer,Existek,1y,0–1 years,JavaScript,intermediate,97,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+76b1a16b-949b-5100-b906-c503713cd40d,Communications and event specialist,SPD-Ukraine,2y,2–3 years,Other,intermediate,162,2–3 years,2–3 years,0–1 years,2–3 years,2–3 years,0–1 years,0–1 years
+772557c2-19a1-5e5b-85f8-599f6d068c9e,Senior .NET Software Engineer,Fareportal,5y,5+ years,.NET,upper,284,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+774d47a4-638f-5b34-b68a-42a2aa38647b,Junior/Middle Data Scientist - NLP,ECHOES-AI,1y,0–1 years,Data Science,Unknown,291,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+775c9541-b6ac-534d-867d-1a35a1618cb1,Senior Product Manager,AutoDS,5y,5+ years,Product Manager,upper,448,2–3 years,2–3 years,5+ years,2–3 years,2–3 years,2–3 years,2–3 years
+77c86453-717e-5f5e-a0fd-10eb609bc007,Head Operations Manager (Turkish language),4Service,1y,0–1 years,Marketing,Unknown,295,2–3 years,0–1 years,2–3 years,2–3 years,0–1 years,2–3 years,2–3 years
+7833d68c-0c80-5dbf-a792-0b1a6ac3bbf9,Data engineer/Team lead,Unicsoft,5y,5+ years,Data Engineer,upper,308,2–3 years,5+ years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+785c1154-a74f-56e0-8cc6-7a8c1c5fe104,Architect  .NET,IdeaSoft,5y,5+ years,.NET,upper,152,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+78b22457-dab4-57b6-9cd3-357e87eebd95,Senior Project Manager,Adimen,5y,5+ years,Product Manager,upper,172,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+78cb66fb-7289-58cf-bc19-3f215dcbb969,Shopify Developer / Shopify Expert,AbsoluteWeb,1y,0–1 years,PHP,Unknown,191,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+7939ca1d-ce41-5e4c-815b-52221763a6e5,"Front-end developer(Strong Junior, Middle)",ExpoPlatform,1y,0–1 years,JavaScript,Unknown,224,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+7a200ce8-b9c8-5f91-9e4a-9138af492df1,Junior React-Native Developer,Clover Dynamics,1y,0–1 years,JavaScript,upper,259,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+7a442f7d-2390-5fb0-9296-efc1bfb02d17,Senior React Developer,SharpMinds,3y,2–3 years,JavaScript,upper,208,2–3 years,2–3 years,5+ years,2–3 years,2–3 years,5+ years,5+ years
+7b1df1b8-c378-552c-a208-e91b306db582,BE Developer,Ecto,3y,2–3 years,PHP,upper,211,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,5+ years,5+ years
+7b7e4b11-8eab-5de5-9ebb-d70039529332,Senior Big Data Engineer,Intellias,5y,5+ years,Java,upper,128,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+7c1a0fb2-136f-5011-8dbb-220ac1ca3de1,Application Support Engineer Level 1_Help Desk and Support,astoundcommerce.com,1y,0–1 years,Python,intermediate,497,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+7c3ff0af-ba99-53b4-8a4c-2a181961e455,Marketing Analyst,Parimatch Tech,2y,2–3 years,Marketing,intermediate,112,2–3 years,0–1 years,0–1 years,0–1 years,0–1 years,0–1 years,0–1 years
+7cc4f209-3441-542f-a423-d15273ba1c3b,CMO,TRUEPLAY,5y,5+ years,Marketing,fluent,348,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+7db4d7b6-bbe0-59f2-b624-073ab4f56a0a,Middle/Senior Full Stack Developer,Webmil,1y,0–1 years,JavaScript,intermediate,58,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+7e13ee08-c75d-578e-80c4-f27eb7c50caa,Senior Service Delivery Consultant - Test Management,SimCorp,3y,2–3 years,Product Manager,upper,583,2–3 years,2–3 years,5+ years,5+ years,2–3 years,5+ years,5+ years
+7e975b01-4d2a-5eab-b415-976feb261735,Senior Back-end (Java) Developer,SoftHouseGroup,5y,5+ years,Java,upper,261,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+7ee97197-1e71-59bc-9395-9c5f0c38a268,Project Manager,PULS Software,1y,0–1 years,Project Manager,upper,267,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+7fab937f-b72c-5d0c-94f0-e83e3fd5c729,The prime UX/UI Designer at Rotageek (Ukraine or The United Kingdom),EvoTalents,3y,2–3 years,Design,fluent,697,2–3 years,2–3 years,5+ years,5+ years,2–3 years,5+ years,5+ years
+8081540a-c8bd-5532-9ad4-40a07ca88a27,HTML coder,Genome,1y,0–1 years,JavaScript,Unknown,91,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+80c16ea1-c39d-565f-9150-80dc9c21f12d,Frontend Developer (React/React Native),VP Team,5y,5+ years,JavaScript,upper,526,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+80e6fbc3-62a1-5673-a7af-df0a32d8c723,Trainee\Associate DevOps,Intellias,no_exp,0–1 years,DevOps,intermediate,295,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+82789a78-bb42-501b-9661-980627c6a782,Data Analyst,Sierentz Global Merchants,1y,0–1 years,Data Analyst,upper,216,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+829625e7-aaeb-5b73-904d-a033e920f527,Flutter developer,Beetroot,1y,0–1 years,Android,intermediate,169,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+82d0c2d7-17e4-5c23-b0d5-de721bd2bdeb,Trainee full-stack Javascript Engineer,Clover Dynamics,no_exp,0–1 years,JavaScript,intermediate,212,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+82de62cc-346f-5467-9606-db1862282d66,Senior Deployment Engineer,Newxel,5y,5+ years,Security,fluent,260,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+82f5994a-7192-5a71-aa82-f9404be580d1,Supplier Integration Specialist (XSLT),Unicsoft,5y,5+ years,Python,upper,57,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+830a336e-4185-5aee-8dee-c026eaef4df0,Security Engineer,instandart.com,5y,5+ years,DevOps,upper,151,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+83220b41-a7b1-5e1b-a836-4472c7a25500,Looking for Shopify Expert for short assignment,SFox,2y,2–3 years,Other,upper,137,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,0–1 years,0–1 years
+83551450-2d88-5835-bfbf-8f0ac45c6e73,Middle/Senior Java Developer,Artelogic,5y,5+ years,Java,upper,318,2–3 years,5+ years,2–3 years,2–3 years,5+ years,2–3 years,2–3 years
+835a1d89-f073-54c5-bdf3-30e6d9c50e61,Strong Junior / Middle Back-end JavaScript Engineer,LocalTrade,1y,0–1 years,Node.js,intermediate,153,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+8377aa0e-23d3-58b8-ab6f-345877c22a77,Software Architect (BE),Star Global,5y,5+ years,Node.js,upper,286,2–3 years,5+ years,2–3 years,2–3 years,5+ years,2–3 years,2–3 years
+83aeacaa-7c03-50b9-97ab-86c84ed0e0d9,Business Development Manager,Yelk,2y,2–3 years,Sales,upper,303,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,0–1 years,0–1 years
+83c568ad-2dfa-5b14-ba54-f45c19632ac5,English Language Instructor,Intellias,5y,5+ years,Other,fluent,206,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+8434fb74-4a80-590a-a100-b18fc13d623b,Frontend Developer,Reference Recruiting GmbH,5y,5+ years,JavaScript,fluent,104,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+84a8cdf5-943e-54a1-bb8c-e6dff9d51eee,Junior Java Developer (Integration Project),Sigma Software,1y,0–1 years,Java,intermediate,330,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+852ef288-76f2-58ad-a467-c2983d4485ae,Automation Performance Test Engineer,Zoral Labs,5y,5+ years,QA Automation,intermediate,338,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+8556f5ab-4139-50e8-b6f2-8ac5c01cb356,Middle DevOps-engineer,APERCON,3y,2–3 years,DevOps,Unknown,98,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,0–1 years,0–1 years
+856b8c08-f0dd-51e6-bff6-c7ae2a71e968,Bubble.io developer,HaveDevs,2y,2–3 years,Other,intermediate,158,2–3 years,2–3 years,0–1 years,2–3 years,2–3 years,0–1 years,0–1 years
+859a7c99-1dce-51e3-a6fb-19e69ace32fa,Junior QA Manual Engineer,ErgoServ,no_exp,0–1 years,QA,intermediate,185,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+85b73248-e62e-5751-9fff-a48b7dce019a,Product Manager,Remotal,3y,2–3 years,Product Manager,fluent,332,2–3 years,5+ years,2–3 years,2–3 years,5+ years,5+ years,5+ years
+85bbefc6-1c33-55fa-bfa1-6d9f28e71426,Full Stack Engineer .NET_USA fully-distributed remotе company,UNIT.Recruitment,5y,5+ years,.NET,upper,437,2–3 years,5+ years,2–3 years,2–3 years,5+ years,2–3 years,2–3 years
+86102acc-a20b-5078-8169-73646e85cb56,Junior Salesforce developer (trainee),OSF Digital,1y,0–1 years,Other,intermediate,285,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+8628198b-3813-5f71-be08-83c5500d5927,Magento developer (In-house),Barwenock,1y,0–1 years,PHP,upper,383,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+86282200-d108-5ead-a80f-b6997019aa0f,Senior Back-End (C++) Developer/Team Leader,Trust Sourcing,5y,5+ years,C++,upper,349,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+86dec908-39ab-5587-9eea-57c9d00a0a97,Senior Front End Developer for SDK Squad,Parimatch tech,5y,5+ years,JavaScript,intermediate,263,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+8709805b-a9d4-51d5-b15c-99c7f6e50b24,Full stack developer (Startup/Stock Options/),Waylight,1y,0–1 years,Java,intermediate,149,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+879cd260-a7c6-5a22-833a-bbebdd675274,Junior Full Stack developer (Backend oriented) for working on BigCommerce platform,Speroteck,1y,0–1 years,Node.js,intermediate,133,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+87a7e7df-cc52-5355-bf0d-d82f5e569758,Java Developer,AllStartsIT,5y,5+ years,Java,upper,96,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+87f471fb-6a4d-541a-9395-a432edf72d15,Senior Front-end Developer,Recruit Alliance,5y,5+ years,JavaScript,intermediate,278,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+880c77ef-a6db-5adb-be3a-1f3a7e9b5e9e,Senior Game Designer,UNIT.Recruitment,5y,5+ years,Design,upper,421,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+882199d4-1af8-5812-8f9a-8c331df7cf3e,2D/3D Animator,SkillSquare,no_exp,0–1 years,Design,intermediate,170,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+88359e67-7b40-5b8d-9351-db8028bf65cd,Technical Project Manager (TPM),selerant.com,1y,0–1 years,Project Manager,intermediate,569,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+883ce1d4-af4b-566a-a53e-336317bc61bc,Senior Front End Developer (React.JS),MWDN,5y,5+ years,JavaScript,intermediate,156,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+8852ded4-e603-53c9-a5f1-1f3ca4396edf,Smart Contract Engineer/Blockchain Engineer,Digicode,2y,2–3 years,Other,intermediate,80,2–3 years,0–1 years,0–1 years,2–3 years,2–3 years,0–1 years,0–1 years
+8882d2b6-d846-5037-a24e-d7a5138fabc9,DevOps (location EU only),SPD-Ukraine,5y,5+ years,DevOps,upper,534,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+889a8c1b-faa3-5134-af04-8bc08846ded1,IOS Developer,ITOMYCH STUDIO,1y,0–1 years,iOS,intermediate,232,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+88bf265e-2911-5638-88ab-a6e3c3a0a408,Middle WordPress Developer,Northell,1y,0–1 years,JavaScript,intermediate,229,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+88fe3a9c-01ed-5076-bc48-e131c660dd22,Junior Application Developer,A-HR,1y,0–1 years,SQL,intermediate,331,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+88fee2c4-9358-5878-80f1-e7fbf73ba428,Engineering Manager/Delivery Manager,Jappware,5y,5+ years,Other,intermediate,234,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,0–1 years,0–1 years
+8956b981-3b5d-55ff-8d64-562cb0bac2ad,Oracle Finance BA,Unitask Group Ukraine,5y,5+ years,Business Analyst,upper,221,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+8997bf39-9f66-5a69-b4e3-ecb556a25581,Trainee iOS Developer,NewVeer,no_exp,0–1 years,iOS,Unknown,28,2–3 years,2–3 years,2–3 years,0–1 years,2–3 years,2–3 years,2–3 years
+89b2ab4b-4ff4-5b5e-80e5-7ba86bd601fc,Senior Embedded C++ Engineer,Intellias,3y,2–3 years,C++,upper,183,2–3 years,2–3 years,5+ years,2–3 years,2–3 years,5+ years,5+ years
+89cfae3b-602b-50dd-9385-0df8a63200cf,DevOps Engineer,MEGOGO,3y,2–3 years,DevOps,pre,279,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,5+ years,5+ years
+8a1b2e82-9864-5672-942a-d254578d3369,Account Manager/SDR,Aspichi,2y,2–3 years,Sales,upper,177,2–3 years,0–1 years,0–1 years,0–1 years,0–1 years,0–1 years,0–1 years
+8a7901e0-acf6-5051-b210-68e07980e08e,Angular Developer,GeeksForLess Inc.,5y,5+ years,JavaScript,upper,122,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+8a97abda-1a2c-5a70-8f98-16481ec1d2cf,Frontend developer(Vue.js),Virtuace,5y,5+ years,JavaScript,upper,123,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+8b9ca7cc-dd82-55b3-bf1b-8f7cad846a4c,Product manager (Sales),44gifts corp,1y,0–1 years,Product Manager,intermediate,226,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+8bc1ca9e-18cf-55bf-bae2-cb8b66a8d5bc,Junior Project Manager,IntelliBoard,no_exp,0–1 years,Project Manager,upper,258,2–3 years,2–3 years,0–1 years,2–3 years,2–3 years,2–3 years,2–3 years
+8c3fe27f-06c8-5f6f-b9ff-0fe054956eb3,ServiceNow Developer,Amgrade,5y,5+ years,JavaScript,upper,107,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+8c718d83-e601-5aef-9644-fd6e361ddd91,Junior Manual QA Engineer,Namecheap,1y,0–1 years,QA,intermediate,178,2–3 years,2–3 years,0–1 years,2–3 years,2–3 years,2–3 years,2–3 years
+8c74c242-894d-5325-978c-12696d2462f2,Senior/Lead Python Developer,1touch.io,1y,0–1 years,Python,intermediate,434,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+8cabdbde-b63e-570b-b6b5-2d08ff7de567,Senior Site Reliability Engineer,CMP,5y,5+ years,Sysadmin,fluent,271,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+8db15219-096f-504e-b3af-fb95c4b3a0e9,Junior Java Developer,Data-OX,no_exp,0–1 years,Java,Unknown,328,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+8db1b986-ece0-5fc9-8df4-1c64caa3b293,Backend Developer,YouScan,2y,2–3 years,.NET,upper,398,2–3 years,2–3 years,2–3 years,2–3 years,5+ years,5+ years,5+ years
+8dbd4b20-b008-534d-a301-eee11cbfe94f,App Store Optimization Specialist,CleverLand,1y,0–1 years,Marketing,upper,208,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+8e18f978-3223-5229-a7b0-585a58b3381d,Lead JavaScript Software Engineer (Node.js),EPAM Anywhere,5y,5+ years,Node.js,upper,251,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+8e1bd4e5-e8af-5fa3-9b7b-26948688e18b,Senior Node.js Developer,Newxel,5y,5+ years,Node.js,intermediate,242,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+8e2ae39d-f182-5196-9d3a-089a8519d511,IT Recruiter,Northell,2y,2–3 years,HR,intermediate,142,2–3 years,0–1 years,0–1 years,0–1 years,0–1 years,0–1 years,0–1 years
+8e44a9fc-a074-5948-b82f-ac4ac235396d,Technical Project Manager (Research),SQUAD,5y,5+ years,Project Manager,fluent,429,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+8e599c77-88e1-5051-8557-8175d017c8d0,PHP Developer,Digicode,3y,2–3 years,PHP,intermediate,291,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,0–1 years,0–1 years
+8e6283b3-8a5f-5f36-8dcf-d193809ed431,DevOps,Vitamin D,2y,2–3 years,DevOps,upper,92,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,5+ years,5+ years
+8e716862-5685-50bc-b39e-5fd5f64fa250,HR Specialist,Vista Trans Holding,1y,0–1 years,HR,upper,137,2–3 years,2–3 years,0–1 years,0–1 years,0–1 years,2–3 years,2–3 years
+8e977f38-91c7-5672-bcca-07d52e7c65ec,Backend Software Engineer - .Net,WeAreBrain,3y,2–3 years,.NET,upper,635,2–3 years,5+ years,2–3 years,2–3 years,2–3 years,5+ years,5+ years
+8f10ab0d-12aa-5927-b18c-e39f9b64e3ff,Senior Java Developer,Softjourn,5y,5+ years,Java,intermediate,366,2–3 years,2–3 years,5+ years,2–3 years,2–3 years,2–3 years,2–3 years
+8f440f14-5710-5878-bf43-0927b21ad945,Recruiter / HR Manager,SkillSquare,1y,0–1 years,HR,upper,241,2–3 years,2–3 years,0–1 years,0–1 years,0–1 years,2–3 years,2–3 years
+8fbc86d2-42a5-5428-9ec2-69df90a4251d,Bubble.io developer,WeMakeMVP,no_exp,0–1 years,JavaScript,Unknown,199,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+90230ecd-d651-5644-a6cf-e447da053dc9,Senior PHP Developer,4ire Labs,5y,5+ years,PHP,upper,246,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+90c9ea69-79cd-523c-966a-105e14ce8482,Data Engineer,Influ2,2y,2–3 years,Data Engineer,upper,205,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,5+ years,5+ years
+90f6c720-5f12-5b18-82cf-7ed70576d9d6,Back End Engineer,MWDN,3y,2–3 years,Python,intermediate,370,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,0–1 years,0–1 years
+91223ee3-1e8d-5285-a853-5703a09c5b09,Technical JS Lead,Intellias,5y,5+ years,Node.js,upper,198,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+9220ded2-b7a1-51c5-9614-f1a6e45b5b72,Senior Front End Developer for Esports Team,Parimatch Tech,5y,5+ years,JavaScript,intermediate,303,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+942da6fd-bcd9-5d9c-ba60-9974a9e60996,Vue.js front-end developer (PWA),WebMeridian,1y,0–1 years,JavaScript,Unknown,31,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+94ef835e-b3b1-50cc-bf01-7f8bd38a4058,Senior Front-End Engineer,28software,5y,5+ years,JavaScript,upper,395,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+954aa2b1-b6af-5c2c-8a4a-d1d52b563901,Project Coordinator,Sloboda Studio,1y,0–1 years,Project Manager,upper,211,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+95723024-c6b1-50ea-ab28-34262f2258cf,Business Development Manager / Sales Manager,VerifyAffiliate,3y,2–3 years,Sales,fluent,75,2–3 years,0–1 years,2–3 years,2–3 years,2–3 years,0–1 years,0–1 years
+958766c0-57bf-5697-868c-de5efed2b345,PHP (WordPress) developer,IdeaSoft.io,1y,0–1 years,PHP,Unknown,47,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+95ba1b53-383d-5d25-a827-a3ec3dfd3991,QA Lead for a Leading EdTech company,Newxel,5y,5+ years,QA,intermediate,567,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+95e9160b-b77b-540b-8fd0-199031d8ee19,Senior Full-Stack Engineer (FinTech),Intellias,5y,5+ years,Node.js,upper,155,2–3 years,2–3 years,5+ years,2–3 years,2–3 years,2–3 years,2–3 years
+9642f7b3-b4e4-574d-a305-3c480b060a08,Marketing Manager (Junior),Devico,1y,0–1 years,Marketing,upper,298,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+96caefed-40d0-5c2e-b3a6-cc284b0b9dd9,Android developer (junior),44gifts corp,1y,0–1 years,Android,Unknown,58,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+970dadbd-5cda-53db-9f4a-4d2458372150,Lead\Senior DevOps Azure,Intellias,5y,5+ years,DevOps,upper,343,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+98a62d4c-3200-5b69-8c21-c501af2a7ccf,Middle/Senior Full-stack Java+React,at IT-Rex - Staffing Services,2y,2–3 years,Java,intermediate,125,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,0–1 years,0–1 years
+99697625-bba3-52b1-9daf-9e46ae3ff51f,Data Analyst,FF Group,1y,0–1 years,Data Analyst,intermediate,251,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+99d81d18-ae5f-5eeb-a85d-79123b8f787f,Senior Manual Tester (Soap UI experience),Envion Software,5y,5+ years,QA,upper,249,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+99dcd15f-cbb3-596d-bb4c-707250ea7b4e,Copywriter/Editor Manager,Boosta,no_exp,0–1 years,Marketing,fluent,492,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+99df3923-2f86-5e43-b744-a77367674478,Office Manager/HR Officer,The Luck Factory,1y,0–1 years,HR,upper,204,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+99f2810b-2552-5d7b-b6af-3ab3b4fb1541,Delivery Director (Telecom),Intellias,5y,5+ years,Sales,upper,338,2–3 years,2–3 years,5+ years,0–1 years,0–1 years,2–3 years,2–3 years
+9a04b96c-2906-5ea6-b09f-ac40b0e41308,UX Researcher,GeeksForLess Inc.,5y,5+ years,Design,upper,511,2–3 years,2–3 years,5+ years,2–3 years,2–3 years,2–3 years,2–3 years
+9b9abc16-7f22-5cc0-80ba-59262fae5585,Back End Java Developer (Riga),ITSM Delivery,5y,5+ years,Java,upper,57,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+9bb969c2-bc16-55bf-91ac-588e1728c88b,Senior Java back-end Developer with Azure,Intellias,5y,5+ years,Java,upper,191,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+9bcbb2a6-9d9f-5e2f-b5af-8f81ab13bcdf,Lead Full Stack,Exevator,3y,2–3 years,JavaScript,upper,231,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,5+ years,5+ years
+9ca5f663-658b-5371-98ec-d9fa1a60d274,Sales Executive,EvoTalents,2y,2–3 years,Sales,upper,218,2–3 years,0–1 years,2–3 years,2–3 years,0–1 years,0–1 years,0–1 years
+9cd40e79-ddb0-5687-ad55-8e79bacf26a1,Junior Sales Development Representative,Brightech,1y,0–1 years,Marketing,upper,280,2–3 years,2–3 years,0–1 years,0–1 years,2–3 years,2–3 years,2–3 years
+9d156f10-92a9-53c0-8238-82c42d22ab4b,Linux developer,Ubiquiti,3y,2–3 years,C++,upper,159,2–3 years,2–3 years,5+ years,5+ years,2–3 years,5+ years,5+ years
+9d297b0b-9472-55bd-a5ba-b11b23399196,Sales manager IT,:DTeam,2y,2–3 years,Sales,upper,151,2–3 years,0–1 years,0–1 years,0–1 years,0–1 years,0–1 years,0–1 years
+9d9f5c33-1d92-5b4c-8d7a-11b3c8020a0c,Outbound Lead Generation Specialist,RubyGarage,1y,0–1 years,Sales,upper,425,2–3 years,2–3 years,0–1 years,0–1 years,2–3 years,2–3 years,2–3 years
+9e09dcde-f07c-57d8-9a98-db66709c828d,Angular Intern for a product company,iXsystems,no_exp,0–1 years,JavaScript,intermediate,285,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+9ebcac34-60f9-5d85-b5a5-296c7f1e8b21,AI/ML Engineering Lead,"TPE, Odessa - The Product Engine",3y,2–3 years,Lead,upper,276,2–3 years,5+ years,5+ years,5+ years,5+ years,5+ years,5+ years
+9efd8f6f-42c0-5aa1-8d5d-9bf5079bba50,Senior‌ ‌PHP‌ ‌developer‌,Serious Software,5y,5+ years,PHP,upper,86,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+a02e80b0-cf3f-5124-bcfe-4969e8790ea5,Sales Administrator,Wonderment Apps,3y,2–3 years,Sales,upper,184,2–3 years,0–1 years,0–1 years,2–3 years,0–1 years,0–1 years,0–1 years
+a0965b12-85b7-53f5-b43e-5b581b446b63,Project Manager,K&C,5y,5+ years,Project Manager,fluent,478,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+a0e54026-22a9-5b2b-9937-1cc213b90166,Trainee React-Native Developer,CyberCraft,no_exp,0–1 years,JavaScript,Unknown,95,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+a109fd40-2c3e-520a-9e93-4d440ffaed5a,Manual Test Engineer (1700$-3400$),Recruit Alliance,1y,0–1 years,QA,upper,160,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+a13583fc-ffbc-5aa9-b0d0-b4beb5773897,Senior CDP Developer,Intellias,5y,5+ years,SQL,intermediate,282,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+a1db2644-d45f-56d2-9c9f-84d5ee112acd,Wordpress Developer,ROOM4,2y,2–3 years,JavaScript,intermediate,141,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,0–1 years,0–1 years
+a1fb931e-e631-529a-99de-1b64a89c9a80,Senior C++ developer,Intellias,5y,5+ years,C++,intermediate,173,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+a227f0ad-14d7-503b-b479-c91aae5bde43,Middle Scala developer,Edvantis Software,3y,2–3 years,Scala,upper,408,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,5+ years,5+ years
+a22814a2-2948-5486-95f1-9b4bcf74b0ee,Head of Operations,Make it in Ukraine,5y,5+ years,Other,fluent,344,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+a304ea24-33be-590d-af43-5300ab15726e,Senior DevOps Engineer,globallogic.com,5y,5+ years,DevOps,intermediate,320,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+a30dc877-3319-527c-80fc-8baa74f0c12a,.Net developer / Senior or Middle (only for Ukraine),QArea,3y,2–3 years,.NET,upper,238,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,5+ years,5+ years
+a31cc8ee-4beb-5ff1-b485-3d78427f48ff,Senior Full Stack JavaScript/Node.JS Developer,Intellias,5y,5+ years,Node.js,intermediate,339,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+a3799f58-fc0e-5f88-8e56-9ecc6db5b269,Senior .NET Developer,Convidera GmbH,5y,5+ years,.NET,upper,184,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+a3ef223b-52e2-5078-a877-7b497a8be79d,Senior Backend Developer (PHP),AET,5y,5+ years,PHP,upper,652,2–3 years,2–3 years,2–3 years,2–3 years,5+ years,2–3 years,2–3 years
+a459c61b-1ecd-554b-9c6f-5d30c20cabbf,Mid Unity developer at German AR startup,SkillSquare,1y,0–1 years,Unity,upper,285,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+a47ea0ec-1b5b-5340-a2e9-63a5dfd3d51a,Trainee developer,bears.software,no_exp,0–1 years,JavaScript,intermediate,87,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+a48178d0-6b8a-5425-a974-1dc9700c36e7,Frontended developer (Portugal),Spin Technology,2y,2–3 years,JavaScript,upper,218,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,5+ years,5+ years
+a4ce5f3c-5dc5-5113-929a-e2a52b21e9b2,Markup Developer,MCPK,1y,0–1 years,JavaScript,intermediate,207,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+a4fa3cb7-8621-508e-8ed2-06bf600d6f35,Senior Angular IONIC developer,Simplify,5y,5+ years,JavaScript,upper,262,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+a50d5095-0cbe-57f2-9e9d-7789ab0da590,Junior DevOps Engineer,rinftech.com,1y,0–1 years,DevOps,upper,228,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+a515aa70-2bb5-5658-b16e-4f7bf93f223d,Oracle Developer,Unicsoft,5y,5+ years,Data Engineer,upper,182,2–3 years,2–3 years,5+ years,5+ years,2–3 years,2–3 years,2–3 years
+a5b7ac37-5e1e-5465-8905-2ca92f593815,Java Trainee/Intern,TheRaven,no_exp,0–1 years,Java,intermediate,150,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+a5d566da-7cdb-5389-adca-232708e0ce63,Business Development Manager (location Israel),ABCloudZ,5y,5+ years,Sales,fluent,297,2–3 years,2–3 years,2–3 years,2–3 years,0–1 years,2–3 years,2–3 years
+a5ffe00e-3851-5498-9c0d-45d475648939,Head of Retail Marketing,Intellias,5y,5+ years,Marketing,fluent,267,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+a6126de8-416e-587f-aa1f-3ccc810a045e,Middle\Senior Java Developer,devico.io,5y,5+ years,Java,intermediate,285,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+a63fe5c6-fb85-5b22-b7f5-0270b3152cc9,Business Analyst (for Healthcare project),IT Craft,1y,0–1 years,Business Analyst,upper,291,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+a6eb880b-8e0e-58bc-af7a-79e8c8dd0662,Senior Embedded Software Engineer (ARM Cortex),IDR,5y,5+ years,C++,intermediate,206,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+a73377a4-7a6c-5e70-b4dc-233939c7df24,IT Recruiter / Hr manager,Rocque Software,2y,2–3 years,HR,intermediate,91,2–3 years,0–1 years,0–1 years,0–1 years,0–1 years,0–1 years,0–1 years
+a7793681-2184-5919-b3df-cb3b94ce3b61,EmberJS developer,BRITEAM,5y,5+ years,JavaScript,intermediate,70,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+a7eefb7a-a52f-5d3f-9e40-0c78fa0c4d05,Pricing Specialist,J&L Consulting,1y,0–1 years,Data Analyst,intermediate,183,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+a8060507-fb46-5468-91c3-c73d4599aa14,Senior С/С++ developer,Pinngle,5y,5+ years,C++,intermediate,82,2–3 years,2–3 years,2–3 years,2–3 years,0–1 years,2–3 years,2–3 years
+a83111b0-192f-5ae1-98a3-535ad40c6ee7,Editor EN,Livepage,no_exp,0–1 years,Marketing,upper,208,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+a8568f74-3d74-5a53-bbef-1bc4127b5426,Junior DevOps,EvoTalents,1y,0–1 years,DevOps,upper,434,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+a8d3cdb1-1dcf-51b5-a49d-2bd2bd89320d,Senior Angular Developer for AI-powered Security SaaS,FusionWorks,5y,5+ years,JavaScript,intermediate,363,2–3 years,2–3 years,5+ years,2–3 years,2–3 years,2–3 years,2–3 years
+a9397413-d87d-5840-b54b-0c93b59d895f,Backend developer (Node.js +Nest.js),Unicsoft,5y,5+ years,Node.js,intermediate,48,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+aa2df256-d62c-5ffb-8319-d2bcb38db671,Senior Java Developer,ARENA CS,5y,5+ years,Java,Unknown,110,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+ab3e2805-0ce4-59bc-abbc-9e5104985350,Technical Writer,Sunsoft,2y,2–3 years,Technical Writing,upper,359,2–3 years,2–3 years,2–3 years,2–3 years,0–1 years,0–1 years,0–1 years
+ab5f978e-15c9-5797-916a-bfcce6c82202,Senior Node Backend Developer,Remotal,3y,2–3 years,Node.js,fluent,404,2–3 years,5+ years,2–3 years,5+ years,5+ years,5+ years,5+ years
+aba0ba21-4e5d-59d9-b9f5-46c51f95585c,Business Applications Academy,Global Mediator,no_exp,0–1 years,C++,Unknown,312,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+abbc3541-f43a-5d74-99d9-b594456b0ac9,Flutter developer,Simplify,5y,5+ years,Flutter,upper,70,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+ac45213c-8af0-53d8-9312-d680e894fb17,Middle/Junior Strong IOS Developer,MagicForce and TechMagic,1y,0–1 years,iOS,intermediate,362,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+ac4bd1c8-2dd6-5c58-9683-d96ff0cda010,Project Coordinator,Honeycomb Software,1y,0–1 years,Project Manager,upper,256,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+ad63944d-1d6e-57d9-9ee3-400d77804033,PHP Drupal Developer,DTeam,3y,2–3 years,PHP,upper,427,2–3 years,2–3 years,5+ years,2–3 years,5+ years,5+ years,5+ years
+ad9326b0-a4f5-5fb6-b203-03a656fb35f4,Technical Writer,Triangu,2y,2–3 years,Technical Writing,intermediate,86,2–3 years,0–1 years,0–1 years,2–3 years,0–1 years,0–1 years,0–1 years
+ae72876e-1e4f-554c-8dfd-66a71212ba01,Java Engineer,IdeaSoft,5y,5+ years,Java,upper,291,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+af381ce5-0170-571d-b669-f2bdef750725,Middle Software Engineer (Python),SPD-Ukraine,1y,0–1 years,Python,intermediate,194,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+afad3cab-e0da-573e-8fcf-85812aa33edf,Senior Java Backend Developer,Software Service & Innovation,3y,2–3 years,Java,upper,115,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,5+ years,5+ years
+afe3fb57-bef1-5cb9-9c35-d69bae2d80a1,Senior Vue.js Developer,Unicsoft,5y,5+ years,JavaScript,intermediate,83,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+b0194cbe-e1db-50dc-9004-631296888902,Middle or Senior Angular developer,Edvantis Software,3y,2–3 years,JavaScript,upper,275,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,5+ years,5+ years
+b01b3347-babb-5279-a782-b7fb6155834b,Senior Java Developer for AI Marketing Platform,Newxel,5y,5+ years,Java,intermediate,323,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+b134fa96-b9f0-5528-a0df-50c03c0bca78,Junior PM,Attract Group,no_exp,0–1 years,Project Manager,upper,162,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+b1d6b0d9-922a-56c4-a9c4-fb45c2963795,Account executive,Netframe,no_exp,0–1 years,Other,intermediate,292,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+b2556883-513d-5763-82e5-3abd1539ba75,Junior system administrator,OZZYLOGIK,1y,0–1 years,Sysadmin,intermediate,252,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+b349299a-9456-536a-97c6-e02b32866477,Angular+ Node.js,ITSOFT,3y,2–3 years,Other,upper,91,2–3 years,2–3 years,2–3 years,5+ years,2–3 years,5+ years,5+ years
+b364ef07-378d-5128-a183-5d2d61bbd620,Lead Android Engineer(Kotlin/Java) (15980),Intellias,5y,5+ years,Android,upper,200,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+b37ec64b-20b0-5f03-b543-140680c80d81,C# / .NET,Staffwerke,5y,5+ years,.NET,upper,253,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+b4b909f9-9cb3-5c07-b66b-65c45c0f87cc,Magento Developer,AB Soft,1y,0–1 years,PHP,intermediate,46,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+b55a7b94-b94c-5ae3-a4cb-c0a68308f6ab,2D Illustrator,Pacpix,1y,0–1 years,Design,intermediate,171,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+b55f0fef-83b0-5837-8d24-c43961aa8325,Junior Unity3D engineer,Remotal,1y,0–1 years,.NET,intermediate,133,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+b5ca2c35-862e-5a7d-b3f2-44ada1edc2b6,Blockchain Manager,Everstake,1y,0–1 years,Marketing,upper,211,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+b722194c-7af6-5945-89d4-c2ccc3222429,Front-End Architect,Sphere Partners,5y,5+ years,JavaScript,upper,190,2–3 years,2–3 years,5+ years,2–3 years,2–3 years,2–3 years,2–3 years
+b7d31ca9-78c3-5b54-a1ce-61e181350068,Customer Support Manager,Aitheon Ukraine,2y,2–3 years,Support,upper,292,2–3 years,0–1 years,0–1 years,0–1 years,0–1 years,0–1 years,0–1 years
+b7fea022-5d1b-567e-8e74-c9512a59bc3f,Python Developer,Recruit-Alliance,5y,5+ years,Python,upper,224,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+b814c189-ad2a-5d41-a98b-4dcdd2920ce6,Lead iOS Developer,Intellias,5y,5+ years,iOS,upper,228,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+b85d2326-a603-5eb3-80b0-a040f2b79d56,Reporting Specialist,IDR,no_exp,0–1 years,Marketing,fluent,256,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+b8a2ff3a-b18f-563d-b837-1180c4901733,Lead DevOps Engineer,Intellias,5y,5+ years,DevOps,upper,591,2–3 years,2–3 years,2–3 years,5+ years,5+ years,2–3 years,2–3 years
+b9159685-44d4-584c-9c27-90b0a03eff23,Middle IT recruiter,Moon Agency,2y,2–3 years,HR,intermediate,137,2–3 years,0–1 years,0–1 years,0–1 years,0–1 years,0–1 years,0–1 years
+b93b1f92-eccd-5cc9-8845-4354b42e8e35,Principal software engineer (SQL API),Cube,5y,5+ years,SQL,upper,393,2–3 years,2–3 years,2–3 years,5+ years,2–3 years,2–3 years,2–3 years
+b9500af1-6bbc-5d20-9e19-26af8b5e12dc,Information Security Technical Writer,Ardas,1y,0–1 years,Other,upper,305,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+b95a450a-8f5f-5775-9efa-a1c8cba68939,System Administrator,Beetroot,2y,2–3 years,Sysadmin,intermediate,144,2–3 years,0–1 years,0–1 years,2–3 years,2–3 years,0–1 years,0–1 years
+b9f30d2f-14fd-5c78-92c8-175148450850,Data Engineer,CNA International IT Recruitment,3y,2–3 years,Data Engineer,upper,194,2–3 years,5+ years,2–3 years,2–3 years,5+ years,5+ years,5+ years
+bacb080f-2ec2-578a-94fb-467145fc46f8,Senior .NET AQA Engineer,Intellias,5y,5+ years,QA Automation,upper,488,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+bb518077-4289-5494-93ef-d53161550bdd,iOS Developer,SevenPro,5y,5+ years,iOS,intermediate,228,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+bb638d03-8d77-5456-a223-a0e76d3b8fa0,Software Engineer (Lead .Net developer),acropolium.com,5y,5+ years,.NET,upper,93,2–3 years,2–3 years,2–3 years,2–3 years,5+ years,2–3 years,2–3 years
+bb8e342b-bde8-5fad-8761-c3e3a2496c15,Data Analytics,Avirise,2y,2–3 years,Data Analyst,Unknown,65,2–3 years,0–1 years,2–3 years,2–3 years,2–3 years,0–1 years,0–1 years
+bc6c30a8-c97f-5b7a-a6db-f6bc537d0af1,Senior Visual Designer-PR,at IT-Rex - Staffing Services,5y,5+ years,Design,intermediate,183,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+bc8854c3-2420-55f8-b100-6204e5e082fa,Senior Frontend Software Engineer (React JS),Make it in Ukraine,3y,2–3 years,JavaScript,upper,172,2–3 years,2–3 years,5+ years,5+ years,2–3 years,5+ years,5+ years
+bcf49152-4fc3-5ac7-b31e-95f39d465b8d,Middle/Senior Drupal Developer,Unicsoft,3y,2–3 years,PHP,intermediate,40,2–3 years,2–3 years,2–3 years,0–1 years,2–3 years,0–1 years,0–1 years
+bd1da3fb-28ed-5ac4-8c60-db8ce1e7bf9c,Ruby/RoR Developer,RubyGarage,1y,0–1 years,Ruby,intermediate,416,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+bd22bff0-97d2-5353-9ade-45f19030d0c2,Senior Product Engineer for Readdle Consumer Apps,Readdle,5y,5+ years,iOS,Unknown,257,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+bd890e09-c340-5100-b98d-416241d8b7fd,Senior С++ developer,QArea,5y,5+ years,C++,upper,68,2–3 years,2–3 years,0–1 years,5+ years,2–3 years,0–1 years,0–1 years
+bdbaaa2f-7963-5d8a-91ee-fcd29ed66843,PR Manager,Parimatch Tech,2y,2–3 years,Marketing,upper,141,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,0–1 years,0–1 years
+be144e05-512b-5fba-a5ee-ad1565a5df05,iOS Developer,VRG Soft,no_exp,0–1 years,iOS,Unknown,173,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+be3b2f88-9508-5ddc-bc98-75880b97f5ff,freelancer: PHP developer strong middle/ senior (only for Ukraine),QArea,3y,2–3 years,PHP,intermediate,137,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,5+ years,5+ years
+be4e69b8-377f-569f-93f0-d83e1e3c79d5,Elixir Developer,Maindeck,1y,0–1 years,Ruby,pre,117,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+becb7128-c8f8-5d5d-85d3-44775ae1e967,Acquisition / PPC Manager for the US-based Product Company,Nimbus Web Inc,5y,5+ years,Marketing,upper,299,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+bedfdc1a-ec0c-594c-ba8b-44124c85f38a,Java Internship,Sigma Software,no_exp,0–1 years,Java,intermediate,115,2–3 years,2–3 years,5+ years,2–3 years,2–3 years,2–3 years,2–3 years
+bee5c3c1-8916-5470-9ed5-eb11b09950df,Middle .NET Developer,IN-COM Data Systems,3y,2–3 years,.NET,upper,447,2–3 years,2–3 years,2–3 years,5+ years,5+ years,5+ years,5+ years
+bf473b6c-4a38-5380-9179-ea46ee8dc858,Junior/Middle Embedded Software Engineer,Newxel,1y,0–1 years,C++,intermediate,181,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+bf849b8d-510c-5471-8ed4-d147722edc39,Manual QA Engineer for PMI,Parimatch Tech,1y,0–1 years,QA,intermediate,193,2–3 years,2–3 years,0–1 years,0–1 years,2–3 years,2–3 years,2–3 years
+bfe45443-1cfc-5563-b70e-1a2fecafcdd1,DevOps Engineer,SimCorp,1y,0–1 years,DevOps,intermediate,425,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+c03f0f3c-d791-5a6f-b199-eb63d946b2db,Senior Full-Stack JS Engineer,DevKit,5y,5+ years,Node.js,upper,134,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+c054c15e-4113-5d5e-8d6b-5ae153dd6979,Senior Python developer for the USA company,SkyLink,5y,5+ years,Python,upper,119,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+c0d516a2-43ab-5b10-a7a8-9cde02d94965,2D Character Artist,Arrible,5y,5+ years,Artist,upper,257,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+c11e792a-5a39-57b9-b70e-7d9d0e7b36c0,Lead Java Developer for cutting edge family safety app (top 10 US google store),LocalDevService,5y,5+ years,Java,upper,184,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+c13f809a-8574-52d3-8b7b-93d9947e2ece,"AWS DevOps Engineer (on-site, Dubai)",TalentsToday,5y,5+ years,DevOps,upper,406,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+c18b1ac3-24b1-5539-b985-c0633e7176e4,Senior DevOps Engineer,CleverLand,5y,5+ years,DevOps,upper,306,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+c195435a-6949-5c19-8c15-7d63f8276152,"Algo Engineer (Python & С++, Computer Vision, Machine Learning, Deep Learning)",ABCloudZ,3y,2–3 years,Data Science,intermediate,171,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,0–1 years,0–1 years
+c1c7f047-d7ce-5fa1-88cb-488b4eee0df5,Business Analyst (at least 1 year of experience is required),Softjourn,1y,0–1 years,Business Analyst,upper,348,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+c1d1301f-1e9d-5ba3-bf6a-6dbb67f5277c,QA Engineer,Intelvision,1y,0–1 years,QA,intermediate,174,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+c1dde57e-cfb5-51ab-8db5-43b4f2346f19,Senior Vue.js developer,Simplify,5y,5+ years,JavaScript,upper,120,2–3 years,2–3 years,0–1 years,2–3 years,2–3 years,2–3 years,2–3 years
+c1f6e165-f514-5b21-91de-b28d2df719d5,Senior Full Stack Web Developer  (EyeControl),MWDN,5y,5+ years,JavaScript,upper,189,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+c202fd72-8724-510d-95a5-1605ae664697,UI Flutter Developer,Andromo,1y,0–1 years,Flutter,intermediate,70,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+c216a9e8-26b0-5c1b-aa2a-493f0015eea9,Junior Web Designer,Adavice media,no_exp,0–1 years,Design,intermediate,159,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+c26cddfe-a096-5933-b425-a20911c836a0,Cloud Engineers/Cloud Architects,Envion Software,5y,5+ years,Other,intermediate,195,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+c29d3220-6f1a-516a-b122-2b3be0972e77,Java Team Lead for Autonomous Analytics Platform,Newxel,5y,5+ years,Java,intermediate,281,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+c2c33c86-3995-53bb-9b92-3e673f4dfb3d,NodeJS developer,Digicode,2y,2–3 years,Node.js,upper,203,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,5+ years,5+ years
+c2c4e6b4-d3a0-5e2b-a764-c8b6e8c1725b,QA,Hostereo,1y,0–1 years,QA,Unknown,207,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+c4685547-db48-5bce-98a4-9def5069bef7,Business Analyst,asd.team,1y,0–1 years,Business Analyst,fluent,130,2–3 years,2–3 years,0–1 years,2–3 years,2–3 years,2–3 years,2–3 years
+c4a0138e-0791-5b03-b3e1-145c4c0c32bb,Atlassian Developer (Java),Triangu,1y,0–1 years,Java,intermediate,118,2–3 years,2–3 years,0–1 years,2–3 years,2–3 years,2–3 years,2–3 years
+c4ba3bdb-c63f-577c-b374-06374553c276,Influencer Marketing Manager,Mamma Mia Covers,1y,0–1 years,Marketing,upper,235,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+c4cd18a9-5a8d-57ff-94b4-e9635ea44ea3,Blockchain Tech Lead,Unicsoft,5y,5+ years,Node.js,intermediate,161,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+c52a4378-e02b-511e-8a47-49d975a0e41b,Java/Liferay developer,Virtuace,5y,5+ years,Java,intermediate,185,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+c5701a97-9d4a-5666-80d9-8f4f97ba4127,Lead Java Developer,Bank FUIB,5y,5+ years,Java,intermediate,263,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+c5ce3d87-5d64-5769-9712-1bbd179daeff,.NET Developers from Belgium,Simplify,3y,2–3 years,.NET,fluent,403,2–3 years,5+ years,2–3 years,5+ years,5+ years,5+ years,5+ years
+c606af47-0d59-515d-b73b-335447594c48,2D comic illustrator,Boosta,no_exp,0–1 years,Artist,upper,439,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+c616c922-c890-5aec-8148-c5ca60de39a3,Angular Developer,elrondsoft,1y,0–1 years,JavaScript,intermediate,63,2–3 years,2–3 years,2–3 years,2–3 years,0–1 years,2–3 years,2–3 years
+c61cc205-49da-5ec7-bb14-9a8262d0df60,DevOps Engineer,IdeaSoft,3y,2–3 years,DevOps,intermediate,187,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,0–1 years,0–1 years
+c6860ab8-0981-5344-b9ee-6b701680f610,Java Senior/Technical Lead,Intellias,5y,5+ years,Java,intermediate,345,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+c6dac082-c4af-5f11-ab7e-e6454da25e4b,Java Architecht for banking project,Unicsoft,5y,5+ years,Java,upper,208,2–3 years,2–3 years,5+ years,5+ years,5+ years,2–3 years,2–3 years
+c7558643-2d48-5b70-a222-6ddcc413e47b,Full stack/ Senior full stack developer,Geordie,5y,5+ years,Java,fluent,323,2–3 years,5+ years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+c7596558-03f8-511c-a5db-69e213154d1f,Affiliate Account Manager Advertiser Side,avaz media,1y,0–1 years,Sales,upper,367,2–3 years,2–3 years,0–1 years,2–3 years,2–3 years,2–3 years,2–3 years
+c75c0b99-887d-5a03-8488-289d2a9959e9,NodeJS + Blockchain Engineer (Banking Platform),Unicsoft,5y,5+ years,Node.js,intermediate,122,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+c76e3d1d-9932-52d4-b826-f4b50084191d,Senior C++ Engineer,Intellias,3y,2–3 years,C++,intermediate,47,2–3 years,2–3 years,2–3 years,2–3 years,0–1 years,0–1 years,0–1 years
+c7a939ca-13b4-5bdd-b012-0573f116ddef,WordPress Developer,SharpMinds,2y,2–3 years,PHP,upper,259,2–3 years,5+ years,5+ years,2–3 years,2–3 years,5+ years,5+ years
+c7c50491-1eaa-5185-97b7-33af74cda22a,Content Marketer and Writer / Creative Copywriter,GetFound XL,2y,2–3 years,Marketing,fluent,87,2–3 years,2–3 years,2–3 years,0–1 years,0–1 years,0–1 years,0–1 years
+c7de09cd-33fe-52ce-808b-c58ed959b253,Middle QA Engineer,4ire labs,2y,2–3 years,QA,intermediate,144,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,0–1 years,0–1 years
+c83ae17b-df65-57e4-acdb-55a002cf0a37,Senior Full-stack Software Engineer,SPD-Ukraine,5y,5+ years,Node.js,upper,510,2–3 years,5+ years,2–3 years,2–3 years,5+ years,2–3 years,2–3 years
+c85ed21c-e90f-52d0-b0aa-e2aabb655684,Middle/Senior QA,door3.com,3y,2–3 years,QA,intermediate,171,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,0–1 years,0–1 years
+c86c5301-026c-5e75-973e-373f1b180967,DevOps Developer (Azure),Devtorium,5y,5+ years,DevOps,intermediate,226,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+c8c0e5a1-0113-5bca-b31d-70c55dd4a566,IT Recruiter,Intellias,3y,2–3 years,HR,intermediate,62,2–3 years,0–1 years,0–1 years,0–1 years,0–1 years,0–1 years,0–1 years
+c8f8dfb0-41e3-5e84-bdeb-197529da4801,Project Manager (Platform),NewGMedia,3y,2–3 years,Project Manager,upper,574,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,5+ years,5+ years
+c9155690-7e23-52fe-9749-ac354ad228b8,Graphic Designer,QA Madness,1y,0–1 years,Other,intermediate,190,2–3 years,2–3 years,0–1 years,0–1 years,0–1 years,2–3 years,2–3 years
+c9ba422b-4cad-533a-b6da-25206a211475,React Native Developer - Educational platform for corporate training,Unicsoft,5y,5+ years,JavaScript,upper,132,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+c9eccb69-6541-53f4-bdbf-c7c5d15d2cbe,Junior+ IOS Developer,Sannacode,1y,0–1 years,iOS,intermediate,179,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+ca221cb4-e5e3-5373-a724-7c3ca223e5c3,Senior Python Developer,Simplify,5y,5+ years,Python,upper,132,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+ca2d89d5-5969-56ca-8b86-fd09169cab08,Strong Junior web designer,Stubbs,1y,0–1 years,Design,intermediate,204,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+ca809cad-b9b8-518b-854a-3842079a6e63,IT System Administrator,Mova,3y,2–3 years,Sysadmin,intermediate,154,2–3 years,0–1 years,0–1 years,2–3 years,2–3 years,0–1 years,0–1 years
+cad5d811-96fd-5dfb-94cf-ce13e2add56d,Senior Frontend Engineer (React) in Swiss GovTech Company,Konova AG,5y,5+ years,JavaScript,intermediate,422,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+cb0bda02-2e4a-5e13-9da2-4845b13a892c,Senior Python Developer,Edvantis Software,5y,5+ years,Python,upper,277,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+cb116bfa-06a5-56d0-8048-d1fbd6caaad5,Lead Quality Manager (Poznan),Beetroot,no_exp,0–1 years,Data Analyst,upper,479,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+cb2fff8c-1c9e-5830-a7d2-864324038e00,Automation QA Engineer,AMFG,1y,0–1 years,QA Automation,intermediate,90,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+cb32f8e5-ea65-5dc3-9d14-61d4ddb7c97a,Python Developer,Digicode,3y,2–3 years,Python,upper,306,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,5+ years,5+ years
+cb339219-d9e1-5d46-b914-6b75e19a9fd5,Digital Marketing Strategist,OSF Digital,5y,5+ years,Marketing,upper,450,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+cb4b5193-716f-5cdc-a901-662009efbf20,Senior C/C++ Backend Integration Engineer (Windows),Devico,5y,5+ years,C++,upper,400,2–3 years,5+ years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+cb4d546f-65f7-5907-b3fe-287a728586dc,Sr Java developer,Bank FUIB,5y,5+ years,Java,Unknown,417,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+cb5bb14c-97e5-5a8c-a8aa-6af5ab754bb1,Strong Middle ML Engineer,Zvook,2y,2–3 years,Data Engineer,upper,161,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,5+ years,5+ years
+cb778192-9289-56d6-ba69-d9164a4f42e2,Senior IT Recruiter,MindK,5y,5+ years,HR,upper,202,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+cbce6963-f2c8-5a30-90e4-d7ab3cc80a86,Onboarding Manager,Raiffeisen Bank Aval,2y,2–3 years,HR,intermediate,205,2–3 years,0–1 years,0–1 years,0–1 years,0–1 years,0–1 years,0–1 years
+cc09dcbb-f146-52ad-8661-28770da84a16,Manual QA,Unicsoft,3y,2–3 years,QA,intermediate,64,2–3 years,0–1 years,0–1 years,0–1 years,0–1 years,0–1 years,0–1 years
+cc11ff82-0261-51ba-8301-54e1123464a9,Front-end Team Lead,WB VENTURES,3y,2–3 years,Java,upper,151,2–3 years,2–3 years,2–3 years,2–3 years,5+ years,5+ years,5+ years
+cc2a0828-90a7-5510-bf26-e022fb56ee2e,Middle/Senior .Net Developer for dbForge,Devart,5y,5+ years,.NET,Unknown,379,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+ccf7c753-2b07-5067-b69c-987b331631b7,DevOps Enginner,Intellias,1y,0–1 years,DevOps,upper,125,2–3 years,2–3 years,5+ years,2–3 years,2–3 years,2–3 years,2–3 years
+cd157788-3112-54b5-a17b-44898afa1d3c,Senior Marketing Manager,Oboard,5y,5+ years,Marketing,upper,424,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+cd1f5897-94eb-5e56-85da-9a150f251a4b,Zoho CRM Developer for Online News,FlexMade,3y,2–3 years,Other,intermediate,151,2–3 years,2–3 years,0–1 years,2–3 years,2–3 years,0–1 years,0–1 years
+cd2a7548-1eb8-559b-862b-39580a1f26f5,Information and Compliance Security Manager (Junior),Iterasec,1y,0–1 years,Security,upper,229,2–3 years,2–3 years,5+ years,2–3 years,2–3 years,2–3 years,2–3 years
+cfbc8b22-7eb4-59a3-b597-3d837b432cea,Senior/Lead Android Developer,Newxel,5y,5+ years,Android,intermediate,61,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+cfd10cfc-a30a-5501-85a8-6e5acf17168c,Backend Engineer,SkyLink,3y,2–3 years,Java,upper,108,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,0–1 years,0–1 years
+d0148adb-cba8-5f2b-926e-6b6f11d6dffd,Data Base Administrator,Web-recruiters,5y,5+ years,SQL,upper,225,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+d032936e-5c56-5068-92e3-18c2228dbe3b,Senior FullStack,Findeg,5y,5+ years,Node.js,upper,224,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+d048860e-73e6-531d-8904-bf82232ae435,Junior DevOps,Maven Ecommerce,1y,0–1 years,DevOps,intermediate,291,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+d0ee72b1-e991-570b-9d54-d7620e2a1d15,MLOps,Make it in Ukraine,3y,2–3 years,Data Science,upper,700,2–3 years,2–3 years,5+ years,2–3 years,2–3 years,5+ years,5+ years
+d1063dd5-b63f-506e-8a8f-7c704af57105,Senior Dynamics 365 / Azure (Senior),Covent IT,5y,5+ years,.NET,upper,202,2–3 years,2–3 years,5+ years,2–3 years,2–3 years,2–3 years,2–3 years
+d19ba3b9-b655-5b6e-a39d-10d3291d64d3,SAP Migration Analyst,GeeksForLess Inc.,5y,5+ years,Data Analyst,upper,245,2–3 years,2–3 years,0–1 years,2–3 years,2–3 years,2–3 years,2–3 years
+d23367e3-ca0f-5edc-a96c-adbe6c3773ff,Full-stack .Net Lead,Newxel,5y,5+ years,.NET,upper,207,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+d26cbee7-5c0b-5eae-b412-726bde6ef1e2,Product Marketing Researcher,F3NIX,1y,0–1 years,Product Manager,Unknown,323,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+d32f0c50-3334-5795-83d8-fe2ee5cb90f1,Wordpress PHP Developer,Rubygarage,2y,2–3 years,PHP,upper,380,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,5+ years,5+ years
+d37e355e-be39-5824-a7f6-9f447f72d4e5,DevOps Engineer,Intellias,3y,2–3 years,DevOps,upper,312,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,5+ years,5+ years
+d3817701-de5a-5479-b3da-45377a417902,Senior Program Manager/Project Manager/Scrum Master,SkyLink,5y,5+ years,Project Manager,upper,178,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+d384452f-c389-559a-8134-d3f7741d69ed,Digital Marketing Manager,EPC Network,no_exp,0–1 years,Marketing,intermediate,328,2–3 years,0–1 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+d3a2e617-4708-5cc1-a309-237bcaacc2de,"TV (Tizen/Samsung, WebOS/LG) developer",Edvantis Software,5y,5+ years,C++,upper,198,2–3 years,2–3 years,5+ years,2–3 years,2–3 years,2–3 years,2–3 years
+d3cc698d-96db-5aad-a65c-1a5b1e955727,Software Delivery Manager/Technical Project Manager for big pharmaceutical company,Moving Targets Consulting GmbH,5y,5+ years,Project Manager,upper,246,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+d456381b-13b4-515d-ba61-0eb5e72a8327,Database Administrator,Amgrade,5y,5+ years,Data Science,upper,149,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,0–1 years,0–1 years
+d49d56a2-df78-5f82-a417-72e7ea2f5e16,Lead Recruiter,TheAppSolutions,2y,2–3 years,HR,intermediate,157,2–3 years,0–1 years,0–1 years,2–3 years,0–1 years,0–1 years,0–1 years
+d4eb4c32-248f-5347-b847-ea71780f7685,Administrative Manager,Preste,3y,2–3 years,Support,fluent,199,2–3 years,0–1 years,0–1 years,0–1 years,0–1 years,0–1 years,0–1 years
+d56b4b1c-5884-5a89-b270-4478f1f6bbd3,Senior Back-end Engineer,Cisco,5y,5+ years,Java,upper,323,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+d5cc2eaf-4964-517e-837f-6b531684bf69,Expert Java Developer,Unicsoft,5y,5+ years,Java,upper,213,2–3 years,5+ years,2–3 years,2–3 years,5+ years,2–3 years,2–3 years
+d5f44024-0d98-5017-8bca-cc4a5524dbe1,Test Automation Engineer Intern,Sigma Software,no_exp,0–1 years,QA Automation,Unknown,308,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+d622afee-4ec2-5a6a-af5f-6e5f37d3ea00,Middle Ruby on Rails,Webmil,3y,2–3 years,Ruby,upper,55,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,5+ years,5+ years
+d6a305ad-d2d7-574d-a88c-b223b89671d5,Plugins integrations engineer,ESTO Holdings,1y,0–1 years,PHP,fluent,338,2–3 years,5+ years,5+ years,2–3 years,5+ years,5+ years,5+ years
+d71139a2-844b-59f8-8fc4-d057c4b11529,Blockchain Developer,4irelabs,3y,2–3 years,Other,upper,176,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,5+ years,5+ years
+d7674841-45c9-56d3-8899-84f77634bcdd,Senior JavaScript Developer (with experience in Video Player),SevenPro,5y,5+ years,JavaScript,intermediate,419,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+d78cc362-04d7-576f-ad46-0d6c7406738d,IT Sales Manager,GetApp Group,1y,0–1 years,Sales,upper,417,2–3 years,0–1 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+d7bc8b72-e2a8-5281-9942-04e5e457e96a,Ruby Developer,White Label,3y,2–3 years,Ruby,upper,225,2–3 years,2–3 years,5+ years,5+ years,5+ years,5+ years,5+ years
+d7e47acf-979f-54a5-815f-ba44f9661c18,Marketing PPC specialist,Datascopum,2y,2–3 years,Marketing,upper,177,2–3 years,2–3 years,0–1 years,0–1 years,0–1 years,0–1 years,0–1 years
+d855ecae-767d-5a68-b75f-e4834da1fbfa,Internal Project Manager,White Test Lab,no_exp,0–1 years,Project Manager,upper,357,2–3 years,2–3 years,0–1 years,2–3 years,2–3 years,2–3 years,2–3 years
+d87ab008-97ab-5c74-afd4-7208157b552a,Middle UI/UX Designer,Requestum,1y,0–1 years,Design,upper,125,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+d8ce2e0b-c87f-55dd-9499-33830840d4fe,Project Coordinator/ Release Engineer,Netframe,1y,0–1 years,Project Manager,fluent,154,2–3 years,2–3 years,2–3 years,2–3 years,5+ years,2–3 years,2–3 years
+da041011-8bbf-5d79-80ac-06835e638db4,C# Tech Lead (+MS Azure),Kobvel Consulting,3y,2–3 years,.NET,upper,142,2–3 years,2–3 years,5+ years,2–3 years,2–3 years,5+ years,5+ years
+da33ab71-0212-50ad-a9be-36d31bc2b5a1,Java Tech Lead (hourly payment),SPD-UKRAINE,5y,5+ years,Java,upper,310,2–3 years,2–3 years,2–3 years,2–3 years,5+ years,2–3 years,2–3 years
+da37daf7-1f97-563c-9a60-5771a5811e7e,UI / UX Designer,Tappo,1y,0–1 years,Design,intermediate,185,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+da5ff926-cfd3-5f5f-a17c-0e69ae09054c,Player experience agent (only Armenia),ITSOFT,1y,0–1 years,Other,fluent,281,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+dae111c7-1824-50fb-995d-b6b759b79285,Finance Manager,RubyGarage,5y,5+ years,Other,upper,838,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+db363e31-6294-51d7-801e-46afe6b90e20,Java Developer,Stanga1,5y,5+ years,Java,fluent,131,2–3 years,5+ years,2–3 years,2–3 years,5+ years,2–3 years,2–3 years
+db37dba5-8aec-5bdd-ac53-950e96f2eac6,Lead Web Developer,GlockApps,5y,5+ years,JavaScript,intermediate,337,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+db529d94-0783-5ffe-b0a0-ef87073870e9,Link Building Outreach Expert,SeoSamba,2y,2–3 years,Marketing,upper,115,2–3 years,2–3 years,0–1 years,0–1 years,0–1 years,0–1 years,0–1 years
+dbbb3929-6382-566a-9bb0-3ef41d91a928,Site Reliability Engineer,INDIGO Tech Recruiters,3y,2–3 years,DevOps,upper,365,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,5+ years,5+ years
+dc074c36-89c4-5791-996f-2750cdedc2da,JavaScript/Front-End developer,altertech,1y,0–1 years,JavaScript,Unknown,82,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+dc53ab17-ba41-5830-a031-1943906706a5,Senior Product Designer (UI/UX),Moon Agency,5y,5+ years,Design,upper,358,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+dc58cb45-65be-55b8-a4f9-c1df83d6e358,Head of Acquisition,Parimatch Tech,5y,5+ years,Marketing,fluent,299,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+dc9f0ff7-feab-5e72-ab67-506d36bbc131,Senior DevOps Engineer,Unicsoft,5y,5+ years,DevOps,intermediate,248,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+de9d92cb-fb3f-5eba-bdfb-6a86c5f36a38,Project Manager,Zoral Labs,5y,5+ years,Other,upper,721,2–3 years,5+ years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+deee2a20-2002-531c-8137-baf68caeb993,Business Analyst,.doCode,1y,0–1 years,Business Analyst,upper,136,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+deff3a59-b8ae-52ef-835d-88eda6ea7952,Java Team Lead,SPD-UKRAINE,5y,5+ years,Java,intermediate,442,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+df34098d-6933-5d38-b845-682cb4a19c94,Middle Laravel + Vue.js Developer,AMgrade,1y,0–1 years,PHP,intermediate,84,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+df6088e6-a6d2-5555-a91f-3351e879c0e7,Performance/Scale Engineer,Diversido,5y,5+ years,Scala,upper,298,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+df910379-33b0-518a-96ef-2267278e6f8e,HTML/CSS Developer,Digis,1y,0–1 years,JavaScript,upper,387,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+e0ed3995-585d-583c-9ff6-a71713c8eabb,Senior Full Stack Javascript Developer,Amgrade,no_exp,0–1 years,JavaScript,Unknown,65,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+e12d0e4f-a727-5a9d-b44b-36abfea3223f,Junior Project Manager,Artelogic,1y,0–1 years,Project Manager,upper,268,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+e1c77ec2-1d21-5aef-ac44-8ca5018e80aa,Lab Infrastructure Engineer (Contract),SQUAD,no_exp,0–1 years,Sysadmin,Unknown,136,2–3 years,0–1 years,2–3 years,2–3 years,0–1 years,2–3 years,2–3 years
+e220e450-50f8-5e1c-b08f-23fc47f368a1,Strong junior Front-end developer,42flows.tech,1y,0–1 years,JavaScript,intermediate,181,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+e27c886a-fcef-5ec1-8619-7c89a1c0381d,Node.js developer,Simplify,5y,5+ years,Node.js,upper,196,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+e2e90d57-777d-524c-a594-a7ff21034ea7,Senior Java Engineer,SoftChapter,5y,5+ years,Java,intermediate,228,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+e30a51ff-1820-55d4-97bb-458d438c6e10,Full Stack developer Risk management system/Payment processor,Quantfury,5y,5+ years,.NET,pre,152,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+e3a429b7-26cc-57c4-8b9b-83db52b2e32f,Magento 2 Full-stack Developer,Wisebrand,5y,5+ years,PHP,intermediate,199,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+e3c22ec8-bf85-5b2d-9ffc-8a7e9c1af707,Senior Full stack developer,Soft Industry Alliance Ltd,5y,5+ years,Other,upper,145,2–3 years,2–3 years,2–3 years,5+ years,2–3 years,2–3 years,2–3 years
+e401c4f1-e297-5ccc-8e2e-6946d2b4024a,Compliance and Security Administrator,IntelliBoard,2y,2–3 years,Support,intermediate,326,2–3 years,0–1 years,0–1 years,0–1 years,0–1 years,0–1 years,0–1 years
+e48dda2b-3662-56a5-9ba7-d40c09be92fa,DevOps / Build-Release Engineer,EvoTalents,1y,0–1 years,DevOps,upper,327,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+e494b6be-dccf-5bc4-b14f-9bb4e44789ac,React Frontend Developer (London Startup),Chefly | London's hottest D2C food brand,1y,0–1 years,JavaScript,upper,154,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+e545c284-73b0-583c-8e66-4a0b19089cba,Senior Mobile Developer (Safe and Secure System),Sigma Software,5y,5+ years,Android,upper,89,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+e6413702-b80f-597c-8983-52a76cd8303d,Senior Frontend Engineer,Jappware,5y,5+ years,JavaScript,upper,591,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+e67f4dcc-d046-59bc-be28-87d8835188ee,Strong Junior/Middle QA Engineer,42flows.tech,1y,0–1 years,QA,upper,208,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+e680b1a8-bd1b-54c7-9009-f458a1b9a17b,Marketing Manager,DevOut Labs,1y,0–1 years,Marketing,upper,304,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+e6c83706-f13f-5c56-8fb5-a9c5054bc8f4,Marketing Manager,ideasoft,1y,0–1 years,Marketing,upper,324,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+e7040a05-f863-51b5-846b-5430f92900c6,Front-End Engineer (TEST),Hurma,1y,0–1 years,Java,intermediate,51,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+e7831d1e-c8d0-50a1-9ff9-e4549e0b02a2,Senior Sales Manager,SPD-Ukraine,5y,5+ years,Sales,fluent,725,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+e7c0ba1d-321a-5abe-835a-7e578f6a8135,Junior Pro/Middle Python Developer,Softjourn,1y,0–1 years,Python,intermediate,176,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+e7e1b80c-1fa6-5616-a9e6-a89a7ff3e870,Java Developer (Relocation to Netherlands),Spellrise Recruitment and Grinfi.io,5y,5+ years,Java,upper,203,2–3 years,2–3 years,5+ years,2–3 years,2–3 years,2–3 years,2–3 years
+e7f695cf-5789-5e5e-8a36-7d6895bda2e5,Marketing Creatives Producer,Home Games,3y,2–3 years,Marketing,Unknown,252,2–3 years,0–1 years,2–3 years,2–3 years,2–3 years,0–1 years,0–1 years
+e827019e-18e6-51dc-b337-330520929fdf,Middle React native developer,Northell,3y,2–3 years,Other,upper,70,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,5+ years,5+ years
+e82ee5fe-6a94-52a6-8995-cc1a06a1aa4d,Sales Manager for Sponsorship. Project work,Construction Evolution Forum,5y,5+ years,Sales,intermediate,68,2–3 years,0–1 years,0–1 years,0–1 years,0–1 years,0–1 years,0–1 years
+e8bc0eb4-c597-5ce9-8838-21d39ff8b47f,Java Developer,Software Service & Innovation,1y,0–1 years,Java,intermediate,44,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+e8cb37b3-d1b1-5876-9c79-efc41efa087f,Trainee/ Junior Angular Developer,Software Service&Innovation,1y,0–1 years,JavaScript,intermediate,228,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+e9123f65-2221-5ad5-85ca-4b15eb62c203,Business Analyst,Dipocket Limited,1y,0–1 years,Business Analyst,upper,161,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+e92b7d07-ea4b-5486-b732-5f8d57122da4,Junior QA Engineer Manual,AxiomSL,no_exp,0–1 years,QA,intermediate,366,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+e92d4e3a-027d-5e29-a7e2-e1ac746ac9b6,Software Maintenance Tech Lead,ITRex Group,3y,2–3 years,Node.js,upper,506,2–3 years,2–3 years,5+ years,5+ years,5+ years,5+ years,5+ years
+e9c9bd58-b16c-58fb-9c0a-0de19c22126c,IT Sales Manager,Qualium Systems,2y,2–3 years,Sales,upper,185,2–3 years,0–1 years,0–1 years,0–1 years,0–1 years,0–1 years,0–1 years
+e9ccaa76-d7ec-5e34-84cd-0e9540b93077,Scrum Master,Uadev,2y,2–3 years,Scrum Master,intermediate,56,2–3 years,2–3 years,0–1 years,2–3 years,2–3 years,0–1 years,0–1 years
+ea1c1fc1-9c80-592f-8a17-2c9dbd7c8cc7,Senior Node.js/Angular Developer,Simplify,5y,5+ years,Node.js,upper,194,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+ea5ad22d-ab75-5309-9ff0-5ce4fa8d8121,Looking for an experienced CTO,Compass,5y,5+ years,Lead,upper,400,2–3 years,5+ years,2–3 years,5+ years,5+ years,2–3 years,2–3 years
+ead28f7d-83ff-5df1-801a-491b08c04cf8,"Full stack Developer (Next,React,Wordpress,Woocommerce,AWS)",White Test Lab,1y,0–1 years,JavaScript,upper,207,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,5+ years,5+ years
+ebdea7cc-1d52-52a7-ba20-2993e6436dac,Java Developer,Devtorium,5y,5+ years,Java,intermediate,240,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+ebe7b9e3-5eef-5c1d-9bcc-9bffb3b57fdb,Junior GoLang Developer,CyberCraft,1y,0–1 years,Golang,intermediate,404,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+ec496df2-c83c-5ecc-937b-132d6ce4f02d,Wordpress Developer,EPC network,1y,0–1 years,JavaScript,Unknown,288,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+ec762f2b-b3e7-51d2-b0d5-b00c7f24851b,The Technical Writer,Make IT in Ukraine,5y,5+ years,Other,fluent,52,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,0–1 years,0–1 years
+ec7f8c12-1716-52a9-b566-bed4bf70898f,.Net Developer,SimCorp,1y,0–1 years,.NET,intermediate,525,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+ec922270-7ea0-59a7-80ef-2e3ec0044c66,Full Stack Architect (Right Hand),Devico,5y,5+ years,Python,upper,333,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+ec9714a2-a032-5565-9cca-2b75f5c9e741,iOS developer,Art2Hire Tech Recruiters,5y,5+ years,iOS,intermediate,342,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+ed7cf951-6634-559f-b19e-be8ae39c370e,Lead\Senior Node.js Developer,GeeksForLess Inc.,5y,5+ years,Node.js,upper,87,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+edaa587b-6601-54c8-be37-ae782c5b14bd,Senior SysAdmin/DevOps,1touch.io,1y,0–1 years,Sysadmin,pre,506,2–3 years,2–3 years,2–3 years,2–3 years,5+ years,2–3 years,2–3 years
+ede58fde-2d11-52b3-83b9-e265d5bb18f3,Senior AWS DevOps Engineer,Ukraine Tech IT Recruiting and Staffing,5y,5+ years,DevOps,upper,436,2–3 years,2–3 years,2–3 years,2–3 years,5+ years,2–3 years,2–3 years
+ee3ca278-17c1-5c3a-a9ca-ce644c0f6edf,Senior Python Engineer,Star Global,5y,5+ years,Python,upper,173,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+ef64999f-c710-5da8-a4f3-6a6e50a6f27e,Community Manager,ideasoft,1y,0–1 years,Marketing,upper,412,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+f0531d0b-d1d1-562c-9c42-6c870dabe52b,Financial analyst,Tres Commas,1y,0–1 years,Business Analyst,upper,264,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+f0aa0041-8180-5696-a680-aa92220da115,Junior Product Manager (for TMD unit),Intellias,1y,0–1 years,HR,upper,125,2–3 years,2–3 years,0–1 years,0–1 years,2–3 years,2–3 years,2–3 years
+f0dc0003-e99e-5f5f-8bc0-75a1cf991197,Data Analyst,ITRex-Group,5y,5+ years,Data Science,intermediate,277,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+f0f3a258-dc01-57a1-b0cd-ace1f25b6220,Full-Stack Senior Software Engineer (GIS),Free Ukraine,5y,5+ years,Node.js,Unknown,299,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+f171ec3f-84aa-5fa8-8783-f9e4b70fa67c,Junior Manual QA engineer,Simplbit,1y,0–1 years,QA,intermediate,201,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+f186db2f-5d16-5971-88c1-ad780b0a4550,Middle/Senior Dynamics NAV/365 BC developer,Newxel,3y,2–3 years,Other,intermediate,71,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,0–1 years,0–1 years
+f19bfd20-4f07-58fd-8bab-d270f800f5b9,Lead Front-End Developer,atlas-iac.com,5y,5+ years,JavaScript,intermediate,133,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+f228f138-58a0-5a5b-a689-916b1b088252,Junior Test Automation Engineer,Sigma Software,no_exp,0–1 years,QA Automation,intermediate,83,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+f2a23b63-d34c-5db5-9a03-fb53a24d69b5,Junior Manual QA (Focused on Odoo ERP) Internship,N-development,no_exp,0–1 years,QA,upper,145,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+f2df4e19-b0fe-54a5-986a-ccb12d16b870,Senior SRE Specialist,Intellias,3y,2–3 years,Sysadmin,intermediate,206,2–3 years,0–1 years,2–3 years,2–3 years,0–1 years,0–1 years,0–1 years
+f39853e3-ab42-53d8-a454-61df67e5ca03,"Sales manager (B2B, CRM, English, South Africa)",Limpid,2y,2–3 years,Sales,upper,431,2–3 years,0–1 years,0–1 years,0–1 years,0–1 years,0–1 years,0–1 years
+f41eea42-56fb-546f-a1a6-b018e810114a,JavaScript Developer with Vue,Arcanys,5y,5+ years,JavaScript,intermediate,285,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+f432b7c0-760a-55fc-bce4-bf68d17763ae,QA Engineer for TAF,Daxx Software Development Teams in Ukraine,1y,0–1 years,QA,intermediate,223,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+f467d865-13be-54dc-8528-58d6f1ae9684,Middle Frontend Developer,Jellyfish.tech,1y,0–1 years,JavaScript,upper,209,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+f46de597-7767-52c5-849f-0ba315884288,UI/UX designer,IntelliBoard,2y,2–3 years,Design,intermediate,157,2–3 years,2–3 years,0–1 years,2–3 years,2–3 years,0–1 years,0–1 years
+f478d9e6-5e7b-5985-9a6f-f7d823e672cb,.NET/C# Developer for Investment Operations,Simcorp Ukraine,1y,0–1 years,.NET,intermediate,312,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+f47e0fb9-3eb7-5ca5-a076-db4521987916,Sales Development Representative,Influ2,1y,0–1 years,Sales,fluent,349,2–3 years,2–3 years,0–1 years,2–3 years,2–3 years,2–3 years,2–3 years
+f4811331-7d84-5352-9d22-a5a0abd5cf34,SEO Link Builder,Brightech,1y,0–1 years,Marketing,upper,389,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+f4a384d4-2c9a-521f-96b4-4338ed6ea128,HR Generalist,HR Studio,2y,2–3 years,HR,Unknown,246,2–3 years,0–1 years,0–1 years,0–1 years,0–1 years,0–1 years,0–1 years
+f4e7a51b-c4fa-5695-ae8c-cfebda394177,React.js Front-End Developer,Fast and Curious,1y,0–1 years,JavaScript,Unknown,115,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+f4fc7931-2ccd-5033-9f52-e443c234787b,Affiliate Manager,Infatica,1y,0–1 years,Marketing,upper,221,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+f522b991-2108-5d60-ad61-69cd5798bb94,Computer Vision and Machine Learning Engineer,COXIT,5y,5+ years,Data Science,upper,439,2–3 years,2–3 years,5+ years,5+ years,2–3 years,2–3 years,2–3 years
+f55cff4f-2f2f-53d6-b9d2-9eaf23e0aba0,QA Automation Engineer,Litera,1y,0–1 years,QA Automation,intermediate,502,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+f5e2d96d-d732-59c6-a0a9-7142c4a07440,HR ATS Administrator,PMI team,1y,0–1 years,Other,upper,222,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+f5fa060e-63cf-52eb-aa6c-b32fabfdfba3,Senior HR Manager,GlenFlow,5y,5+ years,HR,upper,307,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+f674204e-f71f-5cf3-9a28-ad91b8e6bec9,Middle or Senior React Developer for a blockchain company. Blockchain knowledge not required,Baby Doge,1y,0–1 years,JavaScript,intermediate,148,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+f768581d-8aa2-509b-a946-449f9df7d90e,HR Manager/Lead,Студия HR решений,5y,5+ years,HR,upper,461,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+f777166e-8f9b-5140-a279-56ada5ac4a0d,Junior / Middle DevOps Engineer,ITCraft,1y,0–1 years,DevOps,intermediate,84,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+f78788e7-5fa9-5a51-a53a-3126b54e4a0f,Junior IT specialist,Business Resources,1y,0–1 years,Support,upper,148,2–3 years,0–1 years,2–3 years,2–3 years,0–1 years,2–3 years,2–3 years
+f7aaf862-f128-5c20-8de5-2a178dd2f3f1,Сontent Marketing manager,Cieden,1y,0–1 years,Marketing,upper,769,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+f875ffea-3736-5c11-ab7f-7a6fecd412b4,Trainee JavaScript Engineer,KeyUA,no_exp,0–1 years,JavaScript,intermediate,122,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+f8876ad4-4d4e-56db-b0bb-1fec45d0f29a,Project Manager,Redpoint,1y,0–1 years,Project Manager,upper,228,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+f89f4be3-cc07-58d2-bc47-c32a1e3a648c,Java Developer for a Payment Company,Midealab,3y,2–3 years,Java,upper,276,2–3 years,2–3 years,5+ years,2–3 years,2–3 years,5+ years,5+ years
+f978a709-0e4d-5537-9ae3-35dfea7cae31,Back-End / Cloud Developer,ITSM Delivery,5y,5+ years,Python,fluent,72,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+f97b5910-db65-5d9c-b23b-a948081560d6,React Developer (FashionTech Industry),IdeaSoft,5y,5+ years,JavaScript,intermediate,334,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+f9982943-d2e2-5818-bc39-5e88aadef2de,Middle Java Developer - Travel Platform,Intellias,2y,2–3 years,Java,upper,212,2–3 years,2–3 years,5+ years,2–3 years,2–3 years,5+ years,5+ years
+fa593b73-8a0e-5415-ab15-5310aff5b339,"React engineer (real estate product, USA)",Trembit,2y,2–3 years,JavaScript,upper,189,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,5+ years,5+ years
+fab21b07-b5a1-5081-8d27-e6baa8ae22cf,QA Manual,Devart,2y,2–3 years,QA,pre,269,2–3 years,0–1 years,2–3 years,2–3 years,0–1 years,0–1 years,0–1 years
+fad00bda-11a8-5c81-9515-c1324c77aab5,Team Leader / Senior Recruiter,Devoted Studios,1y,0–1 years,HR,intermediate,423,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+fb1e06d9-a0e1-5edb-bb50-3946ff99cfea,3D JS Software Engineer,Aksiio Technologies,1y,0–1 years,JavaScript,upper,260,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+fb4eb8c6-40ad-5520-819f-f8129246d2cc,Node.js Developer,Wamisoftware,1y,0–1 years,Node.js,intermediate,132,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+fb71f9e7-3d43-556c-a959-d44af8ad9cfa,SW Engineer,Unicsoft,5y,5+ years,C++,upper,135,2–3 years,5+ years,5+ years,2–3 years,2–3 years,2–3 years,2–3 years
+fb9d816c-9d65-51dd-9401-ab2a9147137e,Middle Blockchain (Solidity) Developer,4ire Labs,2y,2–3 years,Other,upper,112,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,5+ years,5+ years
+fbdddaa7-3317-5774-9390-73bb60eafcbe,Junior Frontend Developer,WebIdeas Partners,1y,0–1 years,JavaScript,upper,154,2–3 years,2–3 years,5+ years,2–3 years,2–3 years,2–3 years,2–3 years
+fc46c017-47a4-50c4-8ed7-cd9964d51169,Node.js developer,Indigo Tech Recruiters,5y,5+ years,Node.js,intermediate,225,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+fcae38e6-6d39-5bfe-af14-33d887593c4e,Junior/Junior+ Manual QA,QArea,1y,0–1 years,QA,upper,262,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+fcb73722-a67c-5df7-b0eb-36f30d0fc140,FrontEnd Engineer (React.JS),Intellias,3y,2–3 years,JavaScript,upper,170,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,5+ years,5+ years
+fd7b405b-d30d-5b90-a233-39d4f278d36a,Java Developer,YRC,5y,5+ years,Java,upper,199,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+fdcce7c3-7805-5558-a6dd-9231f692d7f8,Senior Flutter Developer,White Label,5y,5+ years,Flutter,upper,169,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+feb8b10c-75e6-504c-94f9-bb08144e0252,Content Analyst,Beetroot,1y,0–1 years,Other,intermediate,309,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+ff2e8d47-ea82-5d18-abbe-8150dcb8dea4,Marketing Project Manager,Make it in Ukraine,1y,0–1 years,Project Manager,fluent,396,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years,2–3 years
+ffa17d22-c916-588f-a817-301c1b4097b5,Team Lead into a Leading Career Platform,Woxlab,3y,2–3 years,Lead,upper,514,2–3 years,5+ years,2–3 years,5+ years,5+ years,5+ years,5+ years

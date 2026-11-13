@@ -1,0 +1,9 @@
+{
+  "company_overlap": 0,
+  "exact_description_overlap": 0,
+  "cv_group_overlap": 0,
+  "proxy_perturbation_invariant": true,
+  "prediction_rows": 2094,
+  "preferred_errors": 794,
+  "source_sha256": "71dddaf0d9660f34ddf946953b67f54f1e7d60e22dcf9a4b8139b6378b18aab9"
+}

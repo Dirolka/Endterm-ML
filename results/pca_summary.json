@@ -1,8 +1,0 @@
-{
-  "first_two_variance": 0.2094802861079618,
-  "components_95": 16,
-  "lr_pca_cv_mean": 0.7905341147613543,
-  "lr_pca_cv_std": 0.02314838290552211,
-  "fit_rows": 1000,
-  "features": 20
-}

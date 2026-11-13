@@ -1,0 +1,19 @@
+{
+  "input_features": 76,
+  "hidden": [
+    32
+  ],
+  "output": 3,
+  "iterations": 180,
+  "max_iter": 180,
+  "hit_cap": true,
+  "alpha": 0.1,
+  "last_diagnostic": {
+    "epoch": 100,
+    "loss": 0.7365322276436743,
+    "train_f1": 0.5476746992164299,
+    "validation_f1": 0.43928897113636783
+  },
+  "diagnostic_fit_rows": 7752,
+  "diagnostic_validation_rows": 2154
+}

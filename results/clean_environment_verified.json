@@ -1,8 +1,0 @@
-{
-  "isolated_venv": true,
-  "requirements_install": true,
-  "experiments_ran": true,
-  "tests_passed": true,
-  "metrics_match": true,
-  "tolerance": 1e-10
-}

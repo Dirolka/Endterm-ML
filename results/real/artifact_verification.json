@@ -1,0 +1,9 @@
+{
+  "all_six_saved_models_match_predictions": true,
+  "metric_recalculation_matches": true,
+  "confusion_matrices_match": true,
+  "source_hash_matches": true,
+  "split_ids_and_order_verified": true,
+  "company_overlap": 0,
+  "only_approved_inputs_required": true
+}

@@ -1,0 +1,33 @@
+{
+  "0–1 years": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 451.0
+  },
+  "2–3 years": {
+    "precision": 0.602196752626552,
+    "recall": 1.0,
+    "f1-score": 0.7517138599105813,
+    "support": 1261.0
+  },
+  "5+ years": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 382.0
+  },
+  "accuracy": 0.602196752626552,
+  "macro avg": {
+    "precision": 0.20073225087551735,
+    "recall": 0.3333333333333333,
+    "f1-score": 0.2505712866368604,
+    "support": 2094.0
+  },
+  "weighted avg": {
+    "precision": 0.3626409288739647,
+    "recall": 0.602196752626552,
+    "f1-score": 0.4526796453425229,
+    "support": 2094.0
+  }
+}

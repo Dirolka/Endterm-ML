@@ -1,48 +1,43 @@
-# IT Vacancy Seniority Classification — Endterm
-Machine Learning Algorithms, Astana IT University  
-Students: Zholdubayev Diyar and Galymzhan Turemuratov.
+# Real IT Vacancy Experience Classification
 
-This is a synthetic-data experiment, continuing the immutable Midterm snapshot. Labels are derived from title and experience, not independently verified seniority. The CSV has 1,250 rows; the saved split has 1,000 train and 250 test IDs. All raw fields match the SQLite database. Scenario B excludes title/name, experience and experience_id and is the primary task. Scenario A is a separate shortcut-learning demonstration.
+The benchmark uses **real Djinni job postings** from the published recruitment corpus.
 
-## Verified results
-| model | cv_mean | cv_std | test_accuracy | test_macro_f1 | test_precision | test_recall |
-| --- | --- | --- | --- | --- | --- | --- |
-| Boosting | 0.8695 | 0.0119 | 0.8480 | 0.8478 | 0.8514 | 0.8472 |
-| Random Forest | 0.8521 | 0.0152 | 0.8400 | 0.8403 | 0.8394 | 0.8433 |
-| Logistic Regression | 0.8451 | 0.0228 | 0.8160 | 0.8172 | 0.8166 | 0.8205 |
-| MLP | 0.8048 | 0.0207 | 0.8080 | 0.8093 | 0.8094 | 0.8104 |
-| KNN | 0.7934 | 0.0190 | 0.8000 | 0.7988 | 0.8072 | 0.8028 |
-| Dummy | 0.1822 | 0.0007 | 0.3760 | 0.1822 | 0.1253 | 0.3333 |
+Source: [Djinni English job descriptions](https://huggingface.co/datasets/lang-uk/recruitment-dataset-job-descriptions-english), revision `b56a6054c10f1266a141e37c8df66c79ff2863af`. Authors: Nazarii Drushchak and Mariana Romanyshyn; [UNLP 2024 paper](https://aclanthology.org/2024.unlp-1.2/). The source card declares MIT; the upstream repository LICENSE is Apache-2.0. Both source notices are saved in `data/real/`. UUIDs are anonymized identifiers; vacancy texts are real records from the published corpus. No candidate CVs are used.
 
-Macro F1 is primary because it weights Junior, Middle and Senior equally and penalizes neglect of a class. Precision/recall are macro averages; CV spread is population standard deviation across five fixed stratified folds, not a confidence interval. Boosting is preferred by CV, before test predictions. Search CV scores have selection optimism; no nested-CV claim is made. The test set was already seen during Midterm and cannot be treated as a new external evaluation.
+## Current experiment
 
-## Run from the repository root
-Use Python 3.15 (verified here; Python 3.11+ may work but was not tested).
+- Downloaded source: 141,897 English records; 141,897 after filtering and exact description deduplication.
+- Uniform seed-42 sample: 12,000 records. Saved employer-grouped split: 9,906 train / 2,094 test.
+- Targets: employer `Exp Years`: no_exp/1y → 0–1 years; 2y/3y → 2–3 years; 5y → 5+ years. These are experience bands, not verified Junior/Middle/Senior labels.
+- Inputs: 29 numeric aggregate/technology features plus category and English level. No title, employer, ID or experience target enters the model. No structured salary is available.
+- Five employer-grouped training folds; preprocessing fitted inside each fold. Preferred model chosen before held-out predictions. No exact description or normalized employer overlap in train/test.
+
+| model | cv_mean | cv_std | test_macro_f1 | test_accuracy | errors |
+| --- | --- | --- | --- | --- | --- |
+| MLP | 0.4632 | 0.0152 | 0.4776 | 0.6208 | 794 |
+| Boosting | 0.4594 | 0.0058 | 0.4573 | 0.6294 | 776 |
+| Logistic Regression | 0.4418 | 0.0106 | 0.4578 | 0.6433 | 747 |
+| Random Forest | 0.4113 | 0.0167 | 0.4373 | 0.6318 | 771 |
+| KNN | 0.4018 | 0.0098 | 0.4278 | 0.6022 | 833 |
+| Dummy | 0.2527 | 0.0001 | 0.2506 | 0.6022 | 833 |
+
+## Run
 
 ```sh
-python -m venv .venv
-source .venv/bin/activate
 python -m pip install -r requirements.txt
-python -m src.run_experiments
-python -m pytest -q
-python -m src.build_deliverables
-python -m src.package_submission --group YOUR_GROUP
+python -m src.real_experiments
+python -m src.build_real_deliverables
 ```
 
-Open notebooks/Endterm_IT_Vacancy_Seniority.ipynb and restart/run all using this environment. The notebook imports and calls the same experiment functions directly; no collection or split generation occurs. The run performs 5-fold GridSearchCV for RF (16 settings), boosting (16) and MLP (6), plus fixed baselines. It takes a few minutes on a laptop. All model choices are fixed in src/run_experiments.py. Joblib files are for trusted local use and require the matching dependency versions. requirements-lock.txt captures the actual environment.
+Python 3.15 in the project's configured environment was used. Source Parquet must be at `data/real/djinni_jobs.parquet`; pinned download URL is in `data/real/README.md`. Results and fitted pipelines: `results/real/`. Benchmark rows and split IDs: `data/real/`. Runtime is several minutes; a uniform 12,000-row sample bounds compute. This is not a full-corpus estimate.
 
-## Submission map
-- data/raw/: unchanged original CSV, SQLite and saved IDs. Historical baseline reference is src/_midterm_reference.py; other Midterm sources are in the local ignored archive/midterm_originals.zip.
-- data/: original SHA-256 inventory and pointer to canonical data.
-- src/: loading, validation, fold-safe pipelines, experiments, documentation/deck and packaging.
-- notebooks/: executed Endterm notebook; original Midterm notebook is archived locally and is not part of the Git working tree.
-- results/tables/: CV searches, consolidated metrics, reports, predictions and actual errors.
-- results/figures/: confusion matrices, class F1, PCA, learning progress and model comparison.
-- results/models/: six fitted Scenario B pipelines.
-- presentation/: eight-slide PPTX, talk script, slide evidence mapping and previews if available.
-- CHANGELOG.md, CONCLUSIONS.md, DEFENSE_QA.md, CONTRIBUTIONS.md, RUBRIC_CHECKLIST.md.
+## Defense artifacts
 
-## Important limits
-The generator controls salary and skill distributions; description templates can include the title. Excluding direct columns does not remove every synthetic shortcut. Original skill matching uses substrings (Go can match Django) and is retained for exact continuity, explicitly disclosed. Currency is RUR throughout; no cross-currency salary comparison is attempted. None of these results establishes real-market validity.
+- [New editable presentation](presentation/IT_Vacancies.pptx): 16 slides, 8 native charts, editable architecture diagrams and confusion matrix.
+- [English oral script](presentation/SCRIPT.md).
+- [Russian explanation and English Q&A](DEFENSE_GUIDE.md).
+- [New conclusions](CONCLUSIONS.md), [migration changelog](CHANGELOG.md).
 
-No Git commit or push is performed. The archive uses group SE2418, inferred from the existing Midterm submission filename; confirm it before Moodle upload. Both partners must upload the same complete archive. An eight-page PDF was exported with Microsoft PowerPoint; see results/verification.md for verification details.
+Employer labels can be noisy; near-duplicates and employer aliases may survive. CV spread is not a confidence interval; selected CV scores are optimistic, and no significance claim is made.
+
+The executed real-data notebook is [Real_Djinni_Experience.ipynb](notebooks/Real_Djinni_Experience.ipynb). By default it inspects saved results and verifies all model predictions; set `REBUILD=True` to repeat training. A PDF copy is in `presentation/IT_Vacancies.pdf`.

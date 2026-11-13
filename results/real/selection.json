@@ -1,0 +1,85 @@
+{
+  "preferred_model": "MLP",
+  "criterion": "Highest mean 5-fold employer-grouped training CV macro F1",
+  "models": {
+    "Dummy": {
+      "cv_mean": 0.25272668193853043,
+      "cv_std": 7.647791727855999e-05,
+      "params": {},
+      "warnings": []
+    },
+    "Logistic Regression": {
+      "cv_mean": 0.4418475254282567,
+      "cv_std": 0.010618301831254262,
+      "params": {},
+      "warnings": []
+    },
+    "KNN": {
+      "cv_mean": 0.4017912457154627,
+      "cv_std": 0.009827578303306564,
+      "params": {},
+      "warnings": [
+        "Could not find the number of physical cores for the following reason:\ninvalid literal for int() with base 10: ''\nReturning the number of logical cores instead. You can silence this warning by setting LOKY_MAX_CPU_COUNT to the number of cores you want to use."
+      ]
+    },
+    "Random Forest": {
+      "cv_mean": 0.41130933651815144,
+      "cv_std": 0.016654552746257812,
+      "params": {
+        "model__max_depth": null,
+        "model__min_samples_leaf": 2
+      },
+      "warnings": []
+    },
+    "Boosting": {
+      "cv_mean": 0.4594254422968798,
+      "cv_std": 0.005753669248525307,
+      "params": {
+        "model__l2_regularization": 5,
+        "model__max_leaf_nodes": 15
+      },
+      "warnings": []
+    },
+    "MLP": {
+      "cv_mean": 0.463189815512634,
+      "cv_std": 0.015193838006803859,
+      "params": {
+        "model__alpha": 0.1
+      },
+      "warnings": [
+        "Stochastic Optimizer: Maximum iterations (180) reached and the optimization hasn't converged yet."
+      ]
+    }
+  },
+  "search_spaces": {
+    "Dummy": {},
+    "Logistic Regression": {},
+    "KNN": {},
+    "Random Forest": {
+      "model__max_depth": [
+        12,
+        null
+      ],
+      "model__min_samples_leaf": [
+        2,
+        8
+      ]
+    },
+    "Boosting": {
+      "model__max_leaf_nodes": [
+        7,
+        15
+      ],
+      "model__l2_regularization": [
+        1,
+        5
+      ]
+    },
+    "MLP": {
+      "model__alpha": [
+        0.1,
+        1.0
+      ]
+    }
+  }
+}

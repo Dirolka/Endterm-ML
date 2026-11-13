@@ -11,3 +11,6 @@ build/
 archive/
 presentation/previews/
 SUBMISSION_MANIFEST.json
+/Endterm_Zholdubayev_Diyar_*/
+/data/real/djinni_jobs.parquet
+/data/real/benchmark.csv

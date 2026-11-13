@@ -1,0 +1,82 @@
+[
+  {
+    "slide": 1,
+    "title": "IT Vacancy Experience Classification",
+    "evidence": "data/real/source_metadata.json; results/real/data_audit.json"
+  },
+  {
+    "slide": 2,
+    "title": "Dataset provenance",
+    "evidence": "data/real/SOURCE_CARD.md; data/real/LICENSE; results/real/data_audit.json"
+  },
+  {
+    "slide": 3,
+    "title": "Target: declared experience requirements",
+    "evidence": "data/real/benchmark.csv; src/real_experiments.py:MAPPING"
+  },
+  {
+    "slide": 4,
+    "title": "Vacancy categories",
+    "evidence": "data/real/benchmark.csv"
+  },
+  {
+    "slide": 5,
+    "title": "Declared English requirements",
+    "evidence": "data/real/benchmark.csv; src/real_experiments.py:preprocessing"
+  },
+  {
+    "slide": 6,
+    "title": "Employer-grouped evaluation architecture",
+    "evidence": "data/real/train_ids.csv; data/real/test_ids.csv; results/real/verification.json"
+  },
+  {
+    "slide": 7,
+    "title": "Preprocessing and feature architecture",
+    "evidence": "src/real_experiments.py:NUM,CAT,preprocessing"
+  },
+  {
+    "slide": 8,
+    "title": "Six-model comparison",
+    "evidence": "results/real/tables/model_comparison.csv; results/real/selection.json"
+  },
+  {
+    "slide": 9,
+    "title": "Ensemble architectures",
+    "evidence": "results/real/selection.json; src/real_experiments.py:specs"
+  },
+  {
+    "slide": 10,
+    "title": "MLP: confusion matrix",
+    "evidence": "results/real/tables/MLP_confusion.csv; results/real/tables/test_predictions.csv"
+  },
+  {
+    "slide": 11,
+    "title": "Performance by experience band",
+    "evidence": "results/real/tables/MLP_report.json"
+  },
+  {
+    "slide": 12,
+    "title": "MLP architecture",
+    "evidence": "results/real/mlp.json; results/real/selection.json"
+  },
+  {
+    "slide": 13,
+    "title": "MLP learning progress",
+    "evidence": "results/real/tables/mlp_learning.csv; results/real/mlp.json"
+  },
+  {
+    "slide": 14,
+    "title": "PCA projection of training vacancies",
+    "evidence": "results/real/tables/pca_projection.csv; results/real/pca.json"
+  },
+  {
+    "slide": 15,
+    "title": "PCA explained variance",
+    "evidence": "results/real/tables/pca_variance.csv; results/real/pca.json"
+  },
+  {
+    "slide": 16,
+    "title": "Conclusions and remaining limitations",
+    "evidence": "results/real/selection.json; results/real/data_audit.json; results/real/verification.json"
+  }
+]
