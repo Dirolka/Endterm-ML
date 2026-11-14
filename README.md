@@ -39,6 +39,8 @@ Open notebooks/Endterm_IT_Vacancy_Seniority.ipynb and restart/run all using this
 - results/tables/: CV searches, consolidated metrics, reports, predictions and actual errors.
 - results/figures/: confusion matrices, class F1, PCA, learning progress and model comparison.
 - results/models/: six fitted Scenario B pipelines.
+- presentation/: eight-slide PPTX, talk script, slide evidence mapping and previews if available.
+- CHANGELOG.md, CONCLUSIONS.md, DEFENSE_QA.md, CONTRIBUTIONS.md, RUBRIC_CHECKLIST.md.
 
 ## Important limits
 The generator controls salary and skill distributions; description templates can include the title. Excluding direct columns does not remove every synthetic shortcut. Original skill matching uses substrings (Go can match Django) and is retained for exact continuity, explicitly disclosed. Currency is RUR throughout; no cross-currency salary comparison is attempted. None of these results establishes real-market validity.
