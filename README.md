@@ -31,13 +31,4 @@ python -m src.build_real_deliverables
 
 Python 3.15 in the project's configured environment was used. Source Parquet must be at `data/real/djinni_jobs.parquet`; pinned download URL is in `data/real/README.md`. Results and fitted pipelines: `results/real/`. Benchmark rows and split IDs: `data/real/`. Runtime is several minutes; a uniform 12,000-row sample bounds compute. This is not a full-corpus estimate.
 
-## Defense artifacts
-
-- [New editable presentation](presentation/IT_Vacancies.pptx): 16 slides, 8 native charts, editable architecture diagrams and confusion matrix.
-- [English oral script](presentation/SCRIPT.md).
-- [Russian explanation and English Q&A](DEFENSE_GUIDE.md).
-- [New conclusions](CONCLUSIONS.md), [migration changelog](CHANGELOG.md).
-
-Employer labels can be noisy; near-duplicates and employer aliases may survive. CV spread is not a confidence interval; selected CV scores are optimistic, and no significance claim is made.
-
 The executed real-data notebook is [Real_Djinni_Experience.ipynb](notebooks/Real_Djinni_Experience.ipynb). By default it inspects saved results and verifies all model predictions; set `REBUILD=True` to repeat training. A PDF copy is in `presentation/IT_Vacancies.pdf`.
